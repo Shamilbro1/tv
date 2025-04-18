@@ -356,8 +356,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Мир (HD)
@@ -382,18 +380,12 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,РБК ТВ (Уфа)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,СТВ (Беларусь)
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,360/СИН (Сургут)
-http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,41 канал (Воронеж)
 http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Sochi Live HD
@@ -410,8 +402,6 @@ http://hls.atvmedia.ru/atv800.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Астрахань.Ru TV
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Астрахань.Ru TV HD
@@ -420,8 +410,6 @@ http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 http://live.gtrk.tv/720/b24-720.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Большое Радио [Мурманск] (Веб-камера)
-http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Волжский Плюс
 http://flussonic.powernet.com.ru:8080/volplus/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Губерния Самара
@@ -440,8 +428,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Мордовия 24
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Московский Образовательный ТВ HD
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Муниципальное Телевидение Волгограда
@@ -458,8 +444,6 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Радио Говорит Москва [RU] (Веб-камера)
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Радио Мелодия [RU]
-https://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Радио Страна FM ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Радио Хит (Орск)
@@ -474,8 +458,6 @@ http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Сургут 1
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Сургут 24
-http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Сургут 86
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,ТВК 24
@@ -486,8 +468,6 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,ТРК 555 (Алушта)
 http://trk555.tv:8888/live
-#EXTINF:-1 group-title="Россия Региональные" ,ТРК Евразия (Орск)
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Тверской Проспект-Регион
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,Телплюс ТВ (Астрахань)
@@ -500,24 +480,6 @@ http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Россия Региональные" ,RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Channel V6
-https://media.ksl.com/watchit/vod/41534/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Nothing Scripted
-http://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,The Beach Show
-http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,WABI 5 - Bangor - Maine
-https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
-#EXTINF:-1 group-title="Россия Региональные" ,Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,UCTV - University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 group-title="Россия Региональные" ,WHOH TV - Hastings-On-Hudson - NY
-http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 
 
 
@@ -527,7 +489,7 @@ http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.
 
 #EXTINF:-1 group-title="Россия(VPN)",Первый канал HD
 http://82.215.111.227/1214/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Первый каналь
+#EXTINF:-1 group-title="Россия(VPN)",Первый канал
 http://82.215.111.227/1019/index.m3u8
 #EXTINF:-1 group-title="Россия(VPN)",Россия(VPN) 1
 http://82.215.111.227/1020/index.m3u8
@@ -723,34 +685,6 @@ http://iptv.prosto.tv:7000/ch72/video.m3u8
 http://iptv.prosto.tv:7000/ch73/video.m3u8
 #EXTINF:-1 group-title="Россия(VPN)",Gulli
 http://iptv.prosto.tv:7000/ch74/video.m3u8
-
-
-
-#EXTINF:-1 group-title="Россия(VPN)",Setanta Sports 1
-http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Setanta Sports 2
-http://82.215.111.227/1264/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Trace Sports
-http://82.215.111.227/1274/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Fuel TV
-http://82.215.111.227/1280/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Матч! Планета
-http://82.215.111.227/1049/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",MMA-TV
-http://82.215.111.227/1226/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",viju Sport
-http://82.215.111.227/1229/index.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",XPORT
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",XSPORT+
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Cars & Stars TV
-http://iptv.prosto.tv:7000/ch111/video.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",FightBOX
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 group-title="Россия(VPN)",Fast & FunBOX HD
-http://iptv.prosto.tv:7000/ch120/video.m3u8
-
 #EXTINF:-1 group-title="Россия(VPN)",M1
 http://iptv.prosto.tv:7000/ch122/video.m3u8
 #EXTINF:-1 group-title="Россия(VPN)",M2
@@ -870,21 +804,12 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия 24.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Россия 24 +6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Рен ТВ HD.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Рен ТВ International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/T2/CH_RENTV_INT.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СПАС.png" group-title="RUSSIA (тест)" tvg-id="12" catchup="default" tvg-rec="48",СПАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/T2/CH_SPAS.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС HD.png" group-title="RUSSIA (тест)" tvg-id="13" catchup="default" tvg-rec="48",СТС HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/T2/CH_STSHD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница! +4.png" group-title="RUSSIA (тест)" tvg-id="3017" catchup="default" tvg-rec="48",Пятница! +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Пятница! International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/T2/CH_FRIDAY_INT.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда.png" group-title="RUSSIA (тест)" tvg-id="17" catchup="default" tvg-rec="48",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/T2/CH_ZVEZDA.m3u8
@@ -927,9 +852,6 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Россия Культура +2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Россия Культура +2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_2.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",Россия Культура +4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIAKHD_4.m3u8
@@ -978,9 +900,6 @@ http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Звезда Плюс HD.png" group-title="RUSSIA (тест)" tvg-id="1331" catchup="default" tvg-rec="48",Звезда Плюс HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ОТР.png" group-title="RUSSIA (тест)" tvg-id="9" catchup="default" tvg-rec="48",ОТР
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/RT.png" group-title="RUSSIA (тест)" tvg-id="311" catchup="default" tvg-rec="48",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/RT_HD/tracks-v1a1/mono.m3u8?token=default
@@ -1010,12 +929,6 @@ http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/РЖД ТВ.png" group-title="RUSSIA (тест)" tvg-id="962" catchup="default" tvg-rec="48",РЖД ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_RZHDTVHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вместе-РФ.png" group-title="RUSSIA (тест)" tvg-id="282" catchup="default" tvg-rec="48",Вместе-РФ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/CNN CA.png" group-title="RUSSIA (тест)" tvg-id="3641" catchup="default" tvg-rec="48",CNN CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_CNNHD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Большая Азия HD.png" group-title="RUSSIA (тест)" tvg-id="323" catchup="default" tvg-rec="48",Большая Азия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_BAZIYAHD720.m3u8
@@ -1046,8 +959,6 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Тайны галактики
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
-#EXTINF:-1 group-title="RUSSIA (тест)",365 дней
-http://65.21.85.175:8000/play/a00e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Amedia Premium
 http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Amedia 1
@@ -1096,12 +1007,8 @@ http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a00v/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Мужское кино
 http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="RUSSIA (тест)",Русский Бестселлер
-http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Русский детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
-#EXTINF:-1 group-title="RUSSIA (тест)",Русский роман
-http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",RU.TV
 http://65.21.85.175:8000/play/a00q/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",МИР 24
@@ -1120,28 +1027,16 @@ http://65.21.85.175:8000/play/a01l/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01r/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",ДЕТСКИЙ МИР
 http://65.21.85.175:8000/play/a00j/index.m3u8?token=livetv
-#EXTINF:-1 group-title="RUSSIA (тест)",МИР БАСКЕТБОЛА
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="RUSSIA (тест)",Первый канал Евразия
 http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Наше новое кино
-http://sc.id-tv.kz/Nnk_hd.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Индийское кино
-http://sc.id-tv.kz/Indiiskoe_kino.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",360° International
-http://sc.id-tv.kz/360.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Astana
 http://sc.id-tv.kz/Astana.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Atameken Business
 http://sc.id-tv.kz/Atameken.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Caspian News
-http://sc.id-tv.kz/CaspianNews.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",DW Europe
-http://sc.id-tv.kz/DW.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",HIT TV
 http://sc.id-tv.kz/HitTV.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Хабар
@@ -1150,8 +1045,6 @@ http://sc.id-tv.kz/Khabar.m3u8
 http://sc.id-tv.kz/Khabar_24.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Мир 24
 http://sc.id-tv.kz/Mir24.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",НСТ
-http://sc.id-tv.kz/NSTV.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",КТК
 http://sc.id-tv.kz/KTK_34_35.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Седьмой канал
@@ -1160,18 +1053,12 @@ http://sc.id-tv.kz/7_kanal_34_35.m3u8
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",El Arna
 http://sc.id-tv.kz/ElArna_34_35.m3u8
-#EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="RUSSIA (тест)",OnlineTV
-http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Amedia Premium HD
 http://195.18.23.20:8000/play/3/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Известия
 http://195.18.23.20:8000/play/51/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Курай ТВ
 http://195.18.23.20:8000/play/207/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Матч Премьер
-http://195.18.23.20:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Матч HD
-https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Матур ТВ
 http://195.18.23.20:8000/play/6/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Салям
@@ -1182,8 +1069,6 @@ http://195.18.23.20:8000/play/10/index.m3u8
 http://195.18.23.20:8000/play/1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Тамыр
 http://195.18.23.20:8000/play/2/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Сапфир
-https://132544.edgevideo.ru/streams/132544_858950/1325441080/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Видеокассета VHS
 https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Киномир видеокассеты
@@ -1192,38 +1077,20 @@ https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Viva HD
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",TVMChannel
-http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",8 канал
 http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Калейдоскоп ТВ
-http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Крик-ТВ
 http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Просвещение
 http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Вместе-РФ
-http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Arirang Korea
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",ТНТ MUSIC
-http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Ю
-http://cdn-01.bonus-tv.ru/u/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",E TV
-http://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",Russia Today
-http://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",RT Doc
-http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",9 ВОЛНА
 http://185.46.48.18:80/asvtv/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Cinema
 http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест)",Осетия Иристон
 http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест)",МАТЧ ТВ
-http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="RUSSIA (тест)",ТВОЕ ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png" group-title="RUSSIA (тест)",ТВОЕ ТВ HD - ЮМОР
@@ -1234,8 +1101,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png" group-title="RUSSIA (тест)",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-
-
 #EXTINF:-1 group-title="RUSSIA (тест),360 HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),360 Новости HD
@@ -1270,8 +1135,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Мир (HD)
@@ -1296,18 +1159,12 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),РБК ТВ (Уфа)
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),СТВ (Беларусь)
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),360/СИН (Сургут)
-http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),41 канал (Воронеж)
 http://4kfp3cm483g.a.trbcdn.net/livemaster/rxu69_live-d7gbc25zefk.smil/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Sochi Live HD
@@ -1324,8 +1181,6 @@ http://hls.atvmedia.ru/atv800.m3u8
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Астрахань 24 HD
 http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Астрахань.Ru TV
 http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Астрахань.Ru TV HD
@@ -1334,8 +1189,6 @@ http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 http://live.gtrk.tv/720/b24-720.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Белгород 24
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Большое Радио [Мурманск] (Веб-камера)
-http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Волжский Плюс
 http://flussonic.powernet.com.ru:8080/volplus/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Губерния Самара
@@ -1354,8 +1207,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Мордовия 24
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Московский Образовательный ТВ HD
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Муниципальное Телевидение Волгограда
@@ -1372,8 +1223,6 @@ http://5.164.24.83/tula/1tv_low/index.m3u8
 http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Радио Говорит Москва [RU] (Веб-камера)
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Радио Мелодия [RU]
-https://live-mediaaliance2.cdnvideo.ru/mediaaliance2/mediaaliance2/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Радио Страна FM ТВ
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Радио Хит (Орск)
@@ -1388,8 +1237,6 @@ http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Сургут 1
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Сургут 24
-http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Сургут 86
 https://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),ТВК 24
@@ -1400,8 +1247,6 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),ТРК 555 (Алушта)
 http://trk555.tv:8888/live
-#EXTINF:-1 group-title="RUSSIA (тест),ТРК Евразия (Орск)
-http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Тверской Проспект-Регион
 http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),Телплюс ТВ (Астрахань)
@@ -1414,24 +1259,6 @@ http://teledifusion.tv:1935/cordoba/cordobalive/chunklist_w1004763452.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="RUSSIA (тест),RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Channel V6
-https://media.ksl.com/watchit/vod/41534/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),KMTV Omaha
-https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Nothing Scripted
-http://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),The Beach Show
-http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),WABI 5 - Bangor - Maine
-https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
-#EXTINF:-1 group-title="RUSSIA (тест),Darcizzle Offshore
-http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),UCTV - University of California
-https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIA (тест),WHOH TV - Hastings-On-Hudson - NY
-http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 
 
 
@@ -1446,6 +1273,69 @@ http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.
 
 
 
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27251
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ RU
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27250
+#EXTINF:-1,ПЯТНИЦА
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27198
+#EXTINF:-1,ПЯТЫЙ КАНАЛ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27226
+#EXTINF:-1,РБК
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27224
+#EXTINF:-1,РЕН ТВ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27225
+#EXTINF:-1,РОССИЯ HD
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27254
+#EXTINF:-1,РОССИЯ РТР
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27252
+#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27222
+#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27221
+#EXTINF:-1,Россия 1
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4144
+#EXTINF:-1,Россия 24
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4143
+#EXTINF:-1,САНКТ ПЕТЕРБУРГ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27218
+#EXTINF:-1,СОВЕРШЕННО СЕКРЕТНО
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27197
+#EXTINF:-1,СТС
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27217
+#EXTINF:-1,ТВЦ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27215
+#EXTINF:-1,BCU Action FHD
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27195
+#EXTINF:-1,ТНТ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27246
+#EXTINF:-1,ЧЕ
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27194
+#EXTINF:-1,ШАНСОН
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27213
+#EXTINF:-1,Ю
+#EXTGRP:Россия 2 (тест)
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27212
 #EXTINF:-1,24 Doc HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4766
@@ -1500,9 +1390,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4807
 #EXTINF:-1,DA VINCI LEARNING RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27158
-#EXTINF:-1,DANGE TV RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27151
 #EXTINF:-1,DISCOVERY CHANNEL HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27174
@@ -1515,9 +1402,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27171
 #EXTINF:-1,DISCOVERY ID XTRA RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27169
-#EXTINF:-1,DISCOVERY SCIENCE HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27172
 #EXTINF:-1,DISNEY CHANNEL RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27186
@@ -1545,27 +1429,9 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4805
 #EXTINF:-1,EUREKA HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27208
-#EXTINF:-1,EURONEWS RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27143
 #EXTINF:-1,EUROPA Plus RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27207
-#EXTINF:-1,EUROSPORT 1 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27295
-#EXTINF:-1,EUROSPORT 2 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27294
-#EXTINF:-1,EUROSPORT HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27296
-#EXTINF:-1,English Club FHD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4817
-#EXTINF:-1,Extreme Sports RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4770
 #EXTINF:-1,FASHION TV RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27145
@@ -1593,12 +1459,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/14228
 #EXTINF:-1,Food Network FHD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4788
-#EXTINF:-1,Futbol 1 FHD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4787
-#EXTINF:-1,Futbol 2 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4786
 #EXTINF:-1,GULLI RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27185
@@ -1608,9 +1468,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27237
 #EXTINF:-1,HISTORY RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27162
-#EXTINF:-1,ID Extra RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4827
 #EXTINF:-1,ID Fashion FHD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4154
@@ -1632,39 +1489,15 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4796
 #EXTINF:-1,Kinomiks RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4808
-#EXTINF:-1,Kinopokaz 1 FHD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4801
 #EXTINF:-1,Kinopokaz 2 FHD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4804
 #EXTINF:-1,Kinosem'ja RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4838
-#EXTINF:-1,MAtch! Boec RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4821
-#EXTINF:-1,MTV LIVE HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27154
 #EXTINF:-1,MTV Live RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27155
-#EXTINF:-1,Match! Arena HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4819
-#EXTINF:-1,Match! Igra RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4823
-#EXTINF:-1,Match! Nash Sport RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4773
-#EXTINF:-1,Match! Planeta RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4774
-#EXTINF:-1,Match! RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4772
 #EXTINF:-1,Movie Premieres HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4831
@@ -1674,9 +1507,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4795
 #EXTINF:-1,NAT GEO WILD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27175
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27177
 #EXTINF:-1,NATIONAL GEOGRAPHIC RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27176
@@ -1686,18 +1516,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27183
 #EXTINF:-1,NICKELODEON HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4800
-#EXTINF:-1,NTV Football 1 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3982
-#EXTINF:-1,NTV Football 2 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3981
-#EXTINF:-1,NTV Football 3 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3980
-#EXTINF:-1,Nash Futbol RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4776
 #EXTINF:-1,Nashe Noveo Kino RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4811
@@ -1746,12 +1564,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4781
 #EXTINF:-1,Russkij Roman RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4816
-#EXTINF:-1,SETANTA EURASIA HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27298
-#EXTINF:-1,SETANTA SPORT RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27297
 #EXTINF:-1,SONY TURBO RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27255
@@ -1761,52 +1573,43 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27256
 #EXTINF:-1,STB RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4790
-#EXTINF:-1,Setanta Sport HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4792
-#EXTINF:-1,Setanta Sport+ HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4830
 #EXTINF:-1,Shanson TV RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4825
 #EXTINF:-1,Sony Sci-Fi RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4793
-#EXTINF:-1,THT RU
+#EXTINF:-1,THT
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/13972
 #EXTINF:-1,TLC HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27166
-#EXTINF:-1,TLC RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27165
-#EXTINF:-1,TRAVEL CHANNEL FHD RU
+#EXTINF:-1,TRAVEL CHANNEL FHD
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27163
-#EXTINF:-1,TV 1000 ACTION EAST RU
+#EXTINF:-1,TV 1000 ACTION EAST
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27287
-#EXTINF:-1,TV 1000 EAST RU
+#EXTINF:-1,TV 1000 EAST
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27286
-#EXTINF:-1,TV 1000 РУССКОЕ КИНО RU
+#EXTINF:-1,TV 1000 РУССКОЕ КИНО
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27285
 #EXTINF:-1,TV 3 RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4771
-#EXTINF:-1,TV XXI (TV21) RU
+#EXTINF:-1,TV XXI
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27206
-#EXTINF:-1,TV-XXI RU
+#EXTINF:-1,TV-XXI
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4813
-#EXTINF:-1,TV1000 Action HD RU
+#EXTINF:-1,TV1000 Action HD
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4832
-#EXTINF:-1,TV1000 Action RU
+#EXTINF:-1,TV1000 Action
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4148
 #EXTINF:-1,TV1000 COMEDY HD RU
@@ -1827,36 +1630,21 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4836
 #EXTINF:-1,TV1000 PREMIUM HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27288
-#EXTINF:-1,TV1000 Premium RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4835
 #EXTINF:-1,TV1000 RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4149
 #EXTINF:-1,TV1000 Ruskoe Kino RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4833
-#EXTINF:-1,TV1000 русское кино RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4147
-#EXTINF:-1,TV3 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4841
 #EXTINF:-1,TVC RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4791
-#EXTINF:-1,TeleKanal KHL HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4789
 #EXTINF:-1,TiJi RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27187
 #EXTINF:-1,Travel Channel HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4814
-#EXTINF:-1,VIASAT HISTORY FHD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27182
 #EXTINF:-1,VIASAT SPORT EAST RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27299
@@ -1905,12 +1693,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27283
 #EXTINF:-1,ДОМАШНИЙ RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27205
-#EXTINF:-1,Дом кино Home Cinema RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4826
-#EXTINF:-1,ЕВРОКИНО RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27204
 #EXTINF:-1,ЗВЕЗДА RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27235
@@ -1920,9 +1702,6 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27233
 #EXTINF:-1,КИНОCВИДАНИЕ RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27280
-#EXTINF:-1,КИНОКОМЕДИЯ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27279
 #EXTINF:-1,КИНОМИКС RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27272
@@ -1947,76 +1726,30 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27203
 #EXTINF:-1,КУХНЯ ТВ RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27202
-#EXTINF:-1,МАТЧ! АРЕНА HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27310
-#EXTINF:-1,МАТЧ! АРЕНА RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27309
-#EXTINF:-1,МАТЧ! БОЕЦ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27308
-#EXTINF:-1,МАТЧ! ИГРА RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27307
-#EXTINF:-1,МАТЧ! НАШ СПОРТ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27306
-#EXTINF:-1,МАТЧ! ТВ HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27312
-#EXTINF:-1,МАТЧ! ТВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27311
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27316
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27314
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27313
-#EXTINF:-1,МИР 24 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27242
 #EXTINF:-1,МИР HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27244
 #EXTINF:-1,МИР RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27243
-#EXTINF:-1,МИР СЕРИАЛА RU
-http://rt.dmtn.tv:8080/GEN-broLINE/bp5XCWP/116100
 #EXTINF:-1,МОСКВА 24 RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27201
-#EXTINF:-1,МОЯ ПЛАНЕТА RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27232
-#EXTINF:-1,МУЖСКОЕ КИНО RU
-http://188.35.9.11:2022
 #EXTINF:-1,МУЗ ТВ RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27149
 #EXTINF:-1,МУЗЫКА ПЕРВОГО RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27148
-#EXTINF:-1,МУЛЬТ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27188
-#EXTINF:-1,Матч! Футбол 1 RU
+#EXTINF:-1,РОССИЯ 1 HD
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27315
-#EXTINF:-1,Мир World RU
+#EXTINF:-1,Мир
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4829
-#EXTINF:-1,НАШ ФУТБОЛ HD RU
+#EXTINF:-1,Наше новое Кино
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27304
-#EXTINF:-1,НАШЕ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27229
 #EXTINF:-1,НАШЕ НОВОЕ КИНО RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27271
@@ -2026,93 +1759,10 @@ http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27269
 #EXTINF:-1,НТВ HD RU
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4145
-#EXTINF:-1,НТВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27247
-#EXTINF:-1,ОХОТА И РЫБАЛКА RU
+#EXTINF:-1,BollywooD HD
 #EXTGRP:Россия 2 (тест)
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27227
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27251
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27250
-#EXTINF:-1,ПЯТНИЦА RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27198
-#EXTINF:-1,ПЯТЫЙ КАНАЛ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27226
-#EXTINF:-1,РБК RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27224
-#EXTINF:-1,РЕН ТВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27225
-#EXTINF:-1,РОССИЯ HD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27254
-#EXTINF:-1,РОССИЯ К RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27253
-#EXTINF:-1,РОССИЯ РТР RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27252
-#EXTINF:-1,РУССКИЙ БЕСТСЕЛЛЕР RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27223
-#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27222
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27221
-#EXTINF:-1,РУССКИЙ РОМАН RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27220
-#EXTINF:-1,РУССКИЙ ЭКСТРИМ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27219
-#EXTINF:-1,Россия 1 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4144
-#EXTINF:-1,Россия 24 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4143
-#EXTINF:-1,САНКТ ПЕТЕРБУРГ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27218
-#EXTINF:-1,СОВЕРШЕННО СЕКРЕТНО RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27197
-#EXTINF:-1,СТС RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27217
-#EXTINF:-1,ТВ3 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27216
-#EXTINF:-1,ТВЦ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27215
-#EXTINF:-1,BCU Action FHD RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27195
-#EXTINF:-1,ТНТ 4 RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27245
-#EXTINF:-1,ТНТ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27246
-#EXTINF:-1,ЧЕ (ПЕРЕЦ) RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27194
-#EXTINF:-1,ШАНСОН ТВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27213
-#EXTINF:-1,Ю ТВ RU
-#EXTGRP:Россия 2 (тест)
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27212
+
 
 
 
@@ -2270,8 +1920,6 @@ http://178.163.4.251:4022/udp/234.0.0.199:2000
 http://178.163.4.251:4022/udp/234.0.0.10:2000
 #EXTINF:-1 group-title="Россия 3 (тест)" tvg-logo="http://infolada.ru/iptv/icons/Vremja.png",Время
 http://178.163.4.251:4022/udp/234.0.0.225:2000
-#EXTINF:-1 group-title="Россия 3 (тест)" tvg-logo="http://infolada.ru/iptv/icons/Zagorodnyj.png",Загородный
-http://178.163.4.251:4022/udp/234.0.0.106:2000
 #EXTINF:-1 group-title="Россия 3 (тест)" tvg-logo="http://infolada.ru/iptv/icons/Zdorovoe_TV.png",Здоровое ТВ
 http://178.163.4.251:4022/udp/234.0.0.221:2000
 #EXTINF:-1 group-title="Россия 3 (тест)" tvg-logo="http://infolada.ru/iptv/icons/ntv-hit.png",НТВ-Хит
@@ -2290,311 +1938,6 @@ http://178.163.4.251:4022/udp/234.0.0.117:2000
 
 
 
-
-
-
-#EXTINF:0 group-title="Россия 3 (тест)",RU: 2X2
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271782
-#EXTINF:0 group-title="Россия 3 (тест)",RU: 8 TV RU
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271783
-#EXTINF:0 group-title="Россия 3 (тест)",RU: 365 Dnei
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271784
-#EXTINF:0 group-title="Россия 3 (тест)",RU: AMEDIA HOME OF HBO HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271785
-#EXTINF:0 group-title="Россия 3 (тест)",RU: AMEDIA PREMIUM HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271786
-#EXTINF:0 group-title="Россия 3 (тест)",RU: AMEDIA 1
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271787
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ACB TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271788
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ANIMAL PLANET HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271789
-#EXTINF:0 group-title="Россия 3 (тест)",RU: CGTN RU
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271793
-#EXTINF:0 group-title="Россия 3 (тест)",RU: CTC Love
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271794
-#EXTINF:0 group-title="Россия 3 (тест)",RU: DISCOVERY CHANNEL HD+
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271796
-#EXTINF:0 group-title="Россия 3 (тест)",RU: DOM KINO PREMIUM HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271798
-#EXTINF:0 group-title="Россия 3 (тест)",RU: DISNEY CHANNEL
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271799
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Dom Kino
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271800
-#EXTINF:0 group-title="Россия 3 (тест)",RU: DTX HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271801
-#EXTINF:0 group-title="Россия 3 (тест)",RU: EURONEWS
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271802
-#EXTINF:0 group-title="Россия 3 (тест)",RU: EUROSPORT 2 HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271804
-#EXTINF:0 group-title="Россия 3 (тест)",RU: EUREKA HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271806
-#EXTINF:0 group-title="Россия 3 (тест)",RU: FASHION TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271807
-#EXTINF:0 group-title="Россия 3 (тест)",RU: FRANCE 24 ENGLISH HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271809
-#EXTINF:0 group-title="Россия 3 (тест)",RU: FOX LIFE HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271811
-#EXTINF:0 group-title="Россия 3 (тест)",RU: НТВ HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271813
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Horse World HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271814
-#EXTINF:0 group-title="Россия 3 (тест)",RU: HD ONE Music
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271815
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Illusion
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271816
-#EXTINF:0 group-title="Россия 3 (тест)",RU: JIMJAM
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271817
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Kino Mix HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271818
-#EXTINF:0 group-title="Россия 3 (тест)",RU: KOMEDIYNOE HD+
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271819
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Kinosvidanie
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271820
-#EXTINF:0 group-title="Россия 3 (тест)",RU: KINO HIT HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271821
-#EXTINF:0 group-title="Россия 3 (тест)",RU: MATCH ARENA HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271823
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Match Futbol 1 HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271824
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Match Planet
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271825
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Match IGRA HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271826
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Match Football 3
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271827
-#EXTINF:0 group-title="Россия 3 (тест)",RU: MUSICBOX HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271828
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ПЕРВЫЙ КАНАЛ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271832
-#EXTINF:0 group-title="Россия 3 (тест)",RU: PERVYJ KANAL HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271835
-#EXTINF:0 group-title="Россия 3 (тест)",RU: РОССИЯ 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271836
-#EXTINF:0 group-title="Россия 3 (тест)",RU: PARAMOUNT COMEDY
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271838
-#EXTINF:0 group-title="Россия 3 (тест)",RU: REN TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271839
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RUSSKIY DETEKTIV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271841
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Russia 24 HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271843
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RTG HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271844
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ROSSIYA24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271845
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RTR Planeta
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271846
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RBCTV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271847
-#EXTINF:0 group-title="Россия 3 (тест)",RU: STS - CTC HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271848
-#EXTINF:0 group-title="Россия 3 (тест)",RU: THT
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271852
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TV1000 Ruskoe Kino
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271854
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TNT Comedy
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271855
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TV 1000 ACTION EAST
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271856
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TV XXI (TV21)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271857
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TV 8 Russia
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271858
-#EXTINF:0 group-title="Россия 3 (тест)",RU: VIASAT HISTORY
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271859
-#EXTINF:0 group-title="Россия 3 (тест)",RU: VIASAT NATURE
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271860
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ШАНСОН ТВ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271861
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ZVEZDA
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271862
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Arkhyz 24 SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271864
-#EXTINF:0 group-title="Россия 3 (тест)",RU: C1 (Surgut)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271865
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Khuzur TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271866
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ACB TV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271867
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Duma TV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271869
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Education
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271870
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Firebird
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271871
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Horse World
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271872
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ishmael TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271873
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Mezh.Net (Mezhdurechensk)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271874
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Millet
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271875
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Mordovia 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271877
-#EXTINF:0 group-title="Россия 3 (тест)",RU: MTV (Volgograd)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271878
-#EXTINF:0 group-title="Россия 3 (тест)",RU: North TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271879
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Radio Hit TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271881
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Radio Says Moscow
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271882
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TCR (Ryazan)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271883
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ternopil 1
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271884
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TKR Ryazan
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271886
-#EXTINF:0 group-title="Россия 3 (тест)",RU: World 24 SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271890
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Eurasia
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271892
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Millet HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271893
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Moose Union
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271894
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Eurasia SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271896
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Shchelkovo TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271900
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TBN
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271901
-#EXTINF:0 group-title="Россия 3 (тест)",RU: МТВ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271903
-#EXTINF:0 group-title="Россия 3 (тест)",RU: 8 Канал HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271904
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Air TV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271905
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Arkhyz 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271906
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Bambarbia TV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271907
-#EXTINF:0 group-title="Россия 3 (тест)",RU: CBS SPORT HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271910
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Country FM
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271911
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Echo TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271912
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Eurasia HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271913
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Home cinema
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271914
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Horse World SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271916
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Kaleidoscope TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271917
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Kronehit HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271918
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Kronehit TV HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271919
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Nano TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271926
-#EXTINF:0 group-title="Россия 3 (тест)",RU: NEW CHANNEL
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271927
-#EXTINF:0 group-title="Россия 3 (тест)",RU:  Current Time TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271928
-#EXTINF:0 group-title="Россия 3 (тест)",RU: New world SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271929
-#EXTINF:0 group-title="Россия 3 (тест)",RU: NTV + Sports
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271930
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ocko
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271931
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Province
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271933
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Radio chanson
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271935
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Radio Chanson HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271936
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Radio Chanson SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271937
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RBC
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271938
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RBC HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271939
-#EXTINF:0 group-title="Россия 3 (тест)",RU: RBC TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271940
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Scream TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271943
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Sport
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271944
-#EXTINF:0 group-title="Россия 3 (тест)",RU: STRK HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271946
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Three angels
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271947
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Three Angels HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271948
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Tivic HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271949
-#EXTINF:0 group-title="Россия 3 (тест)",RU: TnBnkom FHD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271950
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ULTO
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271954
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Union
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271955
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Union HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271956
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Vetta 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271957
-#EXTINF:0 group-title="Россия 3 (тест)",RU: World 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271958
-#EXTINF:0 group-title="Россия 3 (тест)",RU: World HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271959
-#EXTINF:0 group-title="Россия 3 (тест)",RU: World SD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271960
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Астрахань.Ru TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271961
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ветта 24
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271962
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Городской телеканал
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271963
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Евразия
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271967
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Каббала ТВ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271968
-#EXTINF:0 group-title="Россия 3 (тест)",RU: НВК Саха
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271972
-#EXTINF:0 group-title="Россия 3 (тест)",RU: НТМ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271973
-#EXTINF:0 group-title="Россия 3 (тест)",RU: НТМ HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271974
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Радио Говорит Москва
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271976
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Радио Шансон
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271977
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ратник
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271978
-#EXTINF:0 group-title="Россия 3 (тест)",RU: С1 (Сургут)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271979
-#EXTINF:0 group-title="Россия 3 (тест)",RU: CTC HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271980
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Север ТВ
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271981
-#EXTINF:0 group-title="Россия 3 (тест)",RU: СТРК HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271983
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ТВ7
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271984
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Тивиком HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271985
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Between .Net
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271986
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Bollywood HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271987
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Luxury TV
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271989
-#EXTINF:0 group-title="Россия 3 (тест)",RU: News
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271990
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Ternopil1 HD
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271991
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Warrior
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271992
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Известия
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271994
-#EXTINF:0 group-title="Россия 3 (тест)",RU: Курай (Уфа)
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271995
-#EXTINF:0 group-title="Россия 3 (тест)",RU: ТРО
-http://rehamshop.net:/Cenk-Akbulak/TD0kIlUpNwozW1/271997
 
 
 
@@ -2620,12 +1963,6 @@ http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="Развлекательные" tvg-id="130" catchup="default" tvg-rec="48",НТВ Хит
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Перец International.png" group-title="Развлекательные" tvg-id="1097" catchup="default" tvg-rec="48",Перец International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
-#EXTINF:-1 group-title="Развлекательные" catchup="default" tvg-rec="48",Тонус ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_TONUSTV.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/AFV Family.png" group-title="Развлекательные" catchup="default" tvg-rec="48",AFV Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
@@ -2635,9 +1972,6 @@ http://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Перец.png" group-title="Развлекательные" tvg-id="5651" catchup="default" tvg-rec="48",Перец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://cdn3.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Тео-ТВ.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Тео-ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Ювелирочка.png" group-title="Развлекательные" tvg-id="1579" catchup="default" tvg-rec="48",Ювелирочка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
@@ -2659,36 +1993,21 @@ http://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/7 TV.png" group-title="Развлекательные" catchup="default" tvg-rec="48",7 TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://v4.proofix.ru:80/7tv-live/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/TVM Channel.png" group-title="Развлекательные" catchup="default" tvg-rec="48",TVM Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://cdn-01.bonus-tv.ru/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Девятка.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Девятка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://devyatka.iptv2022.com/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний.png" group-title="Развлекательные" tvg-id="14" catchup="default" tvg-rec="48",Домашний
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Домашний Int.png" group-title="Развлекательные" catchup="default" tvg-rec="48",Домашний Int
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://178.124.152.238:8088/dom
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Зал суда.png" group-title="Развлекательные" tvg-id="3550" catchup="default" tvg-rec="48",Зал суда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://95.156.76.230:33001/udp/230.4.34.6:1234
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Калейдоскоп ТВ.png" group-title="Развлекательные" tvg-id="116" catchup="default" tvg-rec="48",Калейдоскоп ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Пятница!.png" group-title="Развлекательные" tvg-id="16" catchup="default" tvg-rec="48",Пятница!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://130.193.73.10:8937/play/a018
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Сарафан.png" group-title="Развлекательные" tvg-id="179" catchup="default" tvg-rec="48",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://31.148.48.15/Sarafan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТРК.png" group-title="Развлекательные" tvg-id="244" catchup="default" tvg-rec="48",СТРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС.png" group-title="Развлекательные" tvg-id="13" catchup="default" tvg-rec="48",СТС
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/СТС Love.png" group-title="Развлекательные" tvg-id="177" catchup="default" tvg-rec="48",СТС Love
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://178.212.71.253:8002/play/a00r/index.m3u8
@@ -2761,42 +2080,16 @@ http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/История.png" group-title="Познавательные" tvg-id="334" catchup="default" tvg-rec="48",История
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета.png" group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_MOYAPLANETA.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png" group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD720.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Моя Планета HD.png" group-title="Познавательные" tvg-id="339" catchup="default" tvg-rec="48",Моя Планета HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/National Geographic.png" group-title="Познавательные" tvg-id="309" catchup="default" tvg-rec="48",National Geographic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHIC.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nat Geo Wild.png" group-title="Познавательные" tvg-id="307" catchup="default" tvg-rec="48",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet HD.png" group-title="Познавательные" tvg-id="295" catchup="default" tvg-rec="48",Animal Planet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Discovery Channel HD.png" group-title="Познавательные" tvg-id="364" catchup="default" tvg-rec="48",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Investigation Discovery HD.png" group-title="Познавательные" tvg-id="2507" catchup="default" tvg-rec="48",Investigation Discovery HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://dmi3y-tv.ru/hls/CH_IDHD.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/МузСоюз.png" group-title="Познавательные" tvg-id="959" catchup="default" tvg-rec="48",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Вопросы и ответы.png" group-title="Познавательные" tvg-id="996" catchup="default" tvg-rec="48",Вопросы и ответы
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ТСВ.png" group-title="Познавательные" catchup="default" tvg-rec="48",ТСВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://iptv-hls.idc.md:8200/hls/2/live1.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Wellbeing TV.png" group-title="Познавательные" catchup="default" tvg-rec="48",Wellbeing TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
@@ -2839,9 +2132,6 @@ http://tv.streams.baikal-telecom.net:8080/RT_DOC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Animal Planet.png" group-title="Познавательные" tvg-id="295" catchup="default" tvg-rec="48",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Galaxy TV.png" group-title="Познавательные" tvg-id="366" catchup="default" tvg-rec="48",Galaxy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://31.173.165.29:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Nano.png" group-title="Познавательные" tvg-id="341" catchup="default" tvg-rec="48",Nano
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://194.143.148.28:8080/NanoTV/tracks-v1a1/mono.m3u8
@@ -2857,9 +2147,6 @@ http://130.193.73.10:8937/play/a01g
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/UNIVER.png" group-title="Познавательные" catchup="default" tvg-rec="48",UNIVER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Viju HISTORY.png" group-title="Познавательные" catchup="default" tvg-rec="48",Viju HISTORY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-http://188.190.222.53/Viasat_History/index.m3u8
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Живая Планета.png" group-title="Познавательные" tvg-id="329" catchup="default" tvg-rec="48",Живая Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://130.193.73.10:8937/play/a01m
@@ -2985,115 +2272,99 @@ http://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
 
 
 
-#EXTINF:0 group-title="Украина",UKR| ATR HD
+#EXTINF:0 group-title="Украина",ATR HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272764
-#EXTINF:0 group-title="Украина",UKR| ESPRESOTV SD
+#EXTINF:0 group-title="Украина",ESPRESOTV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272761
-#EXTINF:0 group-title="Украина",UKR| ENTERFILM HD
+#EXTINF:0 group-title="Украина",ENTERFILM HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272762
-#EXTINF:0 group-title="Украина",UKR| INDIGO FHD
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272758
-#EXTINF:0 group-title="Украина",UKR| ICTV HD
+#EXTINF:0 group-title="Украина",ICTV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272759
-#EXTINF:0 group-title="Украина",UKR| INTER HD
+#EXTINF:0 group-title="Украина",INTER HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195777
-#EXTINF:0 group-title="Украина",UKR| KVARTAL TV SD
+#EXTINF:0 group-title="Украина",KVARTAL TV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272755
-#EXTINF:0 group-title="Украина",UKR| K2 SD
+#EXTINF:0 group-title="Украина",K2 SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272756
-#EXTINF:0 group-title="Украина",UKR| K1 HD
+#EXTINF:0 group-title="Украина",K1 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272757
-#EXTINF:0 group-title="Украина",UKR| LALE HD
+#EXTINF:0 group-title="Украина",LALE HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131521
-#EXTINF:0 group-title="Украина",UKR| M1 HD
+#EXTINF:0 group-title="Украина",M1 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272754
-#EXTINF:0 group-title="Украина",UKR| M2 HD
+#EXTINF:0 group-title="Украина",M2 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131522
-#EXTINF:0 group-title="Украина",UKR| MEGA HD
+#EXTINF:0 group-title="Украина",MEGA HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272753
-#EXTINF:0 group-title="Украина",UKR| NOVY KANAL HD
+#EXTINF:0 group-title="Украина",NOVY KANAL HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272749
-#EXTINF:0 group-title="Украина",UKR| NIKI KIDS FHD
+#EXTINF:0 group-title="Украина",NIKI KIDS FHD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272751
-#EXTINF:0 group-title="Украина",UKR| NEWS NETWORK FHD
+#EXTINF:0 group-title="Украина",NEWS NETWORK FHD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272752
-#EXTINF:0 group-title="Украина",UKR| PIKSEL TV HD
+#EXTINF:0 group-title="Украина",PIKSEL TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272748
-#EXTINF:0 group-title="Украина",UKR| RADA SD
+#EXTINF:0 group-title="Украина",RADA SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131527
-#EXTINF:0 group-title="Украина",UKR| SETANTA SPORTS 1 FHD
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195780
-#EXTINF:0 group-title="Украина",UKR| SETANTA SPORTS 2 FHD
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195781
-#EXTINF:0 group-title="Украина",UKR| STB HD
+#EXTINF:0 group-title="Украина",STB HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272746
-#EXTINF:0 group-title="Украина",UKR| SONCE TV SD
+#EXTINF:0 group-title="Украина",SONCE TV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272747
-#EXTINF:0 group-title="Украина",UKR| TET HD
+#EXTINF:0 group-title="Украина",TET HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195783
-#EXTINF:0 group-title="Украина",UKR| HTH HD
+#EXTINF:0 group-title="Украина",HTH HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272744
-#EXTINF:0 group-title="Украина",UKR| UA TV HD
+#EXTINF:0 group-title="Украина",UA TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131533
-#EXTINF:0 group-title="Украина",UKR| UNIAN TV HD
+#EXTINF:0 group-title="Украина",UNIAN TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195784
-#EXTINF:0 group-title="Украина",UKR| VINTAGE TV HD
+#EXTINF:0 group-title="Украина",VINTAGE TV HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272742
-#EXTINF:0 group-title="Украина",UKR| X SPORT FHD
+#EXTINF:0 group-title="Украина",X SPORT FHD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272741
-#EXTINF:0 group-title="Украина",UKR| ZOOM HD
+#EXTINF:0 group-title="Украина",ZOOM HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/400272740
-#EXTINF:0 group-title="Украина",UKR| 1 1 HD
+#EXTINF:0 group-title="Украина",1 1 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195772
-#EXTINF:0 group-title="Украина",UKR| 2 2 HD
+#EXTINF:0 group-title="Украина",2 2 HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195773
-#EXTINF:0 group-title="Украина",UKR| 5 KANAL HD
+#EXTINF:0 group-title="Украина",5 KANAL HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/110290
-#EXTINF:0 group-title="Украина",UKR| 7 KANAL HD
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/131531
-#EXTINF:0 group-title="Украина",UKR| NEWS 24 SD
+#EXTINF:0 group-title="Украина",NEWS 24 SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/110228
-#EXTINF:0 group-title="Украина",UKR| PESHIY SD
+#EXTINF:0 group-title="Украина",PESHIY SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/78635
-#EXTINF:0 group-title="Украина",UKR| MILADY TELEVISION SD
+#EXTINF:0 group-title="Украина",MILADY TELEVISION SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/78636
-#EXTINF:0 group-title="Украина",UKR| MAXXI TV SD
+#EXTINF:0 group-title="Украина",MAXXI TV SD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/78637
-#EXTINF:0 group-title="Украина",UKR| 100% NEWS
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473168
-#EXTINF:0 group-title="Украина",UKR| OTV
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473169
-#EXTINF:0 group-title="Украина",UKR| CULTURE!
+#EXTINF:0 group-title="Украина",CULTURE!
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473170
-#EXTINF:0 group-title="Украина",UKR| PIXEL
+#EXTINF:0 group-title="Украина",PIXEL
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473171
-#EXTINF:0 group-title="Украина",UKR| PLUS PLUS
+#EXTINF:0 group-title="Украина",PLUS PLUS
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473172
-#EXTINF:0 group-title="Украина",UKR| INTER PLUS
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473173
-#EXTINF:0 group-title="Украина",UKR| HORIZONT
-http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473174
-#EXTINF:0 group-title="Украина",UKR| NTN
+#EXTINF:0 group-title="Украина",NTN
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473175
-#EXTINF:0 group-title="Украина",UKR| NIKI Junior
+#EXTINF:0 group-title="Украина",NIKI Junior
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473176
-#EXTINF:0 group-title="Украина",UKR| BIGUDI
+#EXTINF:0 group-title="Украина",BIGUDI
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473177
-#EXTINF:0 group-title="Украина",UKR| 1+1 INTERNATIONAL
+#EXTINF:0 group-title="Украина",1+1 INTERNATIONAL
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473178
-#EXTINF:0 group-title="Украина",UKR| 1+1
+#EXTINF:0 group-title="Украина",1+1
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473179
-#EXTINF:0 group-title="Украина",UKR| TYSA 1
+#EXTINF:0 group-title="Украина",TYSA 1
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473180
-#EXTINF:0 group-title="Украина",UKR| UA KRYM 24
+#EXTINF:0 group-title="Украина",UA KRYM 24
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473182
-#EXTINF:0 group-title="Украина",UKR| QTV
+#EXTINF:0 group-title="Украина",QTV
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473183
-#EXTINF:0 group-title="Украина",UKR| TONIS
+#EXTINF:0 group-title="Украина",TONIS
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473184
-#EXTINF:0 group-title="Украина",UKR| KIEV STB
+#EXTINF:0 group-title="Украина",KIEV STB
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473185
-#EXTINF:0 group-title="Украина",UKR| TONIS HD
+#EXTINF:0 group-title="Украина",TONIS HD
 http://usukyrt.mexamo.xyz:900/1727327543/5188612508/473186
 
 
@@ -6615,7 +5886,146 @@ http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10026
 http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10019
 
 
+#EXTINF:-1 group-title="СПОРТ" ,Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 
+
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports 1
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports 2
+http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Trace Sports
+http://82.215.111.227/1274/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Fuel TV
+http://82.215.111.227/1280/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Матч! Планета
+http://82.215.111.227/1049/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",MMA-TV
+http://82.215.111.227/1226/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",viju Sport
+http://82.215.111.227/1229/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",XPORT
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",XSPORT+
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",Cars & Stars TV
+http://iptv.prosto.tv:7000/ch111/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",FightBOX
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",Fast & FunBOX HD
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+
+
+#EXTINF:-1 group-title="СПОРТ",МИР БАСКЕТБОЛА
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+
+
+#EXTINF:-1 tvg-logo="http://194.26.229.4/live/pda.png" group-title="RUSSIA (тест)",OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Матч Премьер
+http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="СПОРТ",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,EUROSPORT 1 RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27295
+#EXTINF:-1,EUROSPORT 2 RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27294
+#EXTINF:-1,EUROSPORT HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27296
+#EXTINF:-1,Extreme Sports RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4770
+#EXTINF:-1,Futbol 2 RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4786
+#EXTINF:-1,MAtch! Boec RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4821
+#EXTINF:-1,Match! Arena HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4819
+#EXTINF:-1,Match! Igra RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4823
+#EXTINF:-1,Match! Nash Sport RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4773
+#EXTINF:-1,Match! Planeta RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4774
+#EXTINF:-1,Match! RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4772
+#EXTINF:-1,NTV Football 1 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3982
+#EXTINF:-1,NTV Football 2 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3981
+#EXTINF:-1,NTV Football 3 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/3980
+#EXTINF:-1,Nash Futbol RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4776
+#EXTINF:-1,SETANTA EURASIA HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27298
+#EXTINF:-1,SETANTA SPORT RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27297
+#EXTINF:-1,Setanta Sport HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4792
+#EXTINF:-1,Setanta Sport+ HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4830
+#EXTINF:-1,TeleKanal KHL HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/4789
+#EXTINF:-1,МАТЧ! АРЕНА HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27310
+#EXTINF:-1,МАТЧ! АРЕНА RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27309
+#EXTINF:-1,МАТЧ! БОЕЦ RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27308
+#EXTINF:-1,МАТЧ! ИГРА RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27307
+#EXTINF:-1,МАТЧ! НАШ СПОРТ RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27306
+#EXTINF:-1,МАТЧ! ТВ HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27312
+#EXTINF:-1,МАТЧ! ТВ RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27311
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27316
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27314
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD RU
+#EXTGRP:СПОРТ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/27313
+
+
+
+#EXTINF:0 group-title="СПОРТ",SETANTA SPORTS 2 FHD
+http://usukyrt.mexamo.xyz:900/1727327543/5188612508/195781
 
 
 
