@@ -3,7 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Обновлено: 05.05.2025" group-title="ПОДПИШИСЬ",Наш ТГ Канал
 https://iptvshams.su/intrishamsVideo.mp4
-
+EXTINF:-1 group-title="ПОДПИШИСЬ" tvg-logo="https://iptvshams.su/infochanel.png",Обновлён в 05.05.2025
+https://iptvshams.su/intrishamsVideo.mp4
 
 
 #EXTINF:0 CUID="116" number="1" tvg-id="epg1:Первый канал Европа" tvg-name="epg1:Первый канал Европа" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.ru-tv.site/images/logo_chanel/Первый канал Европа1.png" group-title="Информационные",Первый канала Европа
