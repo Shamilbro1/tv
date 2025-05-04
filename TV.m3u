@@ -1,10 +1,8 @@
 #EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml"
 
 
-
-#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" group-title="ПОДПИШИСЬ",Наш ТГ Канал
+#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Обновлено: 05.05.2025" group-title="ПОДПИШИСЬ",Наш ТГ Канал
 https://iptvshams.su/intrishamsVideo.mp4
-#EXTINF:-1 tvg-logo="https://iptvshams.su/infochanel.png" tvg-name="Обновлено: 05.05.2025" group-title="ПОДПИШИСЬ",Обновлено: 05.05.2025
 
 
 
