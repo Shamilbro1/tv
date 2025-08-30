@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml"
 
 
-#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👉 @Shamil_bro" group-title="🔺 INFO 🔺",🔸Подпишись🔸
+#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺 INFO 🔺",🔸Подпишись🔸
 https://iptvshams.su/intrishamsVideo.mp4
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://iptvshams.su/infochanel.png",Telegram 👉 @Shamil_bro
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://iptvshams.su/infochanel.png",Telegram 👨‍💻 @Shamil_bro
 https://iptvshams.su/intrishamsVideo.mp4
+
 
 
