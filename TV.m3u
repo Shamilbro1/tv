@@ -4286,6 +4286,186 @@ http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=149602&extensio
 
 
 
+#EXTINF:-1 group-title="СПОРТ",Суспільне Kiev Спорт HD 
+https://tva.in.ua/live/susp-sport.m3u8?key=fas-tv.com
+#EXTINF:-1 group-title="СПОРТ",Divi Sport
+https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",X-Stream
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1 group-title="СПОРТ",SETANTA SPORT 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="СПОРТ",SETANTA SPORT 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="СПОРТ",SPORT!ФУТБОЛ 1
+http://94.130.221.219/m1/mpegts
+#EXTINF:-1 group-title="СПОРТ",SPORT!ФУТБОЛ 2
+http://94.130.221.219/m2/mpegts
+#EXTINF:-1 group-title="СПОРТ",SPORT!ФУТБОЛ 3
+http://94.130.221.219/m3/mpegts
+#EXTINF:-1 group-title="СПОРТ",KHL Prime HD
+http://94.130.221.219/khlprime/mpegts
+#EXTINF:-1 group-title="СПОРТ",Setanta 2 HD
+http://94.130.221.219/setanta2/mpegts
+#EXTINF:-1 group-title="СПОРТ",Setanta 1 HD
+http://94.130.221.219/setanta1/mpegts
+#EXTINF:-1 group-title="СПОРТ",Setanta UA HD
+http://94.130.221.219/setantaua/mpegts
+#EXTINF:-1 group-title="СПОРТ",ARENA 1 HD
+http://94.130.221.219/matcharena/mpegts
+#EXTINF:-1 group-title="СПОРТ",XSPORT+ HD
+http://141.95.55.143/CH3347/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",D K
+http://141.95.55.143/CH6751/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",SETANTA SPORT UA
+http://141.95.55.143/CH1147/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",СЕТАНТА+ UA
+http://141.95.55.143/CH7609/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Eurosport 1 HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+#EXTINF:-1 group-title="СПОРТ",Бокс ТВ
+http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1 group-title="СПОРТ",KHL
+http://77.235.1.19:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",KHL Prime HD
+http://77.235.1.19:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Арена
+http://77.235.1.19:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Боец
+http://77.235.1.19:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",KHL Prime
+http://194.143.148.28:8080/KHL_HD/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",SPORT 1
+http://95.85.109.219:7000/play/a08e
+#EXTINF:-1 group-title="СПОРТ",SPORT 2
+http://95.85.109.219:7000/play/a08f
+#EXTINF:-1 group-title="СПОРТ",SPORT 3
+http://95.85.109.219:7000/play/a08g
+#EXTINF:-1 group-title="СПОРТ",SPORT 4
+http://95.85.109.219:7000/play/a08h
+#EXTINF:-1 group-title="СПОРТ",Сетанта Спорт 1
+http://95.85.109.219:7000/play/a067
+#EXTINF:-1 group-title="СПОРТ",Сетанта Спорт 2
+http://95.85.109.219:7000/play/a068
+#EXTINF:-1 group-title="СПОРТ",viju+ Sport
+http://95.85.109.219:7000/play/a094
+#EXTINF:-1 group-title="СПОРТ",БОКС ТВ
+http://95.85.109.219:7000/play/a08a
+#EXTINF:-1 group-title="СПОРТ",UDAR HD
+http://95.85.109.219:7000/play/a066
+#EXTINF:-1 group-title="СПОРТ",QSPORT HD 
+http://95.85.109.219:7000/play/a05u
+#EXTINF:-1 group-title="СПОРТ",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="СПОРТ",Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="СПОРТ",Arena
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="СПОРТ",Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="СПОРТ",Матч
+https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
+#EXTINF:-1 group-title="СПОРТ",Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="СПОРТ",RING HD [Bulgarian]
+http://87.246.60.6:11021
+#EXTINF:-1 group-title="СПОРТ",SPORTS 4
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="СПОРТ",Tr VPNace Sport Stars
+http://95.67.12.82:9067
+#EXTINF:-1 group-title="СПОРТ",viasatsport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1 group-title="СПОРТ",Real Madrid
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 group-title="СПОРТ",Cпорт
+http://45.143.108.110:4200/o2
+#EXTINF:-1 group-title="СПОРТ",|CZ| NOVA SPORT 1 HD
+http://185.236.230.212:9982/play/a0an
+#EXTINF:-1 group-title="СПОРТ",|CZ| NOVA SPORT 2 HD
+http://185.236.230.212:9981/play/a0bh
+#EXTINF:-1 group-title="СПОРТ",|CZ| NOVA SPORT 3 HD
+http://185.236.230.212:9981/play/a0au
+#EXTINF:-1 group-title="СПОРТ",|CZ| NOVA SPORT 4 HD
+http://185.236.230.212:9981/play/a0av
+#EXTINF:-1 group-title="СПОРТ",|CZ| NOVA SPORT 5 HD
+http://185.236.230.212:9981/play/a0bq
+#EXTINF:-1 group-title="СПОРТ",|CZ| SPORT 2 HD CZ/SK
+http://185.236.230.212:9982/play/a08g
+#EXTINF:-1 group-title="СПОРТ",|CZ| CT SPORT HD
+http://185.236.230.212:9982/play/a0b3
+#EXTINF:-1 group-title="СПОРТ",|CZ| CANAL+ SPORT 2 HD
+http://185.236.230.212:9982/play/a0b9
+#EXTINF:-1 group-title="СПОРТ",ESPN 4
+http://181.188.216.5:18000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",ESPN 4HD
+http://181.188.216.5:18000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",ESPN 5
+http://181.188.216.5:18000/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Turkmen Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",Sports Grid
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="СПОРТ",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="СПОРТ",CANAL MOTOR
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 group-title="СПОРТ",DAZN Combat German
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="СПОРТ",Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",UFA TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+#EXTINF:-1 group-title="СПОРТ",Motor sport revue HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Bein EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="СПОРТ",TOP Barca
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="СПОРТ",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="СПОРТ",Dubai Sports 3 HD [ae]
+https://streamer3.connectto.com/913/mono.m3u8
+#EXTINF:-1 group-title="СПОРТ",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТ",Premier Sport 1
+https://7pal.short.gy/prsport1
+#EXTINF:-1 tvg-logo="" group-title="СПОРТ",Premier Sport 2
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="СПОРТ",TNT Sport 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="СПОРТ",TNT Sport 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="СПОРТ",TNT Sport 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="СПОРТ",TNT Sport 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="СПОРТ",Fox Sports 01
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="СПОРТ",Fox Sports 02
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="СПОРТ",Fox Sports 03
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="СПОРТ",BILLIARDTV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1 group-title="СПОРТ",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+
 
 
 
@@ -4682,6 +4862,7 @@ https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Музыка",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
 
 
 
