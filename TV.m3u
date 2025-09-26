@@ -1,14 +1,10 @@
 #EXTM3U url-tvg="http://epg.ru-tv.site/14.xml" x-tvg-url="http://epg.ru-tv.site/14-light.xml""https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,http://epg.it999.ru/epg2.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
 
 
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://iptvshams.su/pomch-proektu.png", Поддержи проект!
+https://iptvshams.su/podderzhka_shams_tv.mp4
 #EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺 INFO 🔺",🔸Подпишись🔸
 https://iptvshams.su/intrishamsVideo.mp4
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://iptvshams.su/infochanel.png",Telegram 👨‍💻 @Shamil_bro
-https://iptvshams.su/intrishamsVideo.mp4
-
-
-
-
 
 
 
@@ -6776,6 +6772,7 @@ http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBZmBmbrtO_y-UVNep4cqAhA
 http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBcvAcwD4tN-8_C-Rv9GzWsc
 #EXTINF:-1 xui-id="3312" tvg-name="KFP Ajoyib afsonalar 26-qism" tvg-logo="" group-title="Мультики (На UZB языке)",KFP Ajoyib afsonalar 26-qism
 http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBY0TZN051qXpQ8kFNozRzmE
+
 
 
 
