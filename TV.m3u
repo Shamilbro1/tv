@@ -4706,52 +4706,7 @@ https://iptv.prosto.tv/id323/video.m3u8?secret=xws6dla3
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="КиноЗал",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Vales Premiere
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/31641/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Триколор Ужасы HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/20178/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Остросюжетное HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/904/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Премиальное HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/2410/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Блокбастер HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/2436/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", KLI Netflix HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/20177/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Z!Action HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/31694/index.m3u8
-#EXTINF:-1 group-title="КиноЗал", Citrus Marvel HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/16051/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Media
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11043/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Premiere 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11015/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Action HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11027/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Fantastic HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11032/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Kinorating HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11037/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU Marvel HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/15025/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",BCU VHS HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11042/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM NewFilm 1 HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13011/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Боевик HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13028/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Катастрофа HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13034/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Скорость HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13053/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Кунг-Фу HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13041/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Спорт HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13054/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Крутые 90-е HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13040/index.m3u8
-#EXTINF:-1 group-title="КиноЗал",MM Микромир HD
-http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/18193/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="КиноЗал" tvg-id="117" catchup="default" tvg-rec="48",КИНО ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
 http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
@@ -6777,6 +6732,7 @@ http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBZmBmbrtO_y-UVNep4cqAhA
 http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBcvAcwD4tN-8_C-Rv9GzWsc
 #EXTINF:-1 xui-id="3312" tvg-name="KFP Ajoyib afsonalar 26-qism" tvg-logo="" group-title="Мультики (На UZB языке)",KFP Ajoyib afsonalar 26-qism
 http://128.140.55.5:80/play/RQLctZDUyUMkibBQNWciBY0TZN051qXpQ8kFNozRzmE
+
 
 
 
