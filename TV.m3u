@@ -6,7 +6,6 @@ https://iptvshams.su/podderzhka_shams_tv.mp4
 #EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺Поддержи проект🔺",🔸Подпишись🔸
 https://iptvshams.su/intrishamsVideo.mp4
 
-
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Первый Канал" tvg-logo="" group-title="Россия",Первый Канал
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QF5lQeFbd8cm8RTsnc4N2qA/m3u8
 #EXTINF:-1 xui-id="2" tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Россия",Первый канал HD
@@ -45,40 +44,10 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEv-pldw9oNnN3uCAe6viC0/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMEG0UTvTsnRjrroC8QMQyY/m3u8
 #EXTINF:-1 xui-id="19" tvg-id="" tvg-name="РЖД" tvg-logo="" group-title="Россия",РЖД
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QO8HWN0vx-3c2y4ORamUbl8/m3u8
-#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="Че!" tvg-logo="../Channel/Logo/Че!.png" group-title="Россия",Че!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJacesfeuNaxHe666OdGUqg/m3u8
-#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="Россия 1" tvg-logo="" group-title="Россия",Россия 1
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDIZz8mCU9l13mVSzCuutbs/m3u8
-#EXTINF:-1 xui-id="22" tvg-id="" tvg-name="Россия 24" tvg-logo="" group-title="Россия",Россия 24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE1pRF-gfjomFJ80BbnCIJY/m3u8
-#EXTINF:-1 xui-id="23" tvg-id="" tvg-name="Мир" tvg-logo="" group-title="Россия",Мир
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHqHQAzgZKj1vF3bSfcm-7k/m3u8
-#EXTINF:-1 xui-id="24" tvg-id="" tvg-name="Мир 24" tvg-logo="" group-title="Россия",Мир 24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLm-bOe4zfcsaA6gp-3UCvo/m3u8
-#EXTINF:-1 xui-id="25" tvg-id="" tvg-name="НТВ" tvg-logo="" group-title="Россия",НТВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHQVPtLusWHsXhUI09S4f20/m3u8
 #EXTINF:-1 xui-id="26" tvg-id="" tvg-name="Звезда Плюс HD" tvg-logo="" group-title="Россия",Звезда Плюс HD
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QADmJ9QPmYh_4ljED-G0jGg/m3u8
-#EXTINF:-1 xui-id="27" tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="Россия",ТВЦ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJuH2UxN4luRB--MbA0rTp4/m3u8
-#EXTINF:-1 xui-id="28" tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Россия",ТВ3
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHLdSgUFI2RiyjJOY651Ve4/m3u8
 #EXTINF:-1 xui-id="29" tvg-id="" tvg-name="PLANETA RTR" tvg-logo="http://rafail1982.uz/logo/Россия 1.png" group-title="Россия (ТЕСТ)",PLANETA RTR
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QF-AYdpQ5RUhxW8mEjwEQ_0/m3u8
-#EXTINF:-1 xui-id="30" tvg-id="" tvg-name="Неизвестная Россия" tvg-logo="http://rafail1982.uz/logo/Неизвестная Россия.png" group-title="Россия (ТЕСТ)",Неизвестная Россия
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QI3jMw6S2tKz4N7SQdWylYU/m3u8
-#EXTINF:-1 xui-id="31" tvg-id="" tvg-name="НТВ HD" tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Россия (ТЕСТ)",НТВ HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFFrg91jqiKR5R5AuldaUDI/m3u8
-#EXTINF:-1 xui-id="32" tvg-id="" tvg-name="НТВ HD" tvg-logo="http://rafail1982.uz/logo/НТВ HD.png" group-title="Россия (ТЕСТ)",НТВ HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEyAHG9jclBIeBGDxceMmWU/m3u8
-#EXTINF:-1 xui-id="33" tvg-id="" tvg-name="НТВ +1" tvg-logo="http://rafail1982.uz/logo/НТВ +1.png" group-title="Россия (ТЕСТ)",НТВ +1
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIxaQRonIOamrBMkk9slFa8/m3u8
-#EXTINF:-1 xui-id="34" tvg-id="" tvg-name="НТВ +2" tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Россия (ТЕСТ)",НТВ +2
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLdxYuRD4bDiuq1HTiLyeQ0/m3u8
-#EXTINF:-1 xui-id="35" tvg-id="" tvg-name="НТВ +4" tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Россия (ТЕСТ)",НТВ +4
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC5j2ZsVmORXmpw60uMrOhA/m3u8
-#EXTINF:-1 xui-id="36" tvg-id="" tvg-name="НТВ +7" tvg-logo="http://rafail1982.uz/logo/НТВ +7.png" group-title="Россия (ТЕСТ)",НТВ +7
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOqnzLZlSrJdZaO6wmtmNOQ/m3u8
 #EXTINF:-1 xui-id="37" tvg-id="" tvg-name="РБК" tvg-logo="http://135.181.204.104:80/images/8X78MWWCIa0v3mkVRu5Rly-yMFsCNrRY5en35mzHVjaJJZ419EVZdeGuOCrWCCdC.png" group-title="Россия (ТЕСТ)",РБК
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKPrbgy4Q5tuNYsjFdDbzFU/m3u8
 #EXTINF:-1 xui-id="38" tvg-id="" tvg-name="ТВЦ" tvg-logo="http://135.181.204.104:80/images/8X78MWWCIa0v3mkVRu5Rl76clESy3082-OqiK8cvAwWPV-L3dnvGc6RvBhGSHn-b.png" group-title="Россия (ТЕСТ)",ТВЦ
@@ -475,52 +444,10 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCIVari4cQIwUd7dI05JCB0/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QD-ZoubLhvZwyO4oMgAPJRA/m3u8
 #EXTINF:-1 xui-id="234" tvg-id="" tvg-name="Світ Навколо" tvg-logo="" group-title="Познавательные",Світ Навколо
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHT8kwyA0ps8Z2z9mV0g1kI/m3u8
-#EXTINF:-1 xui-id="235" tvg-id="" tvg-name="O'zbekiston" tvg-logo="" group-title="Узбекистан",O'zbekiston
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QD0tdn_CRAbi-ole68z4jDg/m3u8
-#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="Yoshlar HD" tvg-logo="" group-title="Узбекистан",Yoshlar HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAvkjxjxtZjplr1dvqKoVcg/m3u8
-#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="Toshkent HD" tvg-logo="" group-title="Узбекистан",Toshkent HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPvRpj0LXud5h4DPfp1icRs/m3u8
-#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="Dunyo Bo'ylab" tvg-logo="" group-title="Узбекистан",Dunyo Bo'ylab
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMaxQOZV5Dh8KYbjS4FbyGs/m3u8
-#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="O'zbekiston tarixi" tvg-logo="" group-title="Узбекистан",O'zbekiston tarixi
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFGMAWJs79u7U6LK-D58V4s/m3u8
-#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="Kinoteatr" tvg-logo="" group-title="Узбекистан",Kinoteatr
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH1V6m_Fy-Exb-tZDqpFIKE/m3u8
-#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="Navo" tvg-logo="" group-title="Узбекистан",Navo
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOuv2Gv57WXBR09u4PL0x1g/m3u8
-#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="TTV Musiqa" tvg-logo="" group-title="Узбекистан",TTV Musiqa
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGfPjQWgEEZwbg3qB8oedHw/m3u8
-#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="Mahalla" tvg-logo="" group-title="Узбекистан",Mahalla
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC3LkMM9tTZW4S78Wp5YCl0/m3u8
-#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="Bolajon" tvg-logo="" group-title="Узбекистан",Bolajon
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMNMuGPQ_czcTDeJAznlwfw/m3u8
-#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="Futbol TV" tvg-logo="" group-title="Узбекистан",Futbol TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ24w7u0Bhh2rQ6If3IlO3s/m3u8
-#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="FTV" tvg-logo="" group-title="Узбекистан",FTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIGOvGqHqfq7sIo_KBmENDw/m3u8
-#EXTINF:-1 xui-id="247" tvg-id="" tvg-name="Муз-ТВ (O'zbekiston)" tvg-logo="" group-title="Узбекистан",Муз-ТВ (O'zbekiston)
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPOUxXS8DXmxyDf0vkP78dI/m3u8
-#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="Zo'r TV HD" tvg-logo="" group-title="Узбекистан",Zo'r TV HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP6870m36eUe21X6LJddrRE/m3u8
-#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="Milliy TV" tvg-logo="" group-title="Узбекистан",Milliy TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ7onOM5dACvAGFrJEmdCSQ/m3u8
-#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="My5" tvg-logo="" group-title="Узбекистан",My5
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGF_D2DtduslE3PigP_a36E/m3u8
-#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="Nurafshon TV" tvg-logo="" group-title="Узбекистан",Nurafshon TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLrmIXBgaJQr5GQLWgWSMGQ/m3u8
-#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="Dasturxon TV" tvg-logo="" group-title="Узбекистан",Dasturxon TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QADctFwBZayXffb8fk0KauE/m3u8
-#EXTINF:-1 xui-id="253" tvg-id="" tvg-name="MyDayTV" tvg-logo="" group-title="Узбекистан",MyDayTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDLWZOWO3oyK9X77DN9ODmk/m3u8
-#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="Lux TV" tvg-logo="" group-title="Узбекистан",Lux TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEsW9o7AQ9Aa9hUUcmPP3uY/m3u8
 #EXTINF:-1 xui-id="255" tvg-id="" tvg-name="Tasix-Media" tvg-logo="" group-title="Узбекистан",Tasix-Media
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNRtVArPjC-PcHkKQ2QUUMM/m3u8
 #EXTINF:-1 xui-id="256" tvg-id="" tvg-name="Makon TV" tvg-logo="" group-title="Узбекистан",Makon TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QB0DmN0og6AIz4l600CAMOE/m3u8
-#EXTINF:-1 xui-id="257" tvg-id="" tvg-name="Renessans TV" tvg-logo="" group-title="Узбекистан",Renessans TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBo9MkCC0kIeQelyLRUmlO4/m3u8
 #EXTINF:-1 xui-id="258" tvg-id="" tvg-name="Istiqlol TV" tvg-logo="" group-title="Узбекистан",Istiqlol TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIWAOrvA4qy7XuRniUaWzmM/m3u8
 #EXTINF:-1 xui-id="259" tvg-id="" tvg-name="ntv (o'zbekiston)" tvg-logo="" group-title="Узбекистан",ntv (o'zbekiston)
@@ -537,10 +464,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMDFSZdtw26U90Cf8Q8-Yik/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QF_W2abzUctnBTulnS_Rpkg/m3u8
 #EXTINF:-1 xui-id="265" tvg-id="" tvg-name="Ishonch TV" tvg-logo="" group-title="Узбекистан",Ishonch TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIqVuCo0jtGWc08jej4Gpt4/m3u8
-#EXTINF:-1 xui-id="266" tvg-id="" tvg-name="Eliqqala TV" tvg-logo="" group-title="Узбекистан",Eliqqala TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHy1LMFGMTjiD0PecROh51g/m3u8
-#EXTINF:-1 xui-id="267" tvg-id="" tvg-name="JaslarTV" tvg-logo="" group-title="Узбекистан",JaslarTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMpWT7eXAG1pQDKPyMGD91c/m3u8
 #EXTINF:-1 xui-id="268" tvg-id="" tvg-name="Amudaryo TV" tvg-logo="" group-title="Узбекистан",Amudaryo TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOugmkZ6c3eYJ7DOtE_hAPg/m3u8
 #EXTINF:-1 xui-id="269" tvg-id="" tvg-name="TTV Telekanal" tvg-logo="" group-title="Узбекистан",TTV Telekanal
@@ -567,8 +490,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPJdyzdZgIGF-ZumyN6fAHQ/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK9r7Q6sP0aqhTd2Y_ZjJ6o/m3u8
 #EXTINF:-1 xui-id="280" tvg-id="" tvg-name="I-kbol" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-8vqVsNPc_extDIEcvyUdGdEpxJrOkQn8YlUu9pVA8fK1_fLopUHT7Xf27_R4cQqjyHiKxvT6jOD08wr7wjcrcA.png" group-title="Узбекистан",I-kbol
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCPmRCC774Q-VAvZHNmKVPk/m3u8
-#EXTINF:-1 xui-id="281" tvg-id="" tvg-name="8TV" tvg-logo="http://135.181.204.104:80/images/nTaVG1tPv8gn6FhQiq-8a4MsSr82lNER0xBTXgK-_84bUCKnCPOgtx6VVEUUP0LVIp70Qy01qUI1l2uYjQKn93fAAwvRb03PtUokhGx60aB0sUjUl_tiJmjWc-q8oUuLK5vHZRokNyZguc18jPMiHg.jpeg" group-title="Узбекистан",8TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGrKH-ICMEVLZxWMD1RAIps/m3u8
 #EXTINF:-1 xui-id="282" tvg-id="" tvg-name="Farg'ona" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-xkVhqY4qG245B3uQ5lyw2fdU6c1i7LY8ZFSNVRivbPy37qV_6_56i5rnDfL0WzA_0mEjRLSugJrOU-oOijZ_jQ.jpeg" group-title="Узбекистан",Farg'ona
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOW127HhnnjNp0V5Y_a7UJ8/m3u8
 #EXTINF:-1 xui-id="283" tvg-id="" tvg-name="Xorazm" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-8pdJACWflHrEq3RKsHd17dNa-g2igRTmPrgQEj-GtolId3z7qpSXrsRIVkr8RwPex1ID77LPOXXdvnAfIl9-qA.jpeg" group-title="Узбекистан",Xorazm
@@ -585,22 +506,14 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOiKDlbCfYILGCUFVRRxg-A/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFV1oQvftZAhqJq_MtUf4aI/m3u8
 #EXTINF:-1 xui-id="289" tvg-id="" tvg-name="Ishonch TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-qn0EvXbUBmwl_xQQQzPedg4Tf5vP4dat6UpEhT_YvhWSs8uuYdbTGpNcgJFiploYBRd6ktJU9Kme4Mx77rLGSA.jpeg" group-title="Узбекистан",Ishonch TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC_Mj0WivMXhoBNIGsxDR3g/m3u8
-#EXTINF:-1 xui-id="290" tvg-id="" tvg-name="Eliqqala TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-QZJLF3jLlsaWdi7IcNWt-L9Zffi8rbnvR7mi79oo-LVv1MbXYEfsFXfn_IiDp-iQqpxt37UHp40ldM-sOQvsPw.jpeg" group-title="Узбекистан",Eliqqala TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDqG910OWdnYUKoCNQvnoDg/m3u8
 #EXTINF:-1 xui-id="291" tvg-id="" tvg-name="Nasaf TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-TYSDFtxDlzELY_iPCrGejMWwxOgFTkFd8mDHI8VO1pq8zDTu9Gf4JJOAjN6-C8yzCF9T1Eb1cI9lYvsoCbp3uw.jpeg" group-title="Узбекистан",Nasaf TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDmxy7KV9hO4k0zk5tq_4vY/m3u8
-#EXTINF:-1 xui-id="292" tvg-id="" tvg-name="JaslarTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-MEjKk2iQFTUDgfPSGYIvEqNUQ8KB4uAv3MhwZMmw9grp0oXV-TFyew7Q_HK9FtWw3O31tqVVEWIanNdyZxhA4w.jpeg" group-title="Узбекистан",JaslarTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGq6vREA3GD5fJ9lZxmpyFY/m3u8
 #EXTINF:-1 xui-id="293" tvg-id="" tvg-name="Amudaryo TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-wlcunvoj4HwlDvEPY4zDs_HcjSVjm73z5IOF34UYSysii5RNUCImtTLl0eZT1yd1DXawgWwrEn6PzKBuKMs0QA.jpeg" group-title="Узбекистан",Amudaryo TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGSe4NrKumapaPDcuHCmevY/m3u8
 #EXTINF:-1 xui-id="294" tvg-id="" tvg-name="Muloqot TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-FxvIFktKWfVLMO_1Kz1G4f3xNMMGuCpE5So9eqE2Wf0m164YSMBpGaMFHslVvXXopZZMDEQpsxLSAKCsP4my8Q.jpeg" group-title="Узбекистан",Muloqot TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAtu6iOisZGuYbh_AvQqkgg/m3u8
 #EXTINF:-1 xui-id="295" tvg-id="" tvg-name="Солнечный тв" tvg-logo="http://135.181.204.104:80/images/pqMp9L2GzXwAEUTyPbFDx2Bspzd9Xtqa8r2s5zfuLFswdqQiSGtF6T639vVLwux17nRE05WZJ6dUrq9a0JQb2w.png" group-title="Узбекистан",Солнечный тв
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC9feV5le6sC3vJ-R6OFsUQ/m3u8
-#EXTINF:-1 xui-id="296" tvg-id="" tvg-name="TTV Telekanal" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-HVzRMn4RJVLi1I6g9kqfbyhYXxMRv5bgcADQgAxMdh0nf99YvCVB2LBnL6VlIxxNfWhGQ7frxJXcMKBqzfMiRw.jpeg" group-title="Узбекистан",TTV Telekanal
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAz-tUvBzZe-C-E_vOtkG1A/m3u8
-#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="TTV Kino" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-yzSxdPil9llRpWMTZdxXezlY2uXGhbR_w3E8jewt7we8WDKWBLFQygD_ESZRT-UScCmWLsta2L4aSr69IjlztQ.jpeg" group-title="Узбекистан",TTV Kino
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHwMjm6DoLXy_NyysixQG3U/m3u8
 #EXTINF:-1 xui-id="298" tvg-id="" tvg-name="tasix-media kino" tvg-logo="https://play-lh.googleusercontent.com/hjSBke6Y6pJhbAZQZdH59uY5rmm_MlDph8-CvJxg86pKwMdEE9598T52LAUrci9e2VZg=w240-h480-rw" group-title="Узбекистан",tasix-media kino
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPa7wGqwOLNTwBizX7GzU1c/m3u8
 #EXTINF:-1 xui-id="299" tvg-id="" tvg-name="Cinema (uzb)" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-4iCGIdfTtfXz3EdV_1sK5OlRCS03YUGNlFHdoY1NeEey3vkld1Ejv06OnUFuxxOHk51Vtnuw-u3-8IhQCwz6VQ.jpeg" group-title="Узбекистан",Cinema (uzb)
@@ -621,8 +534,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ9SbY8bR4hk4VZ_sq8v-SQ/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBgSg_ULDrRXZ6bJEtQuBBI/m3u8
 #EXTINF:-1 xui-id="307" tvg-id="" tvg-name="Travel-tv (O'zbekiston)" tvg-logo="https://play-lh.googleusercontent.com/J1X3QmF7XeYqjSzb0680kdrNlUYiVLg44VO3T_cY23-fq9VTxa55x4e31x00zoK1H7E=w240-h480-rw" group-title="Узбекистан",Travel-tv (O'zbekiston)
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBpqk9hEjUzeyWYH7dWx7PM/m3u8
-#EXTINF:-1 xui-id="308" tvg-id="" tvg-name="Live TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-veijaRDrxzZ8QFFLbiczWXp0yRKcCfj_vsIKTX5r58EIaLR6BHf9QWucPZ3mEUaWfrIFWG3LFlmY6NzEp-767w.jpeg" group-title="Узбекистан",Live TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE_YyzA8kObQXvKiNEgTQ88/m3u8
 #EXTINF:-1 xui-id="309" tvg-id="" tvg-name="MYDAYTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-oBL7OmWvCZYDB6m0RcDGjOGKcCYCUrgWHlraPgjPlByzD_GQVe1lVi-rAoO9BaugNtv202IsvU2wxwQYOscl3A.png" group-title="Узбекистан",MYDAYTV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE8vxflBAsX8Vz6f47Pubfg/m3u8
 #EXTINF:-1 xui-id="310" tvg-id="" tvg-name="Navo" tvg-logo="http://135.181.204.104:80/images/b1VFbKFiySV3qMwfXZLpmOj2QpSPySoYbJ1z2tk7X5FvhTCFEhG1GesNXlVWYmltct4oRYJOIfH6bNdtlCm8rT2TmZIj7r4QCuM-t5LVD2JmIGLMubctyQs43vdKQLvIikuQwQq4tORAH5nSqMurdg.png" group-title="Узбекистан",Navo
@@ -647,66 +558,8 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJFQBN9zZnN-pi4DaiXCWrM/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFPc_rMIAQ3vNze_Wg7arN4/m3u8
 #EXTINF:-1 xui-id="320" tvg-id="" tvg-name="Setanta Sports 2" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-WH2uwDOHbtPdt_1dvwM975OuRWo0B8jLYCyEVSzmeiSn9rDwwoT5qeEQwLQV3mUrjA7FhLJFfYvG1LgrceIRIw.png" group-title="Узбекистан",Setanta Sports 2
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKN_K_0-4CwAyVl_FBiTJCY/m3u8
-#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="O'zbekiston" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-6OI0mdbZdr_BEBm9Itgk46FIYD0mQkAeV7d2rRtSKmn8L_t1n5iTPlRiwl9T49nJi4ApQxc7JXkbvfAcWDJW9A.png" group-title="Узбекистан",O'zbekiston
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMiaEr3qQdBv3mCoKUQSX7g/m3u8
-#EXTINF:-1 xui-id="322" tvg-id="" tvg-name="Yoshlar" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-X9I6p-D26ldzvg55jdn2VweZWxYkrLC_7tYZjsSFA9d8uifuNrkubuGEcggAZEyKQw2CElCF4-9YH0n7N0nNUg.png" group-title="Узбекистан",Yoshlar
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAQBDzYtfr5sDCiLZdXSsKM/m3u8
-#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="Toshkent" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-oFnJlV8NOAzkuJ5MU54rNLcOLBmqooOVTTS_chDPY1DiHTMe5wrOGsqJMfR1SQdgFB_giEL2pE1JyAO_uJ3W_A.png" group-title="Узбекистан",Toshkent
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDoxdXJYl3tNukM4Wyhg3vk/m3u8
-#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="Dunyo Bo'ylab" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-Ymtyopsrlto2nH_dKWRzTAjt8d1yBECTUHIVZ_kofb3BLNrOJV1UC2lEfm4AqfCRIgFz1kwc17yjtp0f8iuINw.png" group-title="Узбекистан",Dunyo Bo'ylab
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QErt_8zfhqt1vBY3wmKRzBA/m3u8
-#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="O'zbekiston tarixi" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-tcmHOuJRAD7YbwCyautiuqnntCKFO81QKc15w2dM4pqgNg7xOgEn5AmiwFchILkJ6z-uoGKNZBHPazIB_mWiCQ.png" group-title="Узбекистан",O'zbekiston tarixi
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH6BhLWqn6ZjmKjCBBiYTHw/m3u8
-#EXTINF:-1 xui-id="326" tvg-id="" tvg-name="Kinoteatr" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-l0bRNi6L1PswAqiX-DYEf2yLi4Gz9wz-cGa9hT47gtYZYfkBm7m8B4_vALE_HXB3Ij46grDrdHV3CX34JXaBAA.png" group-title="Узбекистан",Kinoteatr
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHwE7z09gpCT9YPItl0TaY0/m3u8
-#EXTINF:-1 xui-id="327" tvg-id="" tvg-name="Navo" tvg-logo="http://135.181.204.104:80/images/b1VFbKFiySV3qMwfXZLpmOj2QpSPySoYbJ1z2tk7X5FvhTCFEhG1GesNXlVWYmltct4oRYJOIfH6bNdtlCm8rT2TmZIj7r4QCuM-t5LVD2JmIGLMubctyQs43vdKQLvIikuQwQq4tORAH5nSqMurdg.png" group-title="Узбекистан",Navo
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGOBqaz9ru6HMF5B4o96bBg/m3u8
-#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="TTV Musiqa" tvg-logo="http://135.181.204.104:80/images/b1VFbKFiySV3qMwfXZLpmOj2QpSPySoYbJ1z2tk7X5FvhTCFEhG1GesNXlVWYmltqW-LZP1WQVctDfyCf57lCOMnLYRYwn9wMU6GMpWZeg9uNPBNCtQdFFvqdLowUzTGlDyB_ezYwIe9dyTZWtL3CQ.jpg" group-title="Узбекистан",TTV Musiqa
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJgwJZZ4ivBJg1vYDHZ3C4s/m3u8
-#EXTINF:-1 xui-id="329" tvg-id="" tvg-name="Mahalla" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-tIykS36eetZJ1dJx1H826-hBfphg5jrlv2N8W6Z358YpkEgNYAbZ3EDdFlNsE7EPPsNzbkQKcBV1cuenDmuKVQ.png" group-title="Узбекистан",Mahalla
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLMM-AMO0V1lb89JRLv7nro/m3u8
-#EXTINF:-1 xui-id="330" tvg-id="" tvg-name="Bolajon" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-LhNHGlX24iLT3PeNCjeIa7gx0E99tX5bEdYF1OTJ_uslyIaDlv3LBZDfZjHT1uoRpLvkP7BacXYZPurvwKxxxw.png" group-title="Узбекистан",Bolajon
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBUC_53wS9jhkWcR9nsITRg/m3u8
-#EXTINF:-1 xui-id="331" tvg-id="" tvg-name="Futbol TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-pfGOPKMxeKiRmJi56eAUnaY-YJqL1I3JLjCLj34_53O8zszZtKN25zihyj1BeJlnSyi9IXUugrK7d_2psYMjSw.jpeg" group-title="Узбекистан",Futbol TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPBITFPlxq6M8_c4v0T9Ew4/m3u8
-#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="FTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-cL4fXCCyDi3ZCUmJidp9tkrRMs-FXosR5UPdpA0gpydTMylZ1DyeWANMwm_No3Nrkub0xLOZv3Wy-iUwt97Eug.png" group-title="Узбекистан",FTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDUSXlRuFJW3xumVEWXyUNQ/m3u8
-#EXTINF:-1 xui-id="333" tvg-id="" tvg-name="Муз-ТВ (O'zbekiston)" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-hGELyaEUXNc0jQIrsrXCOeOl5ibw0wRKE2NGgA1E8c7io7qcsJH9jkcmida5sibtNOh9vGCAiiGdJ_mGszKP3g.jpeg" group-title="Узбекистан",Муз-ТВ (O'zbekiston)
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNeScsDJXzpa9ek8GlvGUwE/m3u8
-#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="Zo'r-TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-GVUTdO7Gb8lm_5eR_XgrrYrZ2rsmSlhMMSvEQ1Vs83pPKkSYup94vwK6eTtwg8UZIbUkibvaixqVejW6p1-B5g.png" group-title="Узбекистан",Zo'r-TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHP42tUMcvIcdVt1-hZL83U/m3u8
-#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="Milliy TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-5tRrTDc7bcLxZcrxPNRkzT_RVNQaqgP4mpMevofW5fIOFZ5Prrzeq9YoygEeZume_fScx3xBGZWfFbtBuFDNpQ.png" group-title="Узбекистан",Milliy TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHYnjrQkqsZ9g0UFyPYxt5w/m3u8
-#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="My5" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-iElXaoWLv6ufz9a7RhluVQtEvrbiSC1TfUBBIiiGP0Zj3hAZcE4fykBExy992qCIyzwZ--jSwzRj0g1iQ8Gy3A.png" group-title="Узбекистан",My5
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH4k8fUlcf7bTJkD_aBzrf8/m3u8
-#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="Sevimli" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-8PdMtuh5DPqTbmxFCH6UCYVaK2RT8fnEvWtxEz-dUbqhm0HmFo7VrNIUUPUEWNKx5MYpc4Eb0fWMg6frn9PCKQ.png" group-title="Узбекистан",Sevimli
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAqOIuKWQMFPEcqb-qUFhsE/m3u8
-#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="8TV" tvg-logo="http://135.181.204.104:80/images/nTaVG1tPv8gn6FhQiq-8a4MsSr82lNER0xBTXgK-_84bUCKnCPOgtx6VVEUUP0LVIp70Qy01qUI1l2uYjQKn93fAAwvRb03PtUokhGx60aB0sUjUl_tiJmjWc-q8oUuLK5vHZRokNyZguc18jPMiHg.jpeg" group-title="Узбекистан",8TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFCSWEoWtb4SZ37D32Lwt_k/m3u8
-#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="Nurafshon TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-DFO1w-pB2u6U-OiawmJQn8SLBPouHC5Ppitq2lp9I_RuNmwB53BVR9XbbcMLcpyTcoPOumUBYPv6cRx2_Oca3Q.png" group-title="Узбекистан",Nurafshon TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH1IYRJuKHD-cXswhPUhAP8/m3u8
-#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="Dasturxon" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-LPSc1V15VhK2FrA-PJJ60f4N9CKz8EBSUTpB1GxuuQ4GX-ryiHSl8xEcy_XVW5DIfTZsaURzQkJaXYaeORE6xA.png" group-title="Узбекистан",Dasturxon
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJI5FHghfFAULunXg1PnPUY/m3u8
-#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="MYDAYTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-oBL7OmWvCZYDB6m0RcDGjOGKcCYCUrgWHlraPgjPlByzD_GQVe1lVi-rAoO9BaugNtv202IsvU2wxwQYOscl3A.png" group-title="Узбекистан",MYDAYTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNJOz6YMOdimvuy88sBpAhs/m3u8
-#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="LuxTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-STUrORSIOli-0tiN793dSZbTy5KHJDsCc-ylMG6HzsWelb_tsXfUJvEoGkWgqkNNLoj6jaUqv1NGDQipdrFFEg.jpeg" group-title="Узбекистан",LuxTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOKwuoPTu2tIU2EMT2vYNek/m3u8
-#EXTINF:-1 xui-id="343" tvg-id="" tvg-name="Tasix-Media" tvg-logo="https://play-lh.googleusercontent.com/hjSBke6Y6pJhbAZQZdH59uY5rmm_MlDph8-CvJxg86pKwMdEE9598T52LAUrci9e2VZg=w240-h480-rw" group-title="Узбекистан",Tasix-Media
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMUmUOhBTF2Zwzfjx00a9I0/m3u8
 #EXTINF:-1 xui-id="344" tvg-id="" tvg-name="Солнечный тв" tvg-logo="http://135.181.204.104:80/images/pqMp9L2GzXwAEUTyPbFDx2Bspzd9Xtqa8r2s5zfuLFswdqQiSGtF6T639vVLwux17nRE05WZJ6dUrq9a0JQb2w.png" group-title="Узбекистан",Солнечный тв
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QA-jOXYu6r3KM9UVwGXIBSM/m3u8
-#EXTINF:-1 xui-id="345" tvg-id="" tvg-name="Makon TV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-RQidXJCvf__nE9Y-ur54Owl3K9GpkrNRvDOfEFIHyUkGQXfNkXpTo-Kyc4su206yF6sGahHUVb0bp6YTDHayQg.png" group-title="Узбекистан",Makon TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKXZvvl3oGkmiGRBh8jdu7k/m3u8
-#EXTINF:-1 xui-id="346" tvg-id="" tvg-name="RTV" tvg-logo="http://135.181.204.104:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-w4t_iwxqMBgBmyOXA0TLthRdOCcSZZvl2Bu8O_7SsUTZjDW0uk2rILU1ttVYJZPE9BSTBENY5nDKcokBZ8_pOA.png" group-title="Узбекистан",RTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMJTwI4Z6oO_BrJxp6jZiLs/m3u8
-#EXTINF:-1 xui-id="347" tvg-id="" tvg-name="O'zbekiston" tvg-logo="https://m3u.usite.pro/tv/uztv.webp" group-title="Узбекистан",O'zbekiston
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAfXTj6cW_Ri2Kq4dDd7MSg/m3u8
-#EXTINF:-1 xui-id="348" tvg-id="" tvg-name="Yoshlar" tvg-logo="https://m3u.usite.pro/tv/yosh.webp" group-title="Узбекистан",Yoshlar
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJEB9IeoXfUSDmVWLPYp4Tw/m3u8
-#EXTINF:-1 xui-id="349" tvg-id="" tvg-name="Toshkent" tvg-logo="https://m3u.usite.pro/tv/tosh.webp" group-title="Узбекистан",Toshkent
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPJgP1ShxxMXzIlh9pifhCI/m3u8
-#EXTINF:-1 xui-id="350" tvg-id="" tvg-name="My5" tvg-logo="https://m3u.usite.pro/tv/my5.webp" group-title="Узбекистан",My5
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFSoPh3EtDaRvdRBTKj1GIU/m3u8
 #EXTINF:-1 xui-id="351" tvg-id="" tvg-name="My5 International" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECrzHc4zBz5_Cyc6w4IW5tuDr9qCVBMwiGWbdeWZeu3FA.png" group-title="Узбекистан",My5 International
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHsKICTUljxoar2FDWLqPBo/m3u8
 #EXTINF:-1 xui-id="352" tvg-id="" tvg-name="Milliy TV" tvg-logo="https://m3u.usite.pro/tv/milliy.webp" group-title="Узбекистан",Milliy TV
@@ -721,26 +574,16 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKVrr4pxqh5jzCJ7m-CknUY/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAI2MoxNl_sb8ahC1IMIGk0/m3u8
 #EXTINF:-1 xui-id="357" tvg-id="" tvg-name="Istiqlol TV" tvg-logo="https://m3u.usite.pro/tv/istiq.webp" group-title="Узбекистан",Istiqlol TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJOvFSa-br-UEouQw741o6A/m3u8
-#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="ntv (o'zbekiston)" tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="Узбекистан",ntv (o'zbekiston)
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMM7T1lMvnLKuq5ElF1LZ04/m3u8
-#EXTINF:-1 xui-id="359" tvg-id="" tvg-name="Gold TV" tvg-logo="https://m3u.usite.pro/tv/ntv.webp" group-title="Узбекистан",Gold TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJOTHed2HFmBHbvRhuEQIKo/m3u8
 #EXTINF:-1 xui-id="360" tvg-id="" tvg-name="Farg'ona" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECpcXFipHKok0494-payGWONYVinJUbwYzH_54S8KYEaJ.jpeg" group-title="Узбекистан",Farg'ona
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHkq3VRgeyQJe8It2kZE0V8/m3u8
 #EXTINF:-1 xui-id="361" tvg-id="" tvg-name="Xorazm" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECjNmXeYiUYRaSmHDA9r2aeRrAw6b0Vx-U2ECli3rgdho.jpeg" group-title="Узбекистан",Xorazm
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNb64qgJEnLX3Vtx0KEqWfE/m3u8
 #EXTINF:-1 xui-id="362" tvg-id="" tvg-name="Qaraqalpaqstan" tvg-logo="https://m3u.usite.pro/tv/qaraqal.webp" group-title="Узбекистан",Qaraqalpaqstan
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QN3fcv8JNtInB2SqDyVzUxA/m3u8
-#EXTINF:-1 xui-id="363" tvg-id="" tvg-name="Ruxsor TV" tvg-logo="https://m3u.usite.pro/tv/ruxs.webp" group-title="Узбекистан",Ruxsor TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJxTLNnXmnYSljp_lc9RLdI/m3u8
 #EXTINF:-1 xui-id="364" tvg-id="" tvg-name="Nurafshon" tvg-logo="https://m3u.usite.pro/tv/nuraf.webp" group-title="Узбекистан",Nurafshon
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBWlqI7kPJnAdBSmfBaN_G8/m3u8
 #EXTINF:-1 xui-id="365" tvg-id="" tvg-name="Taraqqiyot tv" tvg-logo="https://m3u.usite.pro/tv/taraqq.webp" group-title="Узбекистан",Taraqqiyot tv
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QG5peT5mZmpw6l7GrECFBOs/m3u8
-#EXTINF:-1 xui-id="366" tvg-id="" tvg-name="Солнечный тв" tvg-logo="https://m3u.usite.pro/tv/stv.webp" group-title="Узбекистан",Солнечный тв
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJs1Yc8fjwQvZN1Tw8wJFKw/m3u8
-#EXTINF:-1 xui-id="367" tvg-id="" tvg-name="Sevimlijon" tvg-logo="https://m3u.usite.pro/tv/sevimlijon.webp" group-title="Узбекистан",Sevimlijon
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMEPYwc9F2b4FjF2RaPrT34/m3u8
 #EXTINF:-1 xui-id="368" tvg-id="" tvg-name="MiMi" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECjc2wnls2uGEYBJoA0JpGc51hiklDDARKuOIfzxrKrfU.jpeg" group-title="Узбекистан",MiMi
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCCrUze833Rqojxge0HDzWY/m3u8
 #EXTINF:-1 xui-id="369" tvg-id="" tvg-name="Bolajon" tvg-logo="https://m3u.usite.pro/tv/bola.webp" group-title="Узбекистан",Bolajon
@@ -751,36 +594,22 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIlJUcjxHhpRC9lAXGIvTf8/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBce88ZSmdefCce2BAjl-oA/m3u8
 #EXTINF:-1 xui-id="372" tvg-id="" tvg-name="TTV Kino" tvg-logo="https://m3u.usite.pro/tv/ttv2.webp" group-title="Узбекистан",TTV Kino
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKkAywcy9q4vdwwKylpL-og/m3u8
-#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="tasix-media kino" tvg-logo="https://m3u.usite.pro/tv/ttv2.webp" group-title="Узбекистан",tasix-media kino
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPcQaJipVMLZcLbIY5LgxvA/m3u8
 #EXTINF:-1 xui-id="374" tvg-id="" tvg-name="Cinema (uzb)" tvg-logo="https://m3u.usite.pro/tv/cinema.webp" group-title="Узбекистан",Cinema (uzb)
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QO_0bzCOgvMgm0wPJdCJxUk/m3u8
 #EXTINF:-1 xui-id="375" tvg-id="" tvg-name="BIZ TV" tvg-logo="https://m3u.usite.pro/tv/biz1.webp" group-title="Узбекистан",BIZ TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOUJgC2o1hi9uoYc2tFG8LU/m3u8
 #EXTINF:-1 xui-id="376" tvg-id="" tvg-name="BIZ Cinema" tvg-logo="https://m3u.usite.pro/tv/biz2.webp" group-title="Узбекистан",BIZ Cinema
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDIiknB2Gfx48s56AFe5wJg/m3u8
-#EXTINF:-1 xui-id="377" tvg-id="" tvg-name="Itv Cinema" tvg-logo="https://m3u.usite.pro/tv/itv1.webp" group-title="Узбекистан",Itv Cinema
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFKzuLY1DNRq5dQKkeK1q6s/m3u8
-#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="Kinoteatr" tvg-logo="https://m3u.usite.pro/tv/kinot.webp" group-title="Узбекистан",Kinoteatr
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDEPH_sk0u6Y9PXuFvH7-hU/m3u8
-#EXTINF:-1 xui-id="379" tvg-id="" tvg-name="Shifo TV" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECgV9Ov1JfhWOg_NtBZPlJ_bCyjATEJ8isvhbiPODnNpv.png" group-title="Узбекистан",Shifo TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH2WN1u8n7DiIQBp7bcc448/m3u8
-#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="Travel-tv (O'zbekiston)" tvg-logo="https://m3u.usite.pro/tv/travel.webp" group-title="Узбекистан",Travel-tv (O'zbekiston)
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBxFIig2IsUI0OBHEuzHsRM/m3u8
 #EXTINF:-1 xui-id="381" tvg-id="" tvg-name="Globus Music" tvg-logo="https://m3u.usite.pro/tv/smusic.webp" group-title="Узбекистан",Globus Music
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGZOFz5K0b9tPJUdyJP8NpQ/m3u8
 #EXTINF:-1 xui-id="382" tvg-id="" tvg-name="BIZ Music" tvg-logo="https://m3u.usite.pro/tv/biz3.webp" group-title="Узбекистан",BIZ Music
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QB0jx_IrUofxzRC1kzOvRTU/m3u8
 #EXTINF:-1 xui-id="383" tvg-id="" tvg-name="Муз-тв (o'zbekiston)" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECm-qygW6LSoEvBY_sJ-4mID6NwkbYJqFJLWmOQmw3o0J.png" group-title="Узбекистан",Муз-тв (o'zbekiston)
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDEhgzD9R2iAeNVfpB4qIj8/m3u8
-#EXTINF:-1 xui-id="384" tvg-id="" tvg-name="TTV Musiqa" tvg-logo="https://m3u.usite.pro/tv/ttvm.webp" group-title="Узбекистан",TTV Musiqa
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCOCQPwOAaHU9_MaVO3tL88/m3u8
 #EXTINF:-1 xui-id="385" tvg-id="" tvg-name="Navo" tvg-logo="https://m3u.usite.pro/tv/navo.webp" group-title="Узбекистан",Navo
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPVvfvPvXQLy0i23GP6YDVM/m3u8
 #EXTINF:-1 xui-id="386" tvg-id="" tvg-name="FTV" tvg-logo="https://m3u.usite.pro/tv/ftv.webp" group-title="Узбекистан",FTV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFn6Cdb04wEnyWo5mU1svAw/m3u8
-#EXTINF:-1 xui-id="387" tvg-id="" tvg-name="Live TV" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECvq45PNHdy_yReBOSiv7QXGOfjciZCd_f-AzScvZxkZO.png" group-title="Узбекистан",Live TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFEXxgBwFPiYQFCUDnu8WH0/m3u8
 #EXTINF:-1 xui-id="388" tvg-id="" tvg-name="MYDAYTV" tvg-logo="https://m3u.usite.pro/tv/myd.webp" group-title="Узбекистан",MYDAYTV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIM-43f53s-5xdfn-KcQoGI/m3u8
 #EXTINF:-1 xui-id="389" tvg-id="" tvg-name="Biznes TV" tvg-logo="http://135.181.204.104:80/images/hBT7ugqSO_Z1u3hn9wjECrwcPPgOg0Jbx0BADzra5SarHnSZyHNlG-RlNRkkX8jE.png" group-title="Узбекистан",Biznes TV
@@ -791,22 +620,14 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHm30NZIF3AsPd7p3M-cIU4/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDVNZdCvZUdrfXj4NMiH4C8/m3u8
 #EXTINF:-1 xui-id="392" tvg-id="" tvg-name="Dunyo Bo'ylab" tvg-logo="https://m3u.usite.pro/tv/dunyo.webp" group-title="Узбекистан",Dunyo Bo'ylab
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOE02VkwX62M6KvpW9zgwhY/m3u8
-#EXTINF:-1 xui-id="393" tvg-id="" tvg-name="RTV" tvg-logo="https://m3u.usite.pro/tv/renessans.webp" group-title="Узбекистан",RTV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJBAI5YiUt8f-msxs103dqw/m3u8
 #EXTINF:-1 xui-id="394" tvg-id="" tvg-name="O'zbekiston-24" tvg-logo="https://m3u.usite.pro/tv/uz24.webp" group-title="Узбекистан",O'zbekiston-24
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ2VvD8j2il-mFlhOiNRGXw/m3u8
 #EXTINF:-1 xui-id="395" tvg-id="" tvg-name="O'zbekiston tarixi" tvg-logo="https://m3u.usite.pro/tv/tarix.webp" group-title="Узбекистан",O'zbekiston tarixi
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOJHC61vjLW_4mrPH3hgfmE/m3u8
-#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="MahO'zbekistona" tvg-logo="https://m3u.usite.pro/tv/mahO'zbekistona.webp" group-title="Узбекистан",MahO'zbekistona
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJhj328OdpLzME9xJBF3Dfg/m3u8
 #EXTINF:-1 xui-id="397" tvg-id="" tvg-name="Uzreport" tvg-logo="https://m3u.usite.pro/tv/report.webp" group-title="Узбекистан",Uzreport
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKtAO6ZTSUZE6quZDZfsFu8/m3u8
 #EXTINF:-1 xui-id="398" tvg-id="" tvg-name="Sport uz" tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="Узбекистан",Sport uz
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAI-KOv355nGkyeX6podTew/m3u8
-#EXTINF:-1 xui-id="399" tvg-id="" tvg-name="Bilol" tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="Узбекистан",Bilol
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKTB2_u-T9fP9bprO2QKKEI/m3u8
-#EXTINF:-1 xui-id="400" tvg-id="" tvg-name="ubetsa" tvg-logo="https://m3u.usite.pro/tv/sport.webp" group-title="Узбекистан",ubetsa
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCMFlXzD1ypDQnqrqwNHwN4/m3u8
 #EXTINF:-1 xui-id="401" tvg-id="" tvg-name="Abai TV" tvg-logo="http://135.181.204.104:80/images/8X78MWWCIa0v3mkVRu5Rl83ZT2SeJ0qyC9YHG6lmFfOQZMWL22IRvK6AYZVe_dLx.png" group-title="Казахстан",Abai TV
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBg0gldoeVjXKCEzKgSzOYA/m3u8
 #EXTINF:-1 xui-id="402" tvg-id="" tvg-name="Qazaqstan TV International" tvg-logo="http://135.181.204.104:80/images/8X78MWWCIa0v3mkVRu5Rl83ZT2SeJ0qyC9YHG6lmFfOQZMWL22IRvK6AYZVe_dLx.png" group-title="Казахстан",Qazaqstan TV International
@@ -3349,8 +3170,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFd7FMgXoKlRWjQB1RvCEwc/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLfxN1vrfBuzS-EtRbRt6DU/m3u8
 #EXTINF:-1 xui-id="2571" tvg-id="" tvg-name="Tezaur TV Moldova" tvg-logo="" group-title="Молдова",Tezaur TV Moldova
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEFdqE_H_fW2hDDgoUb6Y-w/m3u8
-#EXTINF:-1 xui-id="2572" tvg-id="" tvg-name="Первый канал HD" tvg-logo="" group-title="Россия (ТЕСТ)",Первый канал HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJJ3T543WIWmEykMblvT3-U/m3u8
 #EXTINF:-1 xui-id="2573" tvg-id="" tvg-name="Россия 1 FHD" tvg-logo="" group-title="Россия (ТЕСТ)",Россия 1 FHD
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDBodl0NWB1GmOyPKoed8SA/m3u8
 #EXTINF:-1 xui-id="2574" tvg-id="" tvg-name="Россия 24 HD" tvg-logo="http://135.181.204.104:80/images/XfPCfH8sBNpoxbVASWMv531NJkLpeyLGM4V0RYB07Lk4fK5G1b9EVKAp9JoOQHeY.png" group-title="Россия (ТЕСТ)",Россия 24 HD
@@ -3369,8 +3188,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK2yQzTCGVkZcCrIS0goZxI/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBhe6Aj6M4cZmYjqp1rwVSY/m3u8
 #EXTINF:-1 xui-id="2581" tvg-id="" tvg-name="Россия 1" tvg-logo="" group-title="Россия (ТЕСТ)",Россия 1
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIAbMdQ2m0S48-036tWZSmk/m3u8
-#EXTINF:-1 xui-id="2582" tvg-id="" tvg-name="Россия К" tvg-logo="" group-title="Россия (ТЕСТ)",Россия К
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QErgcJ1A2r2p9wasPZv8Ptw/m3u8
 #EXTINF:-1 xui-id="2583" tvg-id="" tvg-name="Пятый канал" tvg-logo="" group-title="Россия (ТЕСТ)",Пятый канал
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDASQgP6Wz2Zm0Ysgjdcj1g/m3u8
 #EXTINF:-1 xui-id="2584" tvg-id="" tvg-name="2x2" tvg-logo="" group-title="Россия (ТЕСТ)",2x2
@@ -3399,10 +3216,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDR6S4dD5Ky6EwX_dej9XXw/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKlgZPWBWtFDbPHS_3X_1rg/m3u8
 #EXTINF:-1 xui-id="2596" tvg-id="" tvg-name="Пятница! Int." tvg-logo="" group-title="Россия (ТЕСТ)",Пятница! Int.
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOo0ayyMUDLrRB3rTUUjaW0/m3u8
-#EXTINF:-1 xui-id="2597" tvg-id="" tvg-name="Россия К" tvg-logo="" group-title="Россия (ТЕСТ)",Россия К
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QA5uF0Jg9hNJ2ETk2PTwWzs/m3u8
-#EXTINF:-1 xui-id="2598" tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="Россия (ТЕСТ)",ТВЦ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLYl7gEJiFRd2j3KwbePgek/m3u8
 #EXTINF:-1 xui-id="2599" tvg-id="" tvg-name="ARTA NEWS" tvg-logo="" group-title="Сербия",ARTA NEWS
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFxeWZ_XIVsxOZKI6bbtbtI/m3u8
 #EXTINF:-1 xui-id="2600" tvg-id="" tvg-name="Cinemania" tvg-logo="" group-title="Сербия",Cinemania
@@ -4425,22 +4238,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QG5wpidy7YtF_pQDoOeSXRY/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGO8Fa-h5UnRUcv4rU5JL_A/m3u8
 #EXTINF:-1 xui-id="5478" tvg-id="" tvg-name="sovainfo" tvg-logo="" group-title="Россия (ТЕСТ)",sovainfo
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJieIdhhYwnwZksahKGA0a8/m3u8
-#EXTINF:-1 xui-id="5479" tvg-id="" tvg-name="ntv +0" tvg-logo="" group-title="Россия (ТЕСТ)",ntv +0
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOW6cIe5rQAukbzJnkyKrVY/m3u8
-#EXTINF:-1 xui-id="5480" tvg-id="" tvg-name="ntv +1" tvg-logo="" group-title="Россия (ТЕСТ)",ntv +1
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPFTSwAlcAP3aM2gKr9NJnk/m3u8
-#EXTINF:-1 xui-id="5481" tvg-id="" tvg-name="ntv +2" tvg-logo="" group-title="Россия (ТЕСТ)",ntv +2
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QChPynPPmIwBgEQHEd11EMU/m3u8
-#EXTINF:-1 xui-id="5482" tvg-id="" tvg-name="ntv +4" tvg-logo="" group-title="Россия (ТЕСТ)",ntv +4
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDjpRMd2UQMcn8PqFoF_nsc/m3u8
-#EXTINF:-1 xui-id="5483" tvg-id="" tvg-name="ntv +7" tvg-logo="" group-title="Россия (ТЕСТ)",ntv +7
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDCM5p7CJaABCRI5-M0J72Q/m3u8
-#EXTINF:-1 xui-id="5484" tvg-id="" tvg-name="ntv style" tvg-logo="" group-title="Россия (ТЕСТ)",ntv style
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPOVfLMLfqtn4AeYFhADyEg/m3u8
-#EXTINF:-1 xui-id="5485" tvg-id="" tvg-name="ntv serial" tvg-logo="" group-title="Россия (ТЕСТ)",ntv serial
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHedEGlR4tRfBfSuN6TsRo8/m3u8
-#EXTINF:-1 xui-id="5486" tvg-id="" tvg-name="ntv pravo" tvg-logo="" group-title="Россия (ТЕСТ)",ntv pravo
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAY873CGFWyrdWxDorU9d7E/m3u8
 #EXTINF:-1 xui-id="5487" tvg-id="" tvg-name="rbc" tvg-logo="" group-title="Россия (ТЕСТ)",rbc
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNTLh9AcO14WSKizDbVIiEQ/m3u8
 #EXTINF:-1 xui-id="5488" tvg-id="" tvg-name="tnv" tvg-logo="" group-title="Россия (ТЕСТ)",tnv
@@ -4455,8 +4252,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFJShKTX-WEW75db0Wy42ng/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKM15YNCp7aSke1E6QWGV7c/m3u8
 #EXTINF:-1 xui-id="5493" tvg-id="" tvg-name="legendarniy24" tvg-logo="" group-title="Россия (ТЕСТ)",legendarniy24
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJTffvZFtEuPa5LZOWzRwq4/m3u8
-#EXTINF:-1 xui-id="5494" tvg-id="" tvg-name="78" tvg-logo="" group-title="Россия (ТЕСТ)",78
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDEAEuk1BHcqpfGtp6Wco8I/m3u8
 #EXTINF:-1 xui-id="5495" tvg-id="" tvg-name="mirtv" tvg-logo="" group-title="Россия (ТЕСТ)",mirtv
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ8PlUwJTGylrlY4wYy6OIM/m3u8
 #EXTINF:-1 xui-id="5496" tvg-id="" tvg-name="mir24" tvg-logo="" group-title="Россия (ТЕСТ)",mir24
@@ -4473,8 +4268,6 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIBDsuXqiX64FjFCCPH6Paw/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDjxLX3BveIC-fWVTk9vtfE/m3u8
 #EXTINF:-1 xui-id="5502" tvg-id="" tvg-name="stv24" tvg-logo="" group-title="Россия (ТЕСТ)",stv24
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBYyAQcqrNeeWQPEmoHp_BM/m3u8
-#EXTINF:-1 xui-id="5503" tvg-id="" tvg-name="tyumen-time" tvg-logo="" group-title="Россия (ТЕСТ)",tyumen-time
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPXwGKiGZhvPAl_L4Pf7bUQ/m3u8
 #EXTINF:-1 xui-id="5504" tvg-id="" tvg-name="yk24" tvg-logo="" group-title="Россия (ТЕСТ)",yk24
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPoqa1tk0Y1OGcL4rTb88VQ/m3u8
 #EXTINF:-1 xui-id="5505" tvg-id="" tvg-name="nvk-online" tvg-logo="" group-title="Россия (ТЕСТ)",nvk-online
@@ -5727,276 +5520,18 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOpyCHsUVrmmGFc1KHIFxx8/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMT6mjsl1qyRZYTHXxVPlwE/m3u8
 #EXTINF:-1 xui-id="6192" tvg-id="" tvg-name="VF Караоке" tvg-logo="" group-title="4к ТВ",VF Караоке
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPb6eZp3uNU0EgatDXU-I5M/m3u8
-#EXTINF:-1 xui-id="6317" tvg-id="" tvg-name="2x2" tvg-logo="" group-title="Россия",2x2
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ0L09S9pdsCDxcEAgEnOLI/m3u8
-#EXTINF:-1 xui-id="6318" tvg-id="" tvg-name="360.RU" tvg-logo="" group-title="Россия",360.RU
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDQLCXe9CzcoavsmYEUBBgg/m3u8
-#EXTINF:-1 xui-id="6319" tvg-id="" tvg-name="360.RU HD" tvg-logo="" group-title="Россия",360.RU HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QINjKXsRADylXwHAS51_9Hk/m3u8
-#EXTINF:-1 xui-id="6320" tvg-id="" tvg-name="365 дней" tvg-logo="" group-title="Россия",365 дней
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC4DA7oYHlcbA4BFsOtAxx0/m3u8
-#EXTINF:-1 xui-id="6321" tvg-id="" tvg-name="8 канал" tvg-logo="" group-title="Россия",8 канал
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGMl-nQIx5mXqOOLPtgXdyE/m3u8
-#EXTINF:-1 xui-id="6322" tvg-id="" tvg-name="СТС Kids HD" tvg-logo="" group-title="Россия",СТС Kids HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QF0stNP9lXGhuYOK_9bVdDM/m3u8
-#EXTINF:-1 xui-id="6323" tvg-id="" tvg-name="СТС Love" tvg-logo="" group-title="Россия",СТС Love
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLoemHzeOBLI8qGPqWd4C3o/m3u8
-#EXTINF:-1 xui-id="6324" tvg-id="" tvg-name="Da Vinci" tvg-logo="" group-title="Россия",Da Vinci
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEnOsPlxuh_FOixaA5fd2Gc/m3u8
-#EXTINF:-1 xui-id="6325" tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="Россия",Extreme Sports
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIXNMT8BFIcI9fruRJpyew0/m3u8
-#EXTINF:-1 xui-id="6326" tvg-id="" tvg-name="FAN" tvg-logo="" group-title="Россия",FAN
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAH_zLnlRiohQWvzvZYTZBk/m3u8
-#EXTINF:-1 xui-id="6327" tvg-id="" tvg-name="FlixSnip" tvg-logo="" group-title="Россия",FlixSnip
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK_lsg8-jZpGpay2ipRcPtc/m3u8
-#EXTINF:-1 xui-id="6328" tvg-id="" tvg-name="KHL" tvg-logo="" group-title="Россия",KHL
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDuKlOTVngqaggHBAGIsSzo/m3u8
-#EXTINF:-1 xui-id="6329" tvg-id="" tvg-name="МИР HD" tvg-logo="" group-title="Россия",МИР HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNgeFMWZgglSjO_F6Wbv__Y/m3u8
-#EXTINF:-1 xui-id="6330" tvg-id="" tvg-name="RT" tvg-logo="" group-title="Россия",RT
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMWLpz0zfuvMpZs6RmcJTF0/m3u8
-#EXTINF:-1 xui-id="6331" tvg-id="" tvg-name="RTG TV" tvg-logo="" group-title="Россия",RTG TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGGFa8658_ZdYQMTN6R3AOA/m3u8
-#EXTINF:-1 xui-id="6332" tvg-id="" tvg-name="RTG HD" tvg-logo="" group-title="Россия",RTG HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPp5ci7qRJQdAkreNJO-qf8/m3u8
-#EXTINF:-1 xui-id="6333" tvg-id="" tvg-name="Romance" tvg-logo="" group-title="Россия",Romance
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPqALGlAQQUdp75y3M3W7RI/m3u8
-#EXTINF:-1 xui-id="6334" tvg-id="" tvg-name="viju History" tvg-logo="" group-title="Россия",viju History
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLhkQa2G1-ZPEx2NYx6rIbw/m3u8
-#EXTINF:-1 xui-id="6335" tvg-id="" tvg-name="Москва 24" tvg-logo="" group-title="Россия",Москва 24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMkMmTulohFTX93ktW6RfeA/m3u8
-#EXTINF:-1 xui-id="6336" tvg-id="" tvg-name="Открытый мир" tvg-logo="" group-title="Россия",Открытый мир
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOfVY317Yqo-lxtBI0-Jg3A/m3u8
-#EXTINF:-1 xui-id="6337" tvg-id="" tvg-name="Первый канал" tvg-logo="" group-title="Россия",Первый канал
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNr7XUxnEbOIhw-znmuWtt0/m3u8
-#EXTINF:-1 xui-id="6338" tvg-id="" tvg-name="БелРос" tvg-logo="" group-title="Россия",БелРос
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEAHt5UKLaZIzFU4gP4sCRo/m3u8
-#EXTINF:-1 xui-id="6339" tvg-id="" tvg-name="Shot TV" tvg-logo="" group-title="Россия",Shot TV
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBdU-I_Pa3OrHQET6each7Q/m3u8
-#EXTINF:-1 xui-id="6340" tvg-id="" tvg-name="Т24" tvg-logo="" group-title="Россия",Т24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJo7XFN6B-d1dBe_kgreAV8/m3u8
-#EXTINF:-1 xui-id="6341" tvg-id="" tvg-name="ТНТ" tvg-logo="" group-title="Россия",ТНТ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNg3rzi7_HPVAHdDcnjDq8Q/m3u8
-#EXTINF:-1 xui-id="6342" tvg-id="" tvg-name="ТНТ4" tvg-logo="" group-title="Россия",ТНТ4
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QClHCb0kvdmXehFAVRCTy1g/m3u8
-#EXTINF:-1 xui-id="6343" tvg-id="" tvg-name="TLC" tvg-logo="" group-title="Россия",TLC
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP6wVRyU2zloeqXlRdYy8BY/m3u8
-#EXTINF:-1 xui-id="6344" tvg-id="" tvg-name="Tiji" tvg-logo="" group-title="Россия",Tiji
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPGIL69fZ8rRsqTPhV63pDU/m3u8
-#EXTINF:-1 xui-id="6345" tvg-id="" tvg-name="Ani" tvg-logo="" group-title="Россия",Ani
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK-wrlxE9xKk9_KJYdJNXDU/m3u8
-#EXTINF:-1 xui-id="6346" tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Россия",Animal Planet HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKzB_KGTqYLqsHIyqqvmtac/m3u8
-#EXTINF:-1 xui-id="6347" tvg-id="" tvg-name="Gulli Girl" tvg-logo="" group-title="Россия",Gulli Girl
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QD5tE2j3qtKZebR3Gd5gvoo/m3u8
-#EXTINF:-1 xui-id="6348" tvg-id="" tvg-name=".red" tvg-logo="" group-title="Россия",.red
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOsk3B5U2IRuZ9hOvRGWB4Y/m3u8
-#EXTINF:-1 xui-id="6349" tvg-id="" tvg-name=".sci-fi" tvg-logo="" group-title="Россия",.sci-fi
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDC1duWxkuvmea2Hsov7Nso/m3u8
-#EXTINF:-1 xui-id="6350" tvg-id="" tvg-name="viju Explore" tvg-logo="" group-title="Россия",viju Explore
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP4jPOQwaxpH01IriqqY2Ek/m3u8
-#EXTINF:-1 xui-id="6351" tvg-id="" tvg-name="viju Nature" tvg-logo="" group-title="Россия",viju Nature
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFhc4ceKUBHjDAtB9hRf1MY/m3u8
-#EXTINF:-1 xui-id="6352" tvg-id="" tvg-name="viju Sport" tvg-logo="" group-title="Россия",viju Sport
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHhjhWcjH5KQgMCxAkPSa88/m3u8
-#EXTINF:-1 xui-id="6353" tvg-id="" tvg-name="viju TV1000" tvg-logo="" group-title="Россия",viju TV1000
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGIS_2rG_cVs4HxnO8CAouQ/m3u8
-#EXTINF:-1 xui-id="6354" tvg-id="" tvg-name="viju TV1000 action" tvg-logo="" group-title="Россия",viju TV1000 action
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOKwta4wbj848kgTfG_vdwY/m3u8
-#EXTINF:-1 xui-id="6355" tvg-id="" tvg-name="viju TV1000 Русское кино" tvg-logo="" group-title="Россия",viju TV1000 Русское кино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFieeyRYVclXmMuP2Bxx58s/m3u8
-#EXTINF:-1 xui-id="6356" tvg-id="" tvg-name="Авто 24" tvg-logo="" group-title="Россия",Авто 24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFZwCGrys82xnbAmBa1wn_o/m3u8
-#EXTINF:-1 xui-id="6357" tvg-id="" tvg-name="Авто плюс" tvg-logo="" group-title="Россия",Авто плюс
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAda_Ly6PB0oyYML6bsLiI0/m3u8
-#EXTINF:-1 xui-id="6358" tvg-id="" tvg-name="Время" tvg-logo="" group-title="Россия",Время
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKSI3NgY2wV5a9FJHj1TSyU/m3u8
-#EXTINF:-1 xui-id="6359" tvg-id="" tvg-name="Детский мир HD" tvg-logo="" group-title="Россия",Детский мир HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFUSnB72XgS-N94FwJoOXR8/m3u8
-#EXTINF:-1 xui-id="6360" tvg-id="" tvg-name="Доктор" tvg-logo="" group-title="Россия",Доктор
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPfff-ziUdo3wTWqUfChrqk/m3u8
-#EXTINF:-1 xui-id="6361" tvg-id="" tvg-name="Дом кино" tvg-logo="" group-title="Россия",Дом кино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QD1fPIgYEWRJ12Ne0wzB8l0/m3u8
-#EXTINF:-1 xui-id="6362" tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="Россия",Домашний
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHQSvXEcOhOOSNV7OrGHc14/m3u8
-#EXTINF:-1 xui-id="6363" tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Россия",Еврокино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDAR2tu3FM7cE1wFSwR8ALM/m3u8
-#EXTINF:-1 xui-id="6364" tvg-id="" tvg-name="Жара" tvg-logo="" group-title="Россия",Жара
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBOgid5yuA-yM5jAxMQqqTs/m3u8
-#EXTINF:-1 xui-id="6365" tvg-id="" tvg-name="Живи" tvg-logo="" group-title="Россия",Живи
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPaSK3Um0y4Q2ofc4LrIBxo/m3u8
-#EXTINF:-1 xui-id="6366" tvg-id="" tvg-name="Звезда" tvg-logo="" group-title="Россия",Звезда
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE9SQH1k4csK3th-nOwz1Fs/m3u8
-#EXTINF:-1 xui-id="6367" tvg-id="" tvg-name="Zooпарк" tvg-logo="" group-title="Россия",Zooпарк
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBUkg3AMIsRbeTBwjdhFz8I/m3u8
-#EXTINF:-1 xui-id="6368" tvg-id="" tvg-name="Иллюзион+" tvg-logo="" group-title="Россия",Иллюзион+
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLEtwL9EyljsdO0FmY11le4/m3u8
-#EXTINF:-1 xui-id="6369" tvg-id="" tvg-name="Индийское кино" tvg-logo="" group-title="Россия",Индийское кино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP97MM_Cps2iZTsmuXsxTkY/m3u8
-#EXTINF:-1 xui-id="6370" tvg-id="" tvg-name="КВН ТВ" tvg-logo="" group-title="Россия",КВН ТВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNVjE89buueBDhrb64IijgY/m3u8
-#EXTINF:-1 xui-id="6371" tvg-id="" tvg-name="Карусель" tvg-logo="" group-title="Россия",Карусель
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEK6n9o6l1NB09a5Kix855I/m3u8
-#EXTINF:-1 xui-id="6372" tvg-id="" tvg-name="Кинеко" tvg-logo="" group-title="Россия",Кинеко
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJfLLBHQRGGkcuAlJt_M7dg/m3u8
-#EXTINF:-1 xui-id="6373" tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Россия",Кинопремьера HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHk4spgS3X97RcqKTLXSRO0/m3u8
-#EXTINF:-1 xui-id="6374" tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="Россия",Кинохит
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJoQ1wpHs8f-4p7cmpg9eZE/m3u8
-#EXTINF:-1 xui-id="6375" tvg-id="" tvg-name="ЛДПР" tvg-logo="" group-title="Россия",ЛДПР
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEgBAiAmGfsDTcEVcjNZEIA/m3u8
-#EXTINF:-1 xui-id="6376" tvg-id="" tvg-name="Лёва HD" tvg-logo="" group-title="Россия",Лёва HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QG59TSgPZZfYZEMcPRWGAsY/m3u8
-#EXTINF:-1 xui-id="6377" tvg-id="" tvg-name="Amedia Hit" tvg-logo="" group-title="Россия",Amedia Hit
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QF7xzlA2hCo_qIKqBrRwU-E/m3u8
-#EXTINF:-1 xui-id="6378" tvg-id="" tvg-name="Матч!" tvg-logo="" group-title="Россия",Матч!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE5F-SdUjlW9AT9I0Zq-x6s/m3u8
-#EXTINF:-1 xui-id="6379" tvg-id="" tvg-name="Матч! HD" tvg-logo="" group-title="Россия",Матч! HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHyYSKAMhLJHPQIG1vtPZRw/m3u8
-#EXTINF:-1 xui-id="6380" tvg-id="" tvg-name="Матч! Арена" tvg-logo="" group-title="Россия",Матч! Арена
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCgQji7dljnp0LHbCcdBGAE/m3u8
-#EXTINF:-1 xui-id="6381" tvg-id="" tvg-name="Матч ! Арена HD" tvg-logo="" group-title="Россия",Матч ! Арена HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCw1BihyZ4ud5K8yaTXcVLk/m3u8
-#EXTINF:-1 xui-id="6382" tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="Россия",Матч! Боец
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGybtnk35LGQBh4AbPi_e_8/m3u8
-#EXTINF:-1 xui-id="6383" tvg-id="" tvg-name="Матч! Игра" tvg-logo="" group-title="Россия",Матч! Игра
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIZWfOMmiIRbtFEne9hzz04/m3u8
-#EXTINF:-1 xui-id="6384" tvg-id="" tvg-name="Матч! Премьер" tvg-logo="" group-title="Россия",Матч! Премьер
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDfUfHhZDnlvKS7jsWFDGrc/m3u8
-#EXTINF:-1 xui-id="6385" tvg-id="" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="Россия",Матч! Премьер HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOZQJiiFOUesD8TFuTrG-fE/m3u8
-#EXTINF:-1 xui-id="6386" tvg-id="" tvg-name="Матч! Страна" tvg-logo="" group-title="Россия",Матч! Страна
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMoA-6gk4I2XttveR4vAtB4/m3u8
-#EXTINF:-1 xui-id="6387" tvg-id="" tvg-name="Матч! Футбол 1" tvg-logo="" group-title="Россия",Матч! Футбол 1
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBnRazBwdBtG1wTxi_7H3DQ/m3u8
-#EXTINF:-1 xui-id="6388" tvg-id="" tvg-name="Матч! Футбол 2" tvg-logo="" group-title="Россия",Матч! Футбол 2
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKXRME5zUV_JFtpR47pqvDE/m3u8
-#EXTINF:-1 xui-id="6389" tvg-id="" tvg-name="Матч! Футбол 3" tvg-logo="" group-title="Россия",Матч! Футбол 3
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE4yVEgWh96P1BXyYiSidLY/m3u8
-#EXTINF:-1 xui-id="6390" tvg-id="" tvg-name="Мир" tvg-logo="" group-title="Россия",Мир
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNPAkpwEIJNOWxdI3E4GiM4/m3u8
-#EXTINF:-1 xui-id="6391" tvg-id="" tvg-name="Мир 24  HD" tvg-logo="" group-title="Россия",Мир 24  HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QESV5sJaNdFU45eI3aRCDKk/m3u8
-#EXTINF:-1 xui-id="6392" tvg-id="" tvg-name="Fashion TV HD" tvg-logo="" group-title="Россия",Fashion TV HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHYseQTa47ICE_cGTg_NMdY/m3u8
-#EXTINF:-1 xui-id="6393" tvg-id="" tvg-name="Москва Доверие" tvg-logo="" group-title="Россия",Москва Доверие
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOUwQ3DqaI5C3tra0CqygBQ/m3u8
-#EXTINF:-1 xui-id="6394" tvg-id="" tvg-name="Мульт  HD" tvg-logo="" group-title="Россия",Мульт  HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIuZt1xRYjHdEi2tXI-r2Bc/m3u8
-#EXTINF:-1 xui-id="6395" tvg-id="" tvg-name="Мульт и музыка" tvg-logo="" group-title="Россия",Мульт и музыка
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBRh3-48Vt1gzuzTw3eHGAk/m3u8
-#EXTINF:-1 xui-id="6396" tvg-id="" tvg-name="НТВ" tvg-logo="" group-title="Россия",НТВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP4vfKWyLRmTaGQhpZMbKug/m3u8
-#EXTINF:-1 xui-id="6397" tvg-id="" tvg-name="НТС" tvg-logo="" group-title="Россия",НТС
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAVAl5Y5zXgndlK4EaPErmM/m3u8
-#EXTINF:-1 xui-id="6398" tvg-id="" tvg-name="Уникум" tvg-logo="" group-title="Россия",Уникум
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJyPEUGwK_1YV3GXlda0FXw/m3u8
-#EXTINF:-1 xui-id="6399" tvg-id="" tvg-name="Наука  HD" tvg-logo="" group-title="Россия",Наука  HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFNoJ8pPJuHgf6Dnf3x8HC8/m3u8
-#EXTINF:-1 xui-id="6400" tvg-id="" tvg-name="Ностальгия" tvg-logo="" group-title="Россия",Ностальгия
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKZEMz3yiP5K5C5UQoEw1Ik/m3u8
-#EXTINF:-1 xui-id="6401" tvg-id="" tvg-name="ОТР" tvg-logo="" group-title="Россия",ОТР
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDZmazuBhfvdbU-OClLR6d4/m3u8
-#EXTINF:-1 xui-id="6402" tvg-id="" tvg-name="Первый канал (+4)" tvg-logo="" group-title="Россия",Первый канал (+4)
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOHrWBXrKPTXtJlbMy1N2XY/m3u8
-#EXTINF:-1 xui-id="6403" tvg-id="" tvg-name="Первый канал" tvg-logo="" group-title="Россия",Первый канал
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAUWYUvmpBE8PRX_713DmM4/m3u8
-#EXTINF:-1 xui-id="6404" tvg-id="" tvg-name="Kion хит" tvg-logo="" group-title="Россия",Kion хит
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCWOCv4jOYdX76jTmXb7VEM/m3u8
-#EXTINF:-1 xui-id="6405" tvg-id="" tvg-name="Моя Планета" tvg-logo="" group-title="Россия",Моя Планета
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK5rWDbElz7516-uRrXsigc/m3u8
-#EXTINF:-1 xui-id="6406" tvg-id="" tvg-name="Моя Планета HD" tvg-logo="" group-title="Россия",Моя Планета HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNUZHkOqe6T1MJ5ftddU79A/m3u8
-#EXTINF:-1 xui-id="6407" tvg-id="" tvg-name="Победа" tvg-logo="" group-title="Россия",Победа
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMGMwV-Ylu4m_MWI4a9NPps/m3u8
-#EXTINF:-1 xui-id="6408" tvg-id="" tvg-name="Продвижение" tvg-logo="" group-title="Россия",Продвижение
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDkrJNPZeGLcU4OXfHsp0yI/m3u8
-#EXTINF:-1 xui-id="6409" tvg-id="" tvg-name="Пятница!" tvg-logo="" group-title="Россия",Пятница!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAoQLOaBdqxXue1pkyOgjj8/m3u8
-#EXTINF:-1 xui-id="6410" tvg-id="" tvg-name="Пятый канал" tvg-logo="" group-title="Россия",Пятый канал
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFQQXqapSgTU_qh_AmuuEUo/m3u8
-#EXTINF:-1 xui-id="6411" tvg-id="" tvg-name="РБК" tvg-logo="" group-title="Россия",РБК
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKROd4p12zGAQMd5U2p34Vo/m3u8
-#EXTINF:-1 xui-id="6412" tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="Россия",Рен ТВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOwypbd7HO_ty_HPklnro3w/m3u8
-#EXTINF:-1 xui-id="6413" tvg-id="" tvg-name="Россия 1" tvg-logo="" group-title="Россия",Россия 1
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ-oT7ydH7RhjY1-26XizTg/m3u8
-#EXTINF:-1 xui-id="6414" tvg-id="" tvg-name="Россия 1 HD" tvg-logo="" group-title="Россия",Россия 1 HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIL5l-fGUWPpMo4vFAwLIm4/m3u8
-#EXTINF:-1 xui-id="6415" tvg-id="" tvg-name="Россия 24" tvg-logo="" group-title="Россия",Россия 24
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPtfwaHOc190P1q2EjNUig8/m3u8
-#EXTINF:-1 xui-id="6416" tvg-id="" tvg-name="Россия К" tvg-logo="" group-title="Россия",Россия К
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QB959WmK-X5Fk5tKXTJuDlw/m3u8
-#EXTINF:-1 xui-id="6417" tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="Россия",Русский Бестселлер
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAsWee23_DBFunNBxLKdpUQ/m3u8
-#EXTINF:-1 xui-id="6418" tvg-id="" tvg-name="Русский иллюзион" tvg-logo="" group-title="Россия",Русский иллюзион
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEiU4VQtyKKW1VwaIQCKeAI/m3u8
-#EXTINF:-1 xui-id="6419" tvg-id="" tvg-name="Русский роман" tvg-logo="" group-title="Россия",Русский роман
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIelZ3FnCRipJEg8j-ifMU0/m3u8
-#EXTINF:-1 xui-id="6420" tvg-id="" tvg-name="Рыбалка" tvg-logo="" group-title="Россия",Рыбалка
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QE2wH2B5XIPn0ZL9jy1vViI/m3u8
-#EXTINF:-1 xui-id="6421" tvg-id="" tvg-name="СТС" tvg-logo="" group-title="Россия",СТС
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC_hyGRk2Gy7XJSIlRULEc0/m3u8
-#EXTINF:-1 xui-id="6422" tvg-id="" tvg-name="СТС HD" tvg-logo="" group-title="Россия",СТС HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHToa-h2KrHC-O7ocQhTrRo/m3u8
-#EXTINF:-1 xui-id="6423" tvg-id="" tvg-name="Сапфир" tvg-logo="" group-title="Россия",Сапфир
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOAWB7TRpjZgWLhUFtKlcq8/m3u8
-#EXTINF:-1 xui-id="6424" tvg-id="" tvg-name="Сапфир HD" tvg-logo="" group-title="Россия",Сапфир HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPJqlC3YpRB99X0ZjZpWCLw/m3u8
-#EXTINF:-1 xui-id="6425" tvg-id="" tvg-name="Сарафан" tvg-logo="" group-title="Россия",Сарафан
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDzCP6VyvDC9gStMiq1fzuQ/m3u8
-#EXTINF:-1 xui-id="6426" tvg-id="" tvg-name="Солнце" tvg-logo="" group-title="Россия",Солнце
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKR7TAf55dZBwiaGwyL6YJ0/m3u8
-#EXTINF:-1 xui-id="6427" tvg-id="" tvg-name="Спас" tvg-logo="" group-title="Россия",Спас
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPRmrygyrG2kd0kU43wWx10/m3u8
-#EXTINF:-1 xui-id="6428" tvg-id="" tvg-name="Суббота!" tvg-logo="" group-title="Россия",Суббота!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAUqIMQCIme_kBqmvSfz65w/m3u8
-#EXTINF:-1 xui-id="6429" tvg-id="" tvg-name="ТБН" tvg-logo="" group-title="Россия",ТБН
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCC509any-NofY9DIAWdeg0/m3u8
-#EXTINF:-1 xui-id="6430" tvg-id="" tvg-name="ТВ21" tvg-logo="" group-title="Россия",ТВ21
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QL6fNvH-7tQnDTb0DKScn5s/m3u8
-#EXTINF:-1 xui-id="6431" tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Россия",ТВ3
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCycCa5q1SKyCKfXBUFIrtQ/m3u8
-#EXTINF:-1 xui-id="6432" tvg-id="" tvg-name="ТВЦ" tvg-logo="" group-title="Россия",ТВЦ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNs-QB9atxuSqZ4qboBsKu4/m3u8
-#EXTINF:-1 xui-id="6433" tvg-id="" tvg-name="ТНВ" tvg-logo="" group-title="Россия",ТНВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMmE0s9oRwwJKo24Q7_7KB4/m3u8
-#EXTINF:-1 xui-id="6434" tvg-id="" tvg-name="ТНТ HD" tvg-logo="" group-title="Россия",ТНТ HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QACqfRmd8lfhjPVE2NHkiLk/m3u8
-#EXTINF:-1 xui-id="6435" tvg-id="" tvg-name="Телекафе" tvg-logo="" group-title="Россия",Телекафе
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QAK7xnVZI5iWo9jJjGYY8hI/m3u8
-#EXTINF:-1 xui-id="6436" tvg-id="" tvg-name="Точка РФ  HD" tvg-logo="" group-title="Россия",Точка РФ  HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QD2zEPOBgFvS-NF8KktXwvQ/m3u8
-#EXTINF:-1 xui-id="6437" tvg-id="" tvg-name="Точка отрыва" tvg-logo="" group-title="Россия",Точка отрыва
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH3PKx82nNhJm3PA8wHwpoU/m3u8
-#EXTINF:-1 xui-id="6438" tvg-id="" tvg-name="Футбол" tvg-logo="" group-title="Россия",Футбол
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOcStxulPQzsKfW4pM0MioY/m3u8
-#EXTINF:-1 xui-id="6439" tvg-id="" tvg-name="Че!" tvg-logo="" group-title="Россия",Че!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPuu0ZIXwcFtCkeHbf0BzB4/m3u8
-#EXTINF:-1 xui-id="6440" tvg-id="" tvg-name="Ю" tvg-logo="" group-title="Россия",Ю
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ285udoPzhmjEuDNvf8tzo/m3u8
 #EXTINF:-1 xui-id="6441" tvg-id="" tvg-name="Amedia 2" tvg-logo="" group-title="Россия (ТЕСТ)",Amedia 2
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLWtTCLXEU9HdYSg5jHkNbk/m3u8
 #EXTINF:-1 xui-id="6442" tvg-id="" tvg-name="Ani" tvg-logo="" group-title="Россия (ТЕСТ)",Ani
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEDrpxSxw_O3NXK-rSHVL2Q/m3u8
-#EXTINF:-1 xui-id="6443" tvg-id="" tvg-name="FoodTime" tvg-logo="" group-title="Россия (ТЕСТ)",FoodTime
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHn_DZ8FWemb7v_8VzeN6RU/m3u8
-#EXTINF:-1 xui-id="6444" tvg-id="" tvg-name="Точка.РФ HD" tvg-logo="" group-title="Россия (ТЕСТ)",Точка.РФ HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QI4vCmdHVOpTd1N5TjZKaAA/m3u8
-#EXTINF:-1 xui-id="6445" tvg-id="" tvg-name="СТС kids" tvg-logo="" group-title="Россия (ТЕСТ)",СТС kids
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHwxwCebURAfGQwqF53EF_g/m3u8
 #EXTINF:-1 xui-id="6446" tvg-id="" tvg-name="Авто Плюс" tvg-logo="" group-title="Россия (ТЕСТ)",Авто Плюс
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIYO5mpCIQZTseY9Yh_f8J4/m3u8
 #EXTINF:-1 xui-id="6447" tvg-id="" tvg-name="Время" tvg-logo="" group-title="Россия (ТЕСТ)",Время
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QObIYrJrf_XG9RSh2pEjkgc/m3u8
-#EXTINF:-1 xui-id="6448" tvg-id="" tvg-name="Дом Кино Премиум HD" tvg-logo="" group-title="Россия (ТЕСТ)",Дом Кино Премиум HD
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP97_tJHNRJuwKtiDveJ0Ig/m3u8
 #EXTINF:-1 xui-id="6449" tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Россия (ТЕСТ)",Еврокино
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEZo3e1GWF5klKNlweNxHNs/m3u8
 #EXTINF:-1 xui-id="6450" tvg-id="" tvg-name="Живая Планета" tvg-logo="" group-title="Россия (ТЕСТ)",Живая Планета
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKfMJpTqdU73iC37vQaHgG0/m3u8
-#EXTINF:-1 xui-id="6451" tvg-id="" tvg-name="ЖИВИ!" tvg-logo="" group-title="Россия (ТЕСТ)",ЖИВИ!
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ5E4UM90wguhIjWE5EAl1A/m3u8
 #EXTINF:-1 xui-id="6452" tvg-id="" tvg-name="Иллюзион+" tvg-logo="" group-title="Россия (ТЕСТ)",Иллюзион+
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFYJQDZZNIcKTMEjonnUHwk/m3u8
 #EXTINF:-1 xui-id="6453" tvg-id="" tvg-name="Индия" tvg-logo="" group-title="Россия (ТЕСТ)",Индия
@@ -6005,32 +5540,18 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFSm5hA-iqAutRRgyXTj7KA/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCj_YQpLCMb19udfefo4zGs/m3u8
 #EXTINF:-1 xui-id="6455" tvg-id="" tvg-name="Карусель" tvg-logo="" group-title="Россия (ТЕСТ)",Карусель
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHmq6nQ8SU2awPDyDECULpw/m3u8
-#EXTINF:-1 xui-id="6456" tvg-id="" tvg-name="КВН ТВ" tvg-logo="" group-title="Россия (ТЕСТ)",КВН ТВ
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJdRqQEHZT-FYsYuJ_TSQ18/m3u8
 #EXTINF:-1 xui-id="6457" tvg-id="" tvg-name="Кухня ТВ" tvg-logo="" group-title="Россия (ТЕСТ)",Кухня ТВ
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJjagVtKM1PLnlMxHIOL0F8/m3u8
-#EXTINF:-1 xui-id="6458" tvg-id="" tvg-name="Матч! Страна" tvg-logo="" group-title="Россия (ТЕСТ)",Матч! Страна
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEmtFi3tsT1-hIdRb7Nb8L4/m3u8
-#EXTINF:-1 xui-id="6459" tvg-id="" tvg-name="Русский роман" tvg-logo="" group-title="Россия (ТЕСТ)",Русский роман
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLbLG2geeLPcuwEnUW6R5W8/m3u8
 #EXTINF:-1 xui-id="6460" tvg-id="" tvg-name="Рыжий" tvg-logo="" group-title="Россия (ТЕСТ)",Рыжий
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QENmvPoW8h5WGVxak_KHGPM/m3u8
 #EXTINF:-1 xui-id="6461" tvg-id="" tvg-name="СТС Love" tvg-logo="" group-title="Россия (ТЕСТ)",СТС Love
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIqFQ7MTOKUG2LfZet17Vkw/m3u8
 #EXTINF:-1 xui-id="6462" tvg-id="" tvg-name="Театр" tvg-logo="" group-title="Россия (ТЕСТ)",Театр
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QInNBUbzzqNHxzYDOyI6yhs/m3u8
-#EXTINF:-1 xui-id="6463" tvg-id="" tvg-name="Телекафе" tvg-logo="" group-title="Россия (ТЕСТ)",Телекафе
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFKWq8FFDR4U_QrxIWKTyIQ/m3u8
-#EXTINF:-1 xui-id="6464" tvg-id="" tvg-name="Телепутешествия" tvg-logo="" group-title="Россия (ТЕСТ)",Телепутешествия
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QM_fQVWQtsNPmcOLkjmTB8U/m3u8
 #EXTINF:-1 xui-id="6465" tvg-id="" tvg-name="Уникум" tvg-logo="" group-title="Россия (ТЕСТ)",Уникум
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLK9hxq9KwwyuG97dwP5k2U/m3u8
-#EXTINF:-1 xui-id="6466" tvg-id="" tvg-name="Феникс+Кино" tvg-logo="" group-title="Россия (ТЕСТ)",Феникс+Кино
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIOboanzgNiWmPaFE_0cIR8/m3u8
 #EXTINF:-1 xui-id="6467" tvg-id="" tvg-name="Че!" tvg-logo="" group-title="Россия (ТЕСТ)",Че!
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBT6QJPUyL8iZ7GArV-zMjw/m3u8
-#EXTINF:-1 xui-id="6468" tvg-id="" tvg-name="Футбол" tvg-logo="" group-title="Россия (ТЕСТ)",Футбол
-http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMg-1FB4BJUeryt1Eh1whDc/m3u8
 #EXTINF:-1 xui-id="6469" tvg-id="" tvg-name="LentaKino" tvg-logo="http://135.181.204.104:80/images/ZJd2YmmlSjxuJJ13L_ZGYBUeNaKrZXeUv968OI7G7LdC3-fxXoNBsrmPnw42rfBp.png" group-title="КиноЗал",LentaKino
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMiYhWvxKEIqG6zsUxtg5Uk/m3u8
 #EXTINF:-1 xui-id="6470" tvg-id="" tvg-name="Retrovision SD" tvg-logo="http://135.181.204.104:80/images/-7oKEATgI6CdWxwKW-B7iw_DjyJKdLABNTz6vfy4izvTJveQKZW5tUTDADigddxaCPTkt2H6drLaXyC6Db5wEVWf9jAdYCLOTMwdiALGXxo.jpg" group-title="КиноЗал",Retrovision SD
@@ -6763,6 +6284,94 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOXU634qZJ2erxEboCsr524/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKMttLER9DOr2efAaO9bzUU/m3u8
 #EXTINF:-1 xui-id="6843" tvg-id="" tvg-name="Fight Network" tvg-logo="" group-title="Спорт",Fight Network
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QM66NX_XtkDbFC6Ue4HqP08/m3u8
+#EXTINF:-1 xui-id="7437" tvg-id="" tvg-name="Россия К" tvg-logo="" group-title="Россия",Россия К
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QO7jsv45J_czIvAUXRh02p4/m3u8
+#EXTINF:-1 xui-id="7438" tvg-id="" tvg-name="Россия 24" tvg-logo="" group-title="Россия",Россия 24
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLQoZNlCmlvgeqoRvJdeVVw/m3u8
+#EXTINF:-1 xui-id="7439" tvg-id="" tvg-name="Россия 1" tvg-logo="" group-title="Россия",Россия 1
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QL68ujSjnry9RNBoiUoYGpo/m3u8
+#EXTINF:-1 xui-id="7440" tvg-id="" tvg-name="ТНТ" tvg-logo="" group-title="Россия",ТНТ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMcVJcIRA13hDw9UwRhkzbs/m3u8
+#EXTINF:-1 xui-id="7441" tvg-id="" tvg-name="НТВ" tvg-logo="" group-title="Россия",НТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPVfNtU-Y-AYne-k2CIBxI4/m3u8
+#EXTINF:-1 xui-id="7442" tvg-id="" tvg-name="Рен ТВ" tvg-logo="" group-title="Россия",Рен ТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHW9SaWF3781Ts1yw963soo/m3u8
+#EXTINF:-1 xui-id="7443" tvg-id="" tvg-name="Моя планета HD" tvg-logo="" group-title="Россия",Моя планета HD
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIR8KNgeQ6idhAthp891JEw/m3u8
+#EXTINF:-1 xui-id="7444" tvg-id="" tvg-name="Доктор" tvg-logo="" group-title="Россия",Доктор
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH6n7fqKN8-XtN1XEE4nNDY/m3u8
+#EXTINF:-1 xui-id="7445" tvg-id="" tvg-name="Живая планета" tvg-logo="" group-title="Россия",Живая планета
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEHF6wkMj1GWtVvOMseNDkg/m3u8
+#EXTINF:-1 xui-id="7446" tvg-id="" tvg-name="Наука 2.0" tvg-logo="" group-title="Россия",Наука 2.0
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJnukmj9vvqvWsMEdeFxWE4/m3u8
+#EXTINF:-1 xui-id="7447" tvg-id="" tvg-name="История" tvg-logo="" group-title="Россия",История
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHmNyRAWamHHRNkErNkyF-Q/m3u8
+#EXTINF:-1 xui-id="7448" tvg-id="" tvg-name="Пес и Ко" tvg-logo="" group-title="Россия",Пес и Ко
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEU5C_Dii7ZbfmZOa4bsO9A/m3u8
+#EXTINF:-1 xui-id="7449" tvg-id="" tvg-name="РЖД ТВ" tvg-logo="" group-title="Россия",РЖД ТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFKg0vVJdJTHUuHT34gqOVw/m3u8
+#EXTINF:-1 xui-id="7450" tvg-id="" tvg-name="Звезда" tvg-logo="" group-title="Россия",Звезда
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCuODBjlP0XbK3JjKwmb5_U/m3u8
+#EXTINF:-1 xui-id="7451" tvg-id="" tvg-name="ТВ3" tvg-logo="" group-title="Россия",ТВ3
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEJuxZS5Y2hJ5Dd-CfM3QcY/m3u8
+#EXTINF:-1 xui-id="7452" tvg-id="" tvg-name="СТС" tvg-logo="" group-title="Россия",СТС
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGRYjDzheWrsQ4cZrZN_bxg/m3u8
+#EXTINF:-1 xui-id="7453" tvg-id="" tvg-name="ОТР" tvg-logo="" group-title="Россия",ОТР
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGOaAwTmRc2ItQbk-V9_1qI/m3u8
+#EXTINF:-1 xui-id="7454" tvg-id="" tvg-name="МИР" tvg-logo="" group-title="Россия",МИР
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCm0n9HeklTAmIYpOJ4GqLg/m3u8
+#EXTINF:-1 xui-id="7455" tvg-id="" tvg-name="Домашний" tvg-logo="" group-title="Россия",Домашний
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEVUR29-s36M7KrmKkk7A9g/m3u8
+#EXTINF:-1 xui-id="7456" tvg-id="" tvg-name="Ю" tvg-logo="" group-title="Россия",Ю
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC7J_HCbgjn1J6ZASDMHsdE/m3u8
+#EXTINF:-1 xui-id="7457" tvg-id="" tvg-name="Пятница" tvg-logo="" group-title="Россия",Пятница
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QNN7aPkPxi5jenmGi68BkAo/m3u8
+#EXTINF:-1 xui-id="7458" tvg-id="" tvg-name="Спас" tvg-logo="" group-title="Россия",Спас
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QET089RMSCCAJXgDlWLiOKk/m3u8
+#EXTINF:-1 xui-id="7459" tvg-id="" tvg-name="Союз" tvg-logo="" group-title="Россия",Союз
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPy5FNPUkHMGx-cYCsSxNbQ/m3u8
+#EXTINF:-1 xui-id="7460" tvg-id="" tvg-name="Драйв" tvg-logo="" group-title="Россия",Драйв
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QI8EImploezM01pAiYdMlDM/m3u8
+#EXTINF:-1 xui-id="7461" tvg-id="" tvg-name="Русский иллюзион" tvg-logo="" group-title="Россия",Русский иллюзион
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIjZ6-uVon9cBfU-b3FmA_4/m3u8
+#EXTINF:-1 xui-id="7462" tvg-id="" tvg-name="Иллюзион+" tvg-logo="" group-title="Россия",Иллюзион+
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLvmZydMHCJyEhmWjbJPXNI/m3u8
+#EXTINF:-1 xui-id="7463" tvg-id="" tvg-name="Кино ТВ" tvg-logo="" group-title="Россия",Кино ТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGjmbOo5VNW2xUq6-MRF8vc/m3u8
+#EXTINF:-1 xui-id="7464" tvg-id="" tvg-name="Еврокино" tvg-logo="" group-title="Россия",Еврокино
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QOX6uv3usOnT4Fjrn8DIW8Y/m3u8
+#EXTINF:-1 xui-id="7465" tvg-id="" tvg-name="НАШЕ НОВОЕ КИНО" tvg-logo="" group-title="Россия",НАШЕ НОВОЕ КИНО
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBUIcMJegFHW7p1VGLSdJZM/m3u8
+#EXTINF:-1 xui-id="7466" tvg-id="" tvg-name="Русский роман" tvg-logo="" group-title="Россия",Русский роман
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLgWp2TFsPcrCtcE3ND_U84/m3u8
+#EXTINF:-1 xui-id="7467" tvg-id="" tvg-name="Cinema" tvg-logo="" group-title="Россия",Cinema
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QA7tLtyZ6p1G0lABsOD6VZ4/m3u8
+#EXTINF:-1 xui-id="7468" tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Россия",Кинокомедия
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QECZspv1ZgNwvr0TrNmezXI/m3u8
+#EXTINF:-1 xui-id="7469" tvg-id="" tvg-name="Киномикс" tvg-logo="" group-title="Россия",Киномикс
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHLX-IU4yLe-tys70T6aOVo/m3u8
+#EXTINF:-1 xui-id="7470" tvg-id="" tvg-name="МузТВ" tvg-logo="" group-title="Россия",МузТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMEn2zjBZyXf_C1K23luDQI/m3u8
+#EXTINF:-1 xui-id="7471" tvg-id="" tvg-name="Шансон ТВ" tvg-logo="" group-title="Россия",Шансон ТВ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPSu08761tDW3vz2j7qz9uw/m3u8
+#EXTINF:-1 xui-id="7472" tvg-id="" tvg-name="ТНТ Music" tvg-logo="" group-title="Россия",ТНТ Music
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFvs6iSqclFOAB9XO7I2_GM/m3u8
+#EXTINF:-1 xui-id="7473" tvg-id="" tvg-name="КАРУСЕЛЬ" tvg-logo="" group-title="Россия",КАРУСЕЛЬ
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGwfSPmoAtHzf__Mg84G4vY/m3u8
+#EXTINF:-1 xui-id="7474" tvg-id="" tvg-name="Уникум" tvg-logo="" group-title="Россия",Уникум
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QM7rMwhhxcC0gHVqWou--sw/m3u8
+#EXTINF:-1 xui-id="7475" tvg-id="" tvg-name="Мульт" tvg-logo="" group-title="Россия",Мульт
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPSpBaaXP8QD1Yny4v3takM/m3u8
+#EXTINF:-1 xui-id="7476" tvg-id="" tvg-name="Мульт HD" tvg-logo="" group-title="Россия",Мульт HD
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDQDUpGjLJHkC2LYkkrCSKA/m3u8
+#EXTINF:-1 xui-id="7477" tvg-id="" tvg-name="В гостях у сказки HD" tvg-logo="" group-title="Россия",В гостях у сказки HD
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QC-Tus4CwUn-wo2z2Ia0S0A/m3u8
+#EXTINF:-1 xui-id="7478" tvg-id="" tvg-name="Супергерои" tvg-logo="" group-title="Россия",Супергерои
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLmj3ZUkB7upd-MFjdYKOnY/m3u8
+#EXTINF:-1 xui-id="7479" tvg-id="" tvg-name="Солнце" tvg-logo="" group-title="Россия",Солнце
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBNNVf0SeIwDSsABbzwF6a8/m3u8
+#EXTINF:-1 xui-id="7480" tvg-id="" tvg-name="Ani" tvg-logo="" group-title="Россия",Ani
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHRvOhM3uOfRRZMY5Fr9lAc/m3u8
 #EXTINF:-1 xui-id="6844" tvg-id="" tvg-name="Ruslan va Lyudmila" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EosWyt65-4l0WM5d_9I-WpJI-PGyB3Dz95SnD8CdYINrbEKSS5_Tw9p4yxNys5c5s3nkdA_r2aztdy5RRUmgxLh.jpg" group-title="Мултики на (UZB) языке",Ruslan va Lyudmila
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKFFqDDMepO2BKzxE4DjgYc/m3u8
 #EXTINF:-1 xui-id="6845" tvg-id="" tvg-name="Da Vinchining Sehrli Sayohati 2023" tvg-logo="https://daxshat.net/uploads/posts/2025-07/1753456160-294901493-volshebnoe-priklyuchenie-da-vinchi.webp" group-title="Мултики на (UZB) языке",Da Vinchining Sehrli Sayohati 2023
@@ -7875,3 +7484,77 @@ http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDQhd4ma9au_oCiSqftSh6o/m3u8
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBUEwlrrUgsPCJYbf3AHMVY/m3u8
 #EXTINF:-1 xui-id="7399" tvg-id="" tvg-name="Snayperlar 2021" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EqTpn1BBFfhk8zkcC9aRlb2IGKaFC6v28dC6eFNoy1CpQ.jpg" group-title="Кино на (UZB) языке",Snayperlar 2021
 http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QATm00kbjSrmUzl0roQtXlM/m3u8
+#EXTINF:-1 xui-id="7400" tvg-id="" tvg-name="Snayperlar 2022" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EpU3AIu-WT7vlAwdajHWtpbAPyl_CEZX6YIcNRx-8UXtioPYa5SDOAGiRCeCgpYgcWoZOfYBWz4PSOMts4nxHHH.jpg" group-title="Кино на (UZB) языке",Snayperlar 2022
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHt5XcAsuQ-JftlxCzSNl8k/m3u8
+#EXTINF:-1 xui-id="7401" tvg-id="" tvg-name="Snayper: Meros 2014" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EqoJ-go1L2GDpjnDX_gcOjXxhlLBvNQ0413MtWPem2JMQ.jpg" group-title="Кино на (UZB) языке",Snayper: Meros 2014
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QL_6ml4T93cH10Zb5B3wIcY/m3u8
+#EXTINF:-1 xui-id="7402" tvg-id="" tvg-name="Snayper: Intiho 2020 HD" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EqCD2Uz8pmvSAyXmeCmvhvKGmaT8gmlBhvK5HK_SPMVYQ.jpg" group-title="Кино на (UZB) языке",Snayper: Intiho 2020 HD
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMgqLgFvz9IldMsEKh68zag/m3u8
+#EXTINF:-1 xui-id="7403" tvg-id="" tvg-name="Qal'a 2 : Snayper Ko'zi 2022" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-Er6jCh8ZQQEkZ7t4qON3YSTGvNfArQ2qvFJzCb2uiHfyg.jpg" group-title="Кино на (UZB) языке",Qal'a 2 : Snayper Ko'zi 2022
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEnNoR74OZyMMPpigictzdk/m3u8
+#EXTINF:-1 xui-id="7404" tvg-id="" tvg-name="O'qchi / Snayper / Strelok 2007" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-Epw5EgqG82NQumrqPTLQMFA7qAdVt9OPSlOOb6SDpcWyq15hTWAxEuENBJocD-WsJ0.jpg" group-title="Кино на (UZB) языке",O'qchi / Snayper / Strelok 2007
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDpihMwQnmxu9NrGGq684r4/m3u8
+#EXTINF:-1 xui-id="7405" tvg-id="" tvg-name="Ostonadagi Dushman 2001" tvg-logo="https://daxshat.net/uploads/posts/2025-01/1736403694-1551001401-vrag-u-vorot.webp" group-title="Кино на (UZB) языке",Ostonadagi Dushman 2001
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLbMPHa3QqNKfte2ptrI-i0/m3u8
+#EXTINF:-1 xui-id="7406" tvg-id="" tvg-name="Titanik 1997" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-Ericytzf8xF9Oy7C0N7SEOstJIzrjhu0GViUhAYbTvj8Q.jpg" group-title="Кино на (UZB) языке",Titanik 1997
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QB39nk1Eyl0RUXyb8AtoQYQ/m3u8
+#EXTINF:-1 xui-id="7407" tvg-id="" tvg-name="Ivan Vasilevich O'z Kasbini O'zgartiradi 1973" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EoIjtD1Sm3DTev-81wZsxSkZ1zEiZbPTJn8ZC6yutiMV4QaB7TaET9DhYSp68DrcpQ.jpg" group-title="Кино на (UZB) языке",Ivan Vasilevich O'z Kasbini O'zgartiradi 1973
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QIU2hIdjna-_SrjWs5t6wB4/m3u8
+#EXTINF:-1 xui-id="7408" tvg-id="" tvg-name="Shoushenkdan Qochish 1994" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EpCy8T2n2TtiErE4mFHBG811oFaaRs8PV8_bdZwgpHmmQ.jpg" group-title="Кино на (UZB) языке",Shoushenkdan Qochish 1994
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLmeyRz4njWHuv8JEIhvjpg/m3u8
+#EXTINF:-1 xui-id="7409" tvg-id="" tvg-name="Yashil Maskan 1999" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-ErKHeBowtfvmKUpBwgHe4t4BDV0JWW_fqKsTo3RQXMQVWP80qunFBC-YnQ9_HxozaA.jpg" group-title="Кино на (UZB) языке",Yashil Maskan 1999
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QKOBz6jZZSvFYieg0AZ-GJ4/m3u8
+#EXTINF:-1 xui-id="7410" tvg-id="" tvg-name="Gladiator 2000" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EoWOcw3IlCJlc315hQKDQpqjMSxhmtr-3KfMpeHLpfBdc99M87Uc3JT_Q3Jalwyr-E.jpg" group-title="Кино на (UZB) языке",Gladiator 2000
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPGQF_sklBsBd9c6QyZqm2c/m3u8
+#EXTINF:-1 xui-id="7411" tvg-id="" tvg-name="Sheryurak 1995" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EpsrLHrHcAIY0bej00sVsUfojoXOcKPtobCh8vQ1S3u-PVDJEnDXQDs1vwrqcB6w5A.jpg" group-title="Кино на (UZB) языке",Sheryurak 1995
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFh0lOk2pQmrCEvuXPVdztc/m3u8
+#EXTINF:-1 xui-id="7412" tvg-id="" tvg-name="Dengiz Hukmdori 2003" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EpV3nSH6e5uHJ6k8nwEDqyb3gWERlUg5sB0fSEAH_fwjGGSKOfJ-r0Una8KtKiYRJ8f5B3lxNm-GQy0_QxoHTSJ.jpg" group-title="Кино на (UZB) языке",Dengiz Hukmdori 2003
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QCvOaaiGrk3_Q5NgTagMVFY/m3u8
+#EXTINF:-1 xui-id="7413" tvg-id="" tvg-name="Shumbola 1977" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLhFD-9fQwBuuvAeASz9uMjzeJzfszpmi9Ht2NnRbOiKBKTR51dCUYkiH-iISzrgVXzYOV4gCdNXO6000rB7KcPlNy5evC5vWHX0H98xVCrA" group-title="Кино на (UZB) языке",Shumbola 1977
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QP8f-5_0Hg7RToJFSq7wovQ/m3u8
+#EXTINF:-1 xui-id="7414" tvg-id="" tvg-name="Ajoyib xayolparast 1978" tvg-logo="http://135.181.204.104:80/images/nTaVG1tPv8gn6FhQiq-8a9Nme-bL_RlYFxY28cOxIUDLvXgNaUk4j8Fwjn-ltTB-iW8YC0KDhht1TTjFYNbo_vJ-4zmXqdAZKySKel8t5dGYNOsFDtdF37OvDWgZs6lRDVrHbUihN8gBIm8MS4mzMg.jpeg" group-title="Кино на (UZB) языке",Ajoyib xayolparast 1978
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QM2eBhhpk6Ut3UlMridaHq4/m3u8
+#EXTINF:-1 xui-id="7415" tvg-id="" tvg-name="Maftuningman 1958" tvg-logo="http://135.181.204.104:80/images/fJmEv7CCjIjlrwFzOIlxPrZyb0Jo9BgomHe-kmYj0PO93X1R70L-cWCKoweeFJCaY0shmHA0Xq3TwXxOqJEtMw.jpg" group-title="Кино на (UZB) языке",Maftuningman 1958
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJCYRmZi-N_C8nfRSWG5kVo/m3u8
+#EXTINF:-1 xui-id="7416" tvg-id="" tvg-name="Mahallada duv-duv gap 1960" tvg-logo="http://135.181.204.104:80/images/nTaVG1tPv8gn6FhQiq-8a9Nme-bL_RlYFxY28cOxIUDLvXgNaUk4j8Fwjn-ltTB-so4zKKdwLZXZLdBFbL5CFFsVPmxFknJi0wne9f3le2ocli9sQRzsxVOHYWoVU572BoGlSPYD1vIf5OkEOZVQdg.jpeg" group-title="Кино на (UZB) языке",Mahallada duv-duv gap 1960
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QLmiW9o7HKR9GsfSQCv3eUM/m3u8
+#EXTINF:-1 xui-id="7417" tvg-id="" tvg-name="Ivan Vasilyevich kasbini oʻzgartiradi" tvg-logo="" group-title="Кино на (UZB) языке",Ivan Vasilyevich kasbini oʻzgartiradi
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPMOAG3HBpb2mph_7Uqto_w/m3u8
+#EXTINF:-1 xui-id="7418" tvg-id="" tvg-name="Avtomobildan saqlaning" tvg-logo="" group-title="Кино на (UZB) языке",Avtomobildan saqlaning
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QDk6sJnSDvpNR5UxxjLc5MI/m3u8
+#EXTINF:-1 xui-id="7419" tvg-id="" tvg-name="" tvg-logo="" group-title="Кино на (UZB) языке",
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QI87NpoHkLTwyKOfYcuhGVU/m3u8
+#EXTINF:-1 xui-id="7420" tvg-id="" tvg-name="Bugimen : Afsonaning Ibtidosi 2023" tvg-logo="https://daxshat.net/uploads/posts/2025-04/1744727001-65535439-bugimen-nachalo-legendy.webp" group-title="Кино на (UZB) языке",Bugimen : Afsonaning Ibtidosi 2023
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QFSg1OS8tTOyhCiuifaBPmM/m3u8
+#EXTINF:-1 xui-id="7421" tvg-id="" tvg-name="Agnes : Rohibaning La'nati 2021" tvg-logo="https://daxshat.net/uploads/posts/2025-04/1744726736-1619256979-proklyatie-monahin.webp" group-title="Кино на (UZB) языке",Agnes : Rohibaning La'nati 2021
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QJ0cGjYkPrqqe75Ny38PumI/m3u8
+#EXTINF:-1 xui-id="7422" tvg-id="" tvg-name="Yengil tabiat vampirlar 2024" tvg-logo="https://daxshat.net/uploads/posts/2025-04/1744293071-1344876297-vampiry-legkogo-povedeniya.webp" group-title="Кино на (UZB) языке",Yengil tabiat vampirlar 2024
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH642-tX4GYbaoXlbkMQSdo/m3u8
+#EXTINF:-1 xui-id="7423" tvg-id="" tvg-name="Uy Shaytoni 2024" tvg-logo="https://daxshat.net/uploads/posts/2025-04/1744269352-5957402-domovoy.webp" group-title="Кино на (UZB) языке",Uy Shaytoni 2024
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QK-vixniTma6xvGPViWN8i4/m3u8
+#EXTINF:-1 xui-id="7424" tvg-id="" tvg-name="Barzangi 2012" tvg-logo="https://daxshat.net/uploads/posts/2025-04/1744269004-984816006-verzila.webp" group-title="Кино на (UZB) языке",Barzangi 2012
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QL6eoyRN9KBAiAaBwuoGYUI/m3u8
+#EXTINF:-1 xui-id="7425" tvg-id="" tvg-name="Sidjin 7 (2024)" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EqjBuQ640gF54bJaH0OqkzVg0owZZvahVZH_I-V2NrA3aP1_mlaz2IK0cD7JDP9ExmjWhWLJPIWiIRIz770lUZg.jpg" group-title="Кино на (UZB) языке",Sidjin 7 (2024)
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QH_stKlR_V9I_eX5LHeiCPw/m3u8
+#EXTINF:-1 xui-id="7426" tvg-id="" tvg-name="Tunel 11 (2017)" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-ErcEJ3EaF1gJpEWEoQSudAFhZqaxfhdW8atmLYxx-XjaJVg_30zMhgKnsVECSpauASqKP_8mV74ecpcHB0KYyzT.jpg" group-title="Кино на (UZB) языке",Tunel 11 (2017)
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMsVvhePiLYud3c9UfGweUY/m3u8
+#EXTINF:-1 xui-id="7427" tvg-id="" tvg-name="Bo'ri Odam 2025" tvg-logo="https://daxshat.net/uploads/posts/2025-02/1740054420-409706363-vulfmen.webp" group-title="Кино на (UZB) языке",Bo'ri Odam 2025
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEVCNb7lhe9q9u-yFZP4RMQ/m3u8
+#EXTINF:-1 xui-id="7428" tvg-id="" tvg-name="O'likxona 2018" tvg-logo="https://daxshat.net/uploads/posts/2025-02/1739598301-599202963-kadavr.webp" group-title="Кино на (UZB) языке",O'likxona 2018
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMn3pbb3sU_TkK7XFewGED4/m3u8
+#EXTINF:-1 xui-id="7429" tvg-id="" tvg-name="Doira Chizig'i 2023" tvg-logo="https://daxshat.net/uploads/posts/2025-02/1739597889-829445482.webp" group-title="Кино на (UZB) языке",Doira Chizig'i 2023
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBivbmp86qEwpC_NCjb89bQ/m3u8
+#EXTINF:-1 xui-id="7430" tvg-id="" tvg-name="Nosferatu 2024" tvg-logo="https://daxshat.net/uploads/posts/2025-02/1739143041-1349288979-nosferatu.webp" group-title="Кино на (UZB) языке",Nosferatu 2024
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QPMnL-tJpDhafdYoLbEdgjw/m3u8
+#EXTINF:-1 xui-id="7431" tvg-id="" tvg-name="Shukronalik Kuni 2023" tvg-logo="https://daxshat.net/uploads/posts/2025-01/1738085765-1900679112-den-blagodareniya.webp" group-title="Кино на (UZB) языке",Shukronalik Kuni 2023
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QBlP92mRl3r8VobF6Q-FFUM/m3u8
+#EXTINF:-1 xui-id="7432" tvg-id="" tvg-name="Dahshatli Masxaraboz 1 (2016)" tvg-logo="https://daxshat.net/uploads/posts/2024-12/1735074322-1844632292-uzhasayuschiy.webp" group-title="Кино на (UZB) языке",Dahshatli Masxaraboz 1 (2016)
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QHazvOsj3ljSLhV0kkRyWOg/m3u8
+#EXTINF:-1 xui-id="7433" tvg-id="" tvg-name="Dahshatli Masxaraboz 2 (2022)" tvg-logo="https://daxshat.net/uploads/posts/2024-12/1735029344-1668745011-uzhasayuschiy-2.webp" group-title="Кино на (UZB) языке",Dahshatli Masxaraboz 2 (2022)
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGg64RNx80A1lYfL9OmvvVk/m3u8
+#EXTINF:-1 xui-id="7434" tvg-id="" tvg-name="Sharpalar Mamlakati 2016" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EoYziVgzXunAqv0t8ebZayvi8KRXYEBoVSjOy92opq9Hp2hczjazN7YZPXLeeU5vjLJ98m-0loZqCAnD5qMsZcJ.jpg" group-title="Кино на (UZB) языке",Sharpalar Mamlakati 2016
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QGPW_UIDTgRa3qRIerG3VW4/m3u8
+#EXTINF:-1 xui-id="7435" tvg-id="" tvg-name="O'lim Shivirlashi 2024" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EqHyQH8qjEEIkXYgiOpg78joxIuMV1_dwvNiRKxCx5hi7QHtmuB6Hj94aKdvm3ZG0E.jpg" group-title="Кино на (UZB) языке",O'lim Shivirlashi 2024
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QEuMNG1SoW7ZhlsV_xFO20A/m3u8
+#EXTINF:-1 xui-id="7436" tvg-id="" tvg-name="Dahshat Domida / Qo'rquv To'ri 2023" tvg-logo="http://135.181.204.104:80/images/krMHq22J-JPKU0FUg0C3MFY-RMrD97klqSTBNbaS-EpgchLpmhARiQ2vEujxuUbeICQXgJAAeomRG__Upr0E53SXVHN-OzPVBt7_i3wP1Ts.jpg" group-title="Кино на (UZB) языке",Dahshat Domida / Qo'rquv To'ri 2023
+http://135.181.204.104:80/play/9puaUA7uQs2beenwsTO5QMaW395IDpVydWv8TFRoo_0/m3u8
