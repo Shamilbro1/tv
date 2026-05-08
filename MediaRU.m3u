@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://gabbarit.page.link/epg,https://iptvx.one/EPG" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
 
 
-#EXTINF:-1 group-title="🔺Поддержи проект🔺" tvg-logo="https://iptvshams.su/pomch-proektu.png", Поддержи проект!
-https://shams.usite.pro/Introsham.mp4
-#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺Поддержи проект🔺",🔸Подпишись🔸
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmdQmMDF/Shams-TVava-(2).jpg" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺Подпишись🔺",🔸Подпишись🔸
 https://shams.usite.pro/Introsham.mp4
