@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
-
-#EXTINF:-1 group-title="🔺Поддержи проект🔺" tvg-logo="https://iptvshams.su/pomch-proektu.png", Поддержи проект!
-https://iptvshams.su/podderzhka_shams_tv.mp4
-#EXTINF:-1 tvg-logo="https://iptvshams.su/iptv.png" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺Поддержи проект🔺",🔸Подпишись🔸
-https://iptvshams.su/intrishamsVideo.mp4
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmdQmMDF/Shams-TVava-(2).jpg" tvg-name="Telegram 👨‍💻 @Shamil_bro" group-title="🔺Подпишись🔺",Подпишись
+https://shams.usite.pro/Introsham.mp4
 #EXTINF:-1 xui-id="566" tvg-id="" tvg-name="Первый канал" tvg-logo="http://168.119.58.242:80/images/Vzy3oLjpuwYnu6sfr_vp2evdqB1Rt7OM8IDNK0g9pCpS1qs-BTwkBaOnbjYvOiu-DpeVf8V70PJXkpYkLbAAfmGB6L9vx-fV97ELYq2lQRk3-0c9WayWm-7JXAQRL6-Hov3OtPF6CUXqWzr3orDAOg.png" group-title="Россия",Первый канал
 http://168.119.58.242:80/play/lfQ0NR9r7DjAteII3sAp-OWswm18kdFL306BpagxZy4/ts
 #EXTINF:-1 xui-id="567" tvg-id="" tvg-name="Первый канал HD" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Россия",Первый канал HD
