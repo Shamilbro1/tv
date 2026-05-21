@@ -1,3 +1,1201 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmdQmMDF/Shams-TVava-(2).jpg" tvg-name="Telegram @Shamil_bro" group-title="🔺Подпишись🔺",Подпишись
-https://shams.usite.pro/Introsham.mp4
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777276765_jungli.jpg",Jungli posbonlari 2: Dunyo bo'ylab sayohat
+https://l.uzbeklar.biz/film/jungli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777183437_mario2.jpg",Super Mario 2: Galaktika
+https://l.uzbeklar.biz/film/mario2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1775367075_mune.jpg",Mune: Oy qo'riqchisi
+https://r.uzbeklar.biz/film/mune.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1775130069_songgidoston.jpg",So'nggi doston
+https://r.uzbeklar.biz/film/songgidoston.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1774355063_varvar.jpg",Varvar Ronal
+https://r.uzbeklar.biz/film/varvarronal.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773119604_yomon.jpg",Yomon yigitlarning yangi sarguzashtlari
+https://w.uzbeklar.biz/film/yomonyigitlarning.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773039263_xavflidengiz.jpg",Xavfli dengiz qaroqchilari: Kapitan qoziq tish
+https://w.uzbeklar.biz/film/xavflidengiz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1772616099_sonig.jpg",So'nggi ajdarho
+https://w.uzbeklar.biz/film/songgiajdarho.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1771061454_kungfuyolbars.jpg",Kung-Fu yo'lbars
+https://w.uzbeklar.biz/film/kungfuyolbars.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1770960850_shahzoda.jpg",Shahzoda va bo'ri 6
+https://w.uzbeklar.biz/film/ivan6.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1770786808_lamanch.jpg",La-Manch maxluqlari
+https://w.uzbeklar.biz/film/lamanch.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-02/1769923183_meter.jpg",Meterning cho'pchaklari
+https://w.uzbeklar.biz/film/meterning.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1768803610_smyrd.jpg",Smurflar kinoda
+https://w.uzbeklar.biz/film/smurflarkinoda.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1767598948_neja2.jpg",Neja 2
+https://w.uzbeklar.biz/film/neja2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1767527348_yans.jpg",Yana o'sha yangi yil
+https://w.uzbeklar.biz/film/yanaoshayangiyil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-08/1755501070_yomon2.jpg",Yomon yigitlar 2
+https://w.uzbeklar.biz/film/yomonyigitlar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1767330180_tushlar.jpg",Tushlar ro'yobi
+https://w.uzbeklar.biz/film/tushlar2025.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-01/1767206766_hayvonlar2.jpg",Hayvonlar shahri 2
+https://w.uzbeklar.biz/film/hayvonlar2025.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-04/1713694058_1713694126.jpg",Kung Fu Panda 4
+https://w.uzbeklar.biz/film/kungfupanda4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-12/1765825465_hayonlar.jpg",Hayvonlar poyezdi - Lochin ekspress
+https://w.uzbeklar.biz/film/hayvonlarpoezd.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761540707_jod.jpg",Jodugar : Dengiz tubidan chaqiruv
+https://r.uzbeklar.biz/film/jodugar2025.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761023167_sirli.jpg",Sirli jodular
+https://r.uzbeklar.biz/film/sirlijodular.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-09/1757480508_kokuriko.jpg",Kokuriko yonbag'ridan
+https://r.uzbeklar.biz/film/kokuriko.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-09/1757480302_yurak.jpg",Yurak shiviri
+https://r.uzbeklar.biz/film/yurakshiviri.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735714653_osha.jpg",O'sha yangi yil
+https://d.uzbeklar.biz/film/oshayangiyil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624127249-1235239914-1.jpg",Dorini izlab
+https://d.uzbeklar.biz/film/doriniizlab.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735746256_unsurlar.jpg",Unsurlar olami
+https://d.uzbeklar.biz/film/elemental.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735796403_katta.jpg",Katta-kichik sarguzashtlar
+https://d.uzbeklar.biz/film/kattakichik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614431126-1678462725-1.jpg",Zootopia
+https://d.uzbeklar.biz/film/zveropolis.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1622482262-2001175248-1.jpg",Boshqotirma
+https://a.uzbeklar.biz/film/boshqotirma1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735820321_boshqotirma2.jpg",Boshqotirma 2
+https://a.uzbeklar.biz/film/boshqotirma2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735981701_poygasi.jpg",Hayvonlar poyg'asi
+https://a.uzbeklar.biz/film/hayvonlarpoygasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-08/1755233603_asalari.jpg",Asalari Maya 3: Oltin shar
+https://a.uzbeklar.biz/film/asalari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-07/1753422379_davinci.jpg",Da Vinchining sehrli sayohati
+https://a.uzbeklar.biz/film/davinchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-07/1751448850_tilaklar.jpg",Tilaklar daraxti
+https://d.uzbeklar.biz/film/tilaklardaraxti.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-07/1751362923_oshpaz.jpg",Sarguzashtsevar oshpaz Jeck
+https://d.uzbeklar.biz/film/oshpazjeck.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1731004180_ormon.jpg",Sehrli o'rmon qahramonlari
+https://d.uzbeklar.biz/film/sehrliormon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-06/1750670916_mikki.jpg",Mikki Mauslarning yovuzlar uyi
+https://d.uzbeklar.biz/film/mikki2001.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1736070480_shelkun.jpg",Shelkunchik va sehrli nay
+https://d.uzbeklar.biz/film/shelkunchik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-06/1750529903_yirtqich.jpeg",Yirtqich: Qotillarning qotili
+https://d.uzbeklar.biz/film/yirtqich2025.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640448238-1237555392-1.jpg",O'yinchoqlar tarixi 4
+https://files.uzbeklar.biz/film2/oyinchoqlar-tarixi-4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734346680_oyin3.jpg",O'yinchoqlar tarixi 3
+https://d.uzbeklar.biz/film/toy3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734346535_yoin2.jpg",O'yinchoqlar tarixi 2
+https://d.uzbeklar.biz/film/toy2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734346333_oyinchoqlar.jpg",O'yinchoqlar tarixi 1
+https://d.uzbeklar.biz/film/toy1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-06/1686283821-1513440544-1.jpg",O'rgimchak odam 2: Yondosh olamlar aro 2
+https://d.uzbeklar.biz/film/yondosholamlar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634974024-520126904-1.jpg",O'rgimchak odam: Yondosh olamlar 1
+https://d.uzbeklar.biz/film/yondosholamlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-06/1750183165_yakari.jpg",Mitti chaqmoq
+https://d.uzbeklar.biz/film/yakari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239859-1922154144-1.jpg",Qirol sher 1
+https://d.uzbeklar.biz/film/qirolsher1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624984750-132512263-1.jpg",Grinch
+https://d.uzbeklar.biz/film/grinch2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734857166_md1.jpg",Muzlik davri 1
+https://d.uzbeklar.biz/film/md1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734860508_md2.jpg",Muzlik davri 2: Jazirama issiq
+https://d.uzbeklar.biz/film/md2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734860650_md3.jpg",Muzlik davri 3: Dinazavrlar asri
+https://d.uzbeklar.biz/film/md3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734861617_4.jpg",Muzlik davri 4: Ayro qit'alar
+https://d.uzbeklar.biz/film/md4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734863463_md5.jpg",Muzlik davri 5: Muqarrar to'qnashuv
+https://d.uzbeklar.biz/film/md5.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734864846_md6.jpg",Muzlik davri 6: Yovvoyi Bakining sarguzashtlari
+https://d.uzbeklar.biz/film/md6.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625986554-52526580-1.jpg",Etik kiygan mushuk
+https://d.uzbeklar.biz/film/etikkiygan1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1673680696-2116688561-1.jpg",Etik kiygan mushuk 2: So'nggi istak
+https://d.uzbeklar.biz/film/etikkiygan2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-06/1749540704_sovgasi.jpg",Yangi yil sovg'asi
+https://d.uzbeklar.biz/film/sovgasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1748693697_3bahodir.jpg",Uch bahodir va o'tmishga sayohat
+https://d.uzbeklar.biz/film/3bahodir2023.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625505347-915762785-1.jpg",Flikning sarguzashtlari
+https://a.uzbeklar.biz/film/flikning.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624332899-1764945552-1.jpg",Moana
+https://d.uzbeklar.biz/film/moana.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635263323-849074105-1.jpg",Super oila 2
+https://a.uzbeklar.biz/film/super2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733655807_super1.jpg",Super oila
+https://a.uzbeklar.biz/film/super1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061362-1165871599-1.jpg",Yaxshi bo'lish osonmi 1
+https://a.uzbeklar.biz/film/yaxshi1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1748152218_ruslna.jpg",Ruslan va Lyudmila: Ertakdan ham ko'proq
+https://q.uzbeklar.biz/film/ruslanvalyudmila.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1747286815_moana2.jpg",Moana 2
+https://q.uzbeklar.biz/film/moana2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-04/1745948088_masha.jpg",Bizning Masha va sehrli yong'oq
+https://q.uzbeklar.biz/film/masha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-04/1744262912_kruds.jpg",Krudslar oilasi: Yangi davr
+https://q.uzbeklar.biz/film/krudslaroilasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-04/1743967636_babylon.webp",Vavilon: Uyga yo'l
+https://q.uzbeklar.biz/film/babylon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1743092324_dobrinya.jpg",Dobrinya Nikitich va Uch boshli ajdarho
+https://q.uzbeklar.biz/film/dobrinya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1742884141_sening.jpg",Sening birinchi jonivoring
+https://q.uzbeklar.biz/film/seningbirinchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1742036426_titanlar.jpg",Titanlar hujumi: So'nggi hujum
+https://a.uzbeklar.biz/film/titanlarhujumi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1742034481_okean.jpg",Okeanning narigi tomoni
+https://a.uzbeklar.biz/film/okean2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1741429509_zaarafa.jpg",Zarafa
+https://q.uzbeklar.biz/film/zarafa.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-03/1740891426_kubo.jpg",Kubo : Samuray haqida afsona
+https://q.uzbeklar.biz/film/kubo2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-02/1739853222_qizil.jpg",Qizil toshbaqa
+https://q.uzbeklar.biz/film/qizilqoshbaqa.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-02/1738731783_toshqin.jpg",Oqim
+https://q.uzbeklar.biz/film/oqim2024.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1737888277_bum.jpg",Ayiqcha Bum!
+https://q.uzbeklar.biz/film/ayiqchabum.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615308756-440831530-1.jpg",Tom va Jerri
+https://a.uzbeklar.biz/film/tomjerry.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1736146701_1736146779.jpg",Mashaning sarguzashtlari
+https://a.uzbeklar.biz/film/masha2012.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1625039187-503335381-1.jpg",Yangi yil tarixi
+https://d.uzbeklar.biz/film/yangiyiltarixi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-01/1735989087_moli.jpg",Usta Moli: Yangi yil mo'jizasi
+https://a.uzbeklar.biz/film/ustamoli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624733178-964307175-1.jpg",Nemoni izlab
+https://d.uzbeklar.biz/film/nemoniizlab.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985523-1013823883-1.jpg",Maxfiy qorbobo xizmati
+https://d.uzbeklar.biz/film/maxfiyqorbobo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734240243_pter1953.jpeg",Piter Pen
+https://a.uzbeklar.biz/film/piter1953.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1734239977_neveland.jpg",Piter Pen 2: Neverlandiyaga qaytish
+https://a.uzbeklar.biz/film/piterpen2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625927502-1385008268-1.jpg",Maxluqlar uyushmasi 1
+https://a.uzbeklar.biz/film/maxluqlar2001.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061482-1737702531-1.jpg",Yaxshi bo'lish osonmi 2
+https://a.uzbeklar.biz/film/yaxshi2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061686-901274252-1.jpg",Yaxshi bo'lish osonmi 3
+https://a.uzbeklar.biz/film/yaxshi3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733640692_chaqmoq.jpeg",Chaqmoq Makvin 3
+https://d.uzbeklar.biz/film/makvin3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733641405_ca222rs2.jpg",Chaqmoq Makvin 2
+https://d.uzbeklar.biz/film/makvin2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1638724231-1460891558-1.jpg",Chaqmoq Makvin 1
+https://d.uzbeklar.biz/film/makvin1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733640488_de11spi.jpg",Yaxshi bo'lish osonmi 4
+https://a.uzbeklar.biz/film/yaxshi4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733460816_jek.jpg",Jek va mexanik yurak
+https://a.uzbeklar.biz/film/jekyurak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-12/1733460392_kechagi.jpg",Kechagi bulutlar osmoni
+https://a.uzbeklar.biz/film/kechagibulutlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1732648249_katak.jpg",Katak: Muzlik sari yo'l
+https://o.uzbeklar.biz/film/katak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1732645874_pinokkio.jpg",Pinokkio
+https://o.uzbeklar.biz/film/pinokkio.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1730831092_xayrlashuv.jpg",Xayrlashuv tonggini gullar bilan bezat
+https://z.uzbeklar.biz/film/xayrlashuv.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1730830872_sek.jpg",Soniyasiga 5 santimetr
+https://z.uzbeklar.biz/film/sekundiga5.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1730830614_vaqtni.jpg",Vaqtni zabt etgan qiz
+https://z.uzbeklar.biz/film/vaqtnizabt.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-11/1730654813_wild.webp",Yovvoyi robot
+https://a.uzbeklar.biz/film/yovvoyirobot.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-10/1729329378_bartok.jpg",Qoyilmaqom Bartok
+https://v.uzbeklar.biz/film44/bartok.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-10/1728490623_1728490577.jpg",Monopolis
+https://files.uzbeklar.biz/film2/monopolis.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-10/1728456563_la33c3c8aebc4yw97g80r.jpg",Po'lat lag'monchi
+https://files.uzbeklar.biz/film2/kungfupandagobliddin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-10/1728284863_1728284833.jpg",Transformerlar: Muqaddima
+https://files.uzbeklar.biz/film2/transformermuqaddima.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-10/1727799610_1727799637.jpg",Orion va zulmat
+https://files.uzbeklar.biz/film2/orionvazulmat.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-09/1727389361_1727389392.jpeg",To'qqiz
+https://e.uzbeklar.biz/toqqiz2009.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-09/1725792346_garfi.jpg",Garfild
+https://e.uzbeklar.biz/garfild2024.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-09/1725779576_mutant.jpg",Ninza Toshbaqalar: Mutantlar to'poloni
+https://e.uzbeklar.biz/ninzamutant.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-08/1724583692_koinot.jpg",Koinot qo'riqchilari: Ajdarho o'rgatuvchilari
+https://e.uzbeklar.biz/koinot2024.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-08/1724494673_pari.jpg",Pari va oq kit
+https://e.uzbeklar.biz/parivaoq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-08/1724133842_yul.jpg",Yulduzlar jangi: Imperiya afsonalari
+https://e.uzbeklar.biz/imperiya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-08/1723783470_napoleon.jpg",Napoleon it
+https://c.uzbeklar.biz/film9/napoleonit.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-08/1723703242_sich.jpg",Sichqonlar ham jannatga tushadi
+https://c.uzbeklar.biz/film9/sichqon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1722166291_ulkan.jpg",Ulkan nok haqida hikoya
+https://c.uzbeklar.biz/film9/ulkannok.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1722153829_qutraq.jpg",Qutqaruvchilar
+https://c.uzbeklar.biz/film9/qutqarivchilar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1721713207_elflar.jpg",Elflar qirolligi
+https://c.uzbeklar.biz/film9/elflar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1721713017_paypoq.jpg",Paypoq o'g'rilari
+https://c.uzbeklar.biz/film9/paypoq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1721477217_ribbit.jpg",Ribbit laqabli qurbaqa
+https://c.uzbeklar.biz/film9/ribbit.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-07/1719809381_vodiy.jpg",Yashil vodiy sari
+https://c.uzbeklar.biz/film9/yashilvodiy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1627297341-915629371-1.jpg",Hayvonlar Ittifoqi 2: Ikki Oyoqlini Qutqarish
+https://files.uzbeklar.biz/film3/hayvonlar-ittifoqi2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625156901-1782683042-1.jpg",Hayvonlar ittifoqi
+https://files.uzbeklar.biz/film3/hayvonlar-ittifoqi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1719660314_xbe8553c27f95wk89g72i-fotor-2024062916234.jpg",Yo'lbarsning shogirdi
+https://c.uzbeklar.biz/film9/yolbarsningshogirdi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1719290053_ultra.jpg",Ultramen: Yuksalish
+https://c.uzbeklar.biz/film9/ultramen.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1719136692_artur3.jpg",Artur va Miniputlar 3
+https://c.uzbeklar.biz/film9/artur3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665458-1675319663-1.jpg",Artur va Maltazard qasosi 2
+https://files.uzbeklar.biz/film2/artur-va-urdalak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640104893-66351444-1.jpg",Artur va Miniputlar 1
+https://v.uzbeklar.biz/film44/artur-va-miniputlar-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1717992798_josus.jpg",Josus mushuk
+https://v.uzbeklar.biz/film44/josus-mushuk.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1717909358_jasur.jpg",Jasur ritsar
+https://c.uzbeklar.biz/film9/trenk.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-06/1717909567_trol.jpg",Trollar afsonasi
+https://files.uzbeklar.biz/film3/trollar-afsonasii.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617725693-466602701-1.jpg",Robin Gud
+https://files.uzbeklar.biz/film2/robin-gud-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726899-913354958-1.jpg",Kungfu Jangchi
+https://files.uzbeklar.biz/film2/kungfu-jangchi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-05/1715576501_fleyta.jpg",Sehrgar Fleyta
+https://c.uzbeklar.biz/film9/fleyta.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-05/1714628904_1714628955.jpg",Maugli
+https://e.uzbeklar.biz/maugli1973.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-04/1714451289_cheb.jpg",Cheburashka
+https://e.uzbeklar.biz/cheburashka.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615308171-2110983247-1.jpg",Asl Garfild
+https://files.uzbeklar.biz/film2/Asl-Garfild-720.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-04/1714025524_mushuk.jpg",Mushuk Leopoldning sarguzashtlari
+https://e.uzbeklar.biz/leopold.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-04/1713173746_leo.jpg",Leo: Jungli imperatori
+https://e.uzbeklar.biz/leojungli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626453057-150307934-1.jpg",Yovvoyi sayyora mauglisi
+https://files.uzbeklar.biz/film3/yovoyi-sayora-mauglisi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239024-2050661449-1.jpg",Rango
+https://files.uzbeklar.biz/film3/rango-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1627747011-2000012694-1.jpg",Shermurodni Izlab
+https://files.uzbeklar.biz/film3/shermurodni-izlab.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640253615-1319482025-1.jpg",Jonivorlar qiroli
+https://e.uzbeklar.biz/jonivorlar2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-03/1711343604_kiddo.jpg",Kiddo: Super yuk mashinasi
+https://e.uzbeklar.biz/kiddo2005.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-03/1710306010_lilo2.jpg",Lilo va Stich
+https://e.uzbeklar.biz/lilovastich.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-03/1710130304_lilo.jpg",Lilo va Stitchning yangi sarguzashtlari
+https://e.uzbeklar.biz/stitch2003.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624127524-800643575-1.jpg",Kung Fu Panda 3
+https://files.uzbeklar.biz/film3/kung-fu-panda3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-03/1709525263_kungfu2.jpg",Kung Fu Panda 2
+https://v.uzbeklar.biz/film44/kung-fu-panda2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625157062-710970650-1.jpg",Kung Fu Panda 1
+https://files.uzbeklar.biz/film3/kungfu-panda1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-03/1709267980_nimona.jpg",Nimona
+https://e.uzbeklar.biz/nimona.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640105965-1515323437-1.jpg",51-Sayyora
+https://v.uzbeklar.biz/film44/51-sayyora-multfilm-2009.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-02/1645414050-2090725128-1.jpg",Uch bahodir va Tulpor Yuli: Taxt uchun kurash
+https://e.uzbeklar.biz/uchbahodirtaxt.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640236197-2017128026-1.jpg",Quvnoq Qahramonlar
+https://e.uzbeklar.biz/emojilar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-02/1707204662_korolina.jpg",Korolayn
+https://e.uzbeklar.biz/korolayn.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-02/1707104208_tilak.jpg",Tilak
+https://e.uzbeklar.biz/tilakl.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1706503572_shrekp.jpg",Shiroq 2
+https://e.uzbeklar.biz/shiroq2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1706414675_itlar.jpg",Qutqaruvchi itlar
+https://e.uzbeklar.biz/qutqaruvchiitlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624126486-530108688-1.jpg",Maqtanma g'oz
+https://files.uzbeklar.biz/film3/maqtanma-goz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624901477-1702443846-1.jpg",Sehrli futbol
+https://e.uzbeklar.biz/sehrlifutbol.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1705595607_kochish.jpg",Ko'chish
+https://e.uzbeklar.biz/kochish2023.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1705461132_ilonbosh.jpg",Alyosha Popovich va Tugarin Ilonbosh
+https://v.uzbeklar.biz/film44/alyosha-popovich-tugarin-ilonbosh.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1704623400_havo.jpg",Havo farzandi
+https://e.uzbeklar.biz/havofarzandi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1704384800_molokososyangiyil.jpg",Kichkina xo'jayin: Rojdestvo bonusi
+https://e.uzbeklar.biz/molokososyangiyil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1704282376_supermiyya.jpg",Super miyya
+https://e.uzbeklar.biz/supermiya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2024-01/1704168857_marhabo.jpg",talantlar!
+https://e.uzbeklar.biz/marhabotalantlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647833072-1757447432-1.jpg",Kuyla 2
+https://e.uzbeklar.biz/kuyla2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620582108-470329343-1.jpg",Kuyla
+https://e.uzbeklar.biz/kuyla1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1704014535_sohib.jpg",Sohibjamol va Maxluq: Sehrlangan Yangi yil
+https://e.uzbeklar.biz/sohibjamol1997.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703927997_qor.jpg",Qor malikasi 5
+https://e.uzbeklar.biz/qormalikasi2023.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703756380_qor.jpg",Qor malikasi 4: Oyna ortida
+https://e.uzbeklar.biz/qormalikasi4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703669182_dengiz.jpg",Uch bahodir dengiz ortida
+https://e.uzbeklar.biz/dengizortida.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612099794-753187132-1.jpg",Uch bahodir va o'rmon jodugari
+https://e.uzbeklar.biz/ormonjodugar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703665071_shamaxa.jpg",Uch bahodir va Shamaxa malikasi
+https://e.uzbeklar.biz/shamaxa.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703664903_taxt.jpg",Uch bahodir va taxt vorisi
+https://e.uzbeklar.biz/taxtvorisi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703389415_tristan.jpg",Tristan va Izolda
+https://e.uzbeklar.biz/tristan-va-izolda-2002.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626108483-57254818-1.jpg",Zolushka va sehrlangan shahzoda
+https://e.uzbeklar.biz/zolushka-2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640448749-773178393-1.jpg",Muzlik davrida yangi yil
+https://e.uzbeklar.biz/muzlik-davri-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1703084709_1703084691.jpg",Mikki: Yangi yil arafasida
+https://e.uzbeklar.biz/mikki-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1702806327_1702806297.jpg",Shrek Yangi-yil kutyabdi
+https://e.uzbeklar.biz/shrek-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624984875-820465845-1.jpg",Qorbobo Klaus
+https://e.uzbeklar.biz/qorbobo-klasu-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621064332-1761464981-1.jpg",Normning sarguzashtlari 2
+https://e.uzbeklar.biz/norm2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640257573-1399834541-1.jpg",Normning sarguzashtlari
+https://e.uzbeklar.biz/norm-1-2015.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1625039466-442930939-1.jpg",Balto 2
+https://e.uzbeklar.biz/balto-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1625039384-502424702-1.jpg",Balto
+https://e.uzbeklar.biz/balto-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612713677-2086768997-1.jpg",Shimoliy ekspress
+https://e.uzbeklar.biz/shimoliy-qutb-ekspressi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640886512-1563827532-1.jpg",Alfa va Omega
+https://e.uzbeklar.biz/avaomega.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641618706-883689307-1.jpg",Smurfchalarda yangi yil
+https://e.uzbeklar.biz/smurf-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1702270648_1702270595.jpg",Sarila: Yo'qolgan yer
+https://e.uzbeklar.biz/sarila-2013.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1702140550_1702140617.jpg",Oq soyloq
+https://files.uzbeklar.biz/film3/oq-sayloq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640449271-1541784974-1.jpg",Madagaskarda yangi yil
+https://files.uzbeklar.biz/film2/madagaskarda-yngi-yil-2009.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985973-504713511-1.jpg",Qor malikasi 1
+https://e.uzbeklar.biz/qor-malikasi-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624986138-151673692-1.jpg",Qor malikasi 2
+https://e.uzbeklar.biz/qor-malikasi-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239558-1115719398-1.jpg",Qor malikasi 3
+https://e.uzbeklar.biz/qor-malikasi-3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624984969-733663859-1.jpg",Tush qo'riqchilari
+https://e.uzbeklar.biz/tush-qoriqchilari-2012.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616603142-856681292-1.jpg",G'aroyib yangi yil
+https://e.uzbeklar.biz/sirli-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1701888750_5.jpg",Shahzoda va Bo'ri 5
+https://e.uzbeklar.biz/ivan-sarevich.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626239932-672618875-1.jpg",Shahzoda va bo'ri 4
+https://e.uzbeklar.biz/shahzoda-va-bori-4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624732692-1844334543-1.jpg",Shahzoda va Bo'ri 3
+https://e.uzbeklar.biz/shahzoda-va-bori-3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1701888510_2.jpg",Shahzoda va bo'ri 2
+https://e.uzbeklar.biz/shahzoda-va-bori-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1701888458_1.jpg",Shahzoda va bo'ri 1
+https://e.uzbeklar.biz/shahzoda-va-bori-2011.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640662697-459753436-1.jpg",Uzun quloqlar isyoni
+https://files.uzbeklar.biz/film2/uzun-quloqlar-isyoni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1701404525_1.jpg",Bug'u parvozi 1
+https://e.uzbeklar.biz/bugu-parvozi-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-12/1701404313_2.jpg",Bug'u parvozi 2
+https://e.uzbeklar.biz/bugu-parvozi-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-11/1701055498_2.jpg",Mitti qutb ayiqchasi 2: Lars va Yo'lbars bolasi
+https://e.uzbeklar.biz/mitti-2-2002.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-11/1700451092_1700451084.jpg",Bilmasvoy va Barrabass
+https://e.uzbeklar.biz/bilmasvoy-va-barabas-2004.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-11/1700450885_1700450865.jpg",Ayiqcha va ajdarho
+https://e.uzbeklar.biz/ayiqcha-va-ajdarho.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626335139-1548599790-1.jpg",Styuart Littl 2
+https://e.uzbeklar.biz/styart-litl-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1619975012-843346152-1.jpg",100% Bo'ri
+https://e.uzbeklar.biz/100bori.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1698594510_1698594467.webp",Bigfutlar oilasi 2
+https://e.uzbeklar.biz/bigfut2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621148756-106625504-1.jpg",Bigfut
+https://files.uzbeklar.biz/film3/bigfut.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1697607354_1697607283.jpg",Yonarqurtlar Miltillagan Joyda
+https://c.uzbeklar.biz/film9/yonarqurtlar-anime.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1697601466_1697601462.jpg",Xon Qizi. Nyu-York. Birlashgan Qahramonlar
+https://c.uzbeklar.biz/film9/miraculus-nyu-york.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1697600652_1697600703.jpg",Xon qizi. Shanxay. Ajdar Xonim Afsonasi
+https://c.uzbeklar.biz/film9/xonqizi-shaxay.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1697566714_1697566754.jpg",O'lik Kelin
+https://c.uzbeklar.biz/film9/olik-kelin-2005.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-10/1697566065_1697565988.jpg",Xon Qizi va Abjir Mushuk
+https://c.uzbeklar.biz/film9/xonqiz-mushuk.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690516769_1690516761.jpg",Zolushkaning yangi sarguzashtlari
+https://c.uzbeklar.biz/film8/zolushka-yangi-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690516224_1690516227.jpg",Malika Barbi: Rojdestvo hikoyasi
+https://c.uzbeklar.biz/film8/malika-barbi-2008.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690515983_1690516000.jpg",Barbi: Malika va kambag'al
+https://c.uzbeklar.biz/film8/barbi-2004.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690515162_1690515109.jpg",Momiqvoy va yangi yil sovg'asi
+https://c.uzbeklar.biz/film8/momiqvoy-1999mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690428557_1690428544.jpg",Sadoqatli do'stlar
+https://c.uzbeklar.biz/film8/sadoqatli-mult-1985.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-07/1690363509_1690363506.jpeg",Mashinalar
+https://c.uzbeklar.biz/film8/mashinalar-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-06/1687070455_1687070535.jpg",Yalmog'iz va afsun kitobi
+https://c.uzbeklar.biz/film7/yalmogiz-va-afsun.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-06/1686465085-1036024900-1.jpg",Kurkalar: Kelajakka qaytib
+https://c.uzbeklar.biz/film7/kurkalar-2013-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-05/1685468245-1833068462-1.jpg",Yovvoyi oqqushlar
+https://c.uzbeklar.biz/film7/yovvoyi-oqqushlar-1962.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-05/1685259154-722976512-1.jpg",Izquvar o'rgimchak
+https://c.uzbeklar.biz/film7/izquvar-orgimchak-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-05/1685186040-2046932130-1.jpg",Ermitaj mushuklari
+https://c.uzbeklar.biz/film7/ermitaj-mushuklari-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-04/1682225539_1682225607.jpg",Super Mario
+https://c.uzbeklar.biz/film7/supermario2023.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-05/1684312438-1945843112-1.jpg",Argonavtlar sarguzashtlari
+https://c.uzbeklar.biz/film7/argonavtlar-sarguzashtlari-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-04/1682267529_1682267581.jpg",Osmondan tushgan fil
+https://c.uzbeklar.biz/film7/osmondan-tushgan-fil-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-04/1681637755-218235686-1.jpg",Mitti Mumiyolar
+https://c.uzbeklar.biz/film7/mitti-mumiyolar-mult-2023.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-04/1680492385-1294285403.jpg",Kichkina qahramon
+https://c.uzbeklar.biz/film7/kichkina-qahramon-mult-2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-03/1680233814-774565179-1.jpg",Eng kichik gnom
+https://c.uzbeklar.biz/film7/eng-kichik-gnom-1977.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-03/1678679194-1430517298-1.jpg",Chink: Dumli izquvar
+https://c.uzbeklar.biz/film6/chink-dumli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-02/1677408678-1704528517.jpg",Mariya Mirabella Tranzistoriyada
+https://c.uzbeklar.biz/film6/maria-mirabella-sssr.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-02/1676055183-1699816720-1.jpg",Itkir o'rdakcha va Men
+https://c.uzbeklar.biz/film6/itkir-ordakcha-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1675008900-630297497-1.jpg",Itlar oroli
+https://c.uzbeklar.biz/film6/itlar-oroli-2018-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1672647178-628723923.jpg",Skruj: Yangi yil qo'shig'i
+https://c.uzbeklar.biz/film6/scrooge-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1672646434-1520326845-1.jpg",Katta sayohat 2
+https://c.uzbeklar.biz/film6/katta-sayohat-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1672646669-1874935009-1.jpg",G'alati olamdagi sarguzashtlar
+https://c.uzbeklar.biz/film6/galati-olamdagi-sarguzashtlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1672646788-1956940303-1.jpg",Qoyilmaqom Moris
+https://c.uzbeklar.biz/film6/qoyimaqom-moris.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-01/1672646925-1929377719.jpg",Tom va Jerry: Yangi sarguzashtlari
+https://c.uzbeklar.biz/film6/tomvajerry-snowman.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-12/1671959728-1960294331-1.jpg",G'aroyib qutqaruvchilar
+https://c.uzbeklar.biz/film6/combat-wombat-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-12/1671427167-687123570.jpg",Ted Jons sarguzashtlari 3: Zumraddan yasalgan bitik
+https://c.uzbeklar.biz/film6/ted-jons-3-multfilm.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-12/1671337810-1115274284-1.jpg",O'zga sayyoradan kelgan mehmon
+https://c.uzbeklar.biz/film6/ozga-sayyoradan-kelgan-mehmon-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-11/1669655748_1669655793.jpg",Maxluqlar futboli
+https://c.uzbeklar.biz/film6/maxluqlar-futboli-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-11/1669175832-526097865-1.jpg",Dengiz ahli
+https://c.uzbeklar.biz/film6/dengiz-ahli-2004.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-11/1669175613-1900797678-1.jpg",Yangi avlod
+https://c.uzbeklar.biz/film6/yangi-avlod-2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-10/1666431419-1201528620-1.jpg",DC Super uy hayvonlar ligasi
+https://v.uzbeklar.biz/film55/dc-uy-hayvonlar-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1661966081-877055135-1.jpg",Minionlar: Gryuning yuksalishi
+https://v.uzbeklar.biz/film55/minionlarr-2022-gryu.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1661965754-806857594-1.jpg",Dovyurak Nikita
+https://v.uzbeklar.biz/film55/nikita-mult-2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1661484734-468225081-1.jpg",Qo'shni ayiqlar: Koinotdan qochish
+https://v.uzbeklar.biz/film55/qoshni-ayiqlar-mult-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1661398965-193864615-1.jpg",Omad
+https://v.uzbeklar.biz/film55/omad-mult-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1660534739-66094290-1.jpg",Koshey: Kelinlar o'g'risi
+https://v.uzbeklar.biz/film55/koshey-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1659980596-1746958718-1.jpg",Samuray kuchuk va mushuklar shahri
+https://v.uzbeklar.biz/film55/samuray-kuchuk-mult-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1659846346-882658978-1.jpg",Bazz Layter: Yorug'lik yili
+https://v.uzbeklar.biz/film55/bazz-lighter-20222.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-08/1659411784-656436943-1.jpg",Koati: Jungli afsonasi
+https://v.uzbeklar.biz/film55/koati-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1659263951-1593971074.jpg",Dengiz Maxluqi
+https://v.uzbeklar.biz/film55/dengiz-maxluqi-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1658943535-1894793261-1.jpg",Jasur parrandalar 2
+https://v.uzbeklar.biz/film55/jasur-parandlar-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614425286-548184867-1.jpg",Jasur parrandalar
+https://files.uzbeklar.biz/film2/jasur-parrandalar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1658642953-1185248512-1.jpg",Dunyo bo'ylab 80 kun
+https://v.uzbeklar.biz/film55/dunyo-boylab-kun-80-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1658642909-417087757-1.jpg",Uch mushukcha va dengizdagi sarguzashtlar
+https://v.uzbeklar.biz/film55/uch-mushukcha-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1658202637-1857399712-1.jpg",Po'lat Qush 2
+https://v.uzbeklar.biz/film55/polat-qush-2-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1657734134-30891280-1.jpg",Xiyobondagi sarguzashtlar
+https://v.uzbeklar.biz/film55/xiyobondagi-sarguzashtlar-mult-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1656906966-1029272106.jpg",Olg'a Feliks
+https://v.uzbeklar.biz/film55/olga-feliks-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-07/1656786004-268078439-1.jpg",Suvorovning sarguzashtlari
+https://v.uzbeklar.biz/film55/suvorovning-sarguzashtlari-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-06/1656385756-2039221516-1.jpg",G'aroyib sirk
+https://v.uzbeklar.biz/film44/garoyib-sirk-2017-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-06/1655869894-546938878-1.jpg",Buka. Mening sevimli yirtqich maxluqim
+https://v.uzbeklar.biz/film44/buka-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-06/1655177968-1824534512-1.jpg",Jahongashta quyon
+https://v.uzbeklar.biz/film44/jahongoshta-quyon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-06/1654332846_chip.jpg",Chip va Deyl: Qutqaruvchilar
+https://v.uzbeklar.biz/film44/chip-va-deyl-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-05/1653670837-1799931971-1.jpg",Delfin bola
+https://v.uzbeklar.biz/film44/delfin-bola-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-05/1653670703-2113385473-1.jpg",Zolushka va sehrli toshning siri
+https://v.uzbeklar.biz/film44/zolushka-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-05/1652844859-1177298752-1.jpg",Yomon yigitlar
+https://v.uzbeklar.biz/film44/yomon-yigitlar-2022-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-05/1652157966-503267383-1.jpg",Finnik
+https://v.uzbeklar.biz/film44/finnik-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-05/1651554148-1402825126-1.jpg",Oydagi sarguzashtlar
+https://v.uzbeklar.biz/film44/oydagi-sarguzashtlar-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-04/1651124223-135548109-1.jpg",Qor malikasi
+https://v.uzbeklar.biz/film44/qor-malikasi-1957.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-04/1650526398-1263690453.jpg",Pinokkio
+https://v.uzbeklar.biz/film44/pinokkio-rossiya-multfilmi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-04/1649008349-608221540-1.jpg",Otash qalb
+https://v.uzbeklar.biz/film44/otash-qalb-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1648570821-1805447653-1.jpg",Men qizaryapman
+https://v.uzbeklar.biz/film44/men-qizaryappan-2022.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647833752-359049879.jpg",Riverdans: G'aroyib Sarguzashtlar
+https://v.uzbeklar.biz/film44/riverdans-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647832826-423519520-1.jpg",Posbon kuchukchalar Qutqaruvchi itlar
+https://v.uzbeklar.biz/film44/posbon-kuchukchalar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647409862-922886405.jpg",Oq qush malika 5
+https://v.uzbeklar.biz/film44/oq-qush-malika-5.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647409817-730207833.jpg",Oq qush malika 9
+https://v.uzbeklar.biz/film44/oq-qush-malika-9.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647231410-1593595762-1.jpg",Terrakota Himoyachilari
+https://v.uzbeklar.biz/film44/terrakota-himoyachilari-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1647067645-1968122649-1.jpg",Oq qush malika
+https://v.uzbeklar.biz/film44/oq-qush-malika-1994.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646929457-2102495200-1.jpg",Quvnoq pochtalon
+https://v.uzbeklar.biz/film44/quvnoq-pochtalyon-2014-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646672508-1488291446.jpg",Samson va Salli
+https://v.uzbeklar.biz/film44/samson-va-salli-1984.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-02/1646019465-486635477-1.jpg",Dengiz mushuklari
+https://v.uzbeklar.biz/film44/dengiz-mushuklari-mult-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-02/1645333269-1455903167-1.jpg",Skruj Makdak sarguzashtlari: Yo'qolgan chiroq
+https://v.uzbeklar.biz/film44/skruj-makdak-1990.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-02/1645333519-1927843707-1.jpg",Malika Emma
+https://v.uzbeklar.biz/film44/malika-emma-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-02/1644466430-467000454-1.jpg",Sehrgarlar mamlakati
+https://v.uzbeklar.biz/film44/uch-jodugar-2003.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1643608980-959857744-1.jpg",Pillining sarguzashtlari
+https://v.uzbeklar.biz/film44/pillining-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1643517887-1210791884.jpg",Dovyurak Olmaxon 2
+https://v.uzbeklar.biz/film44/dovyurak-olmaxon-2-2017.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1643171960-92014364-1.jpg",G'aroyib sayohat
+https://v.uzbeklar.biz/film44/garoyib-sayohat-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642995192-1309786745.jpg",Sichqoncha Peresning sarguzashtlari
+https://v.uzbeklar.biz/film44/sichqoncha-peres-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642392499-104736482-1.jpg",Maxluqlar Ta'tilda 4: Transformaniya
+https://v.uzbeklar.biz/film44/maxluqlar-tatilda-4-uzb-tilida.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642871898-988422071-1.jpg",Ayiqcha Bamsi va sehrgarning qizi
+https://v.uzbeklar.biz/film44/ayiqcha-bamsi-2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642781422-1782828896-1.jpg",Qarsildoq
+https://v.uzbeklar.biz/film44/qarsildoq-1973.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642564545-966033985.jpg",Uyga yo'l
+https://v.uzbeklar.biz/film44/uyga-yol-mult-yangi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642239400-1697651353-1.jpg",Maxluqlar Ligasi
+https://v.uzbeklar.biz/film44/maxluqlar-ligasi-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642239322-1214860640.jpg",Raketa va Grut
+https://v.uzbeklar.biz/film44/raketa-va-grut-2017d.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1642008585-1740087490-1.jpg",Qirol sher 3
+https://files.uzbeklar.biz/film2/qirol-sher3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641911511-792673636-1.jpg",Betmen Drakulaga qarshi
+https://v.uzbeklar.biz/film44/betmen-drakulaga-qarshi-2005.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641704018-1097035328.jpg",Qora tulpor
+https://v.uzbeklar.biz/film44/qora-tulpor-1978.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641702409-900221741.jpg",To'polonchi qarg'a
+https://v.uzbeklar.biz/film44/topolonchi-qarga-2012.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641701459-1479288705-1.jpg",Madagaskar 1
+https://v.uzbeklar.biz/film44/madagascar-1-2005.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641701285-20092488-1.jpg",Madagaskar 2
+https://v.uzbeklar.biz/film44/madagascar-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641701186-1763932874-1.jpg",Madagaskar 3
+https://v.uzbeklar.biz/film44/madagascar-3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641618833-1651195771.jpg",Daryo Qo'riqchilari
+https://v.uzbeklar.biz/film44/daryo-qoriqchilari-2008.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641618579-1780175128-1.jpg",Bilmasvoyning oyga sayohati
+https://v.uzbeklar.biz/film44/bilmasvoyning-1997-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641267254-1251172784-1.jpg",Enkanto
+https://v.uzbeklar.biz/film44/enkanto-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641182585-833197106-1.jpg",Qanotli uchlik
+https://v.uzbeklar.biz/film44/qanotli-uchlik-2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641103155-1909813808-1.jpg",Oppoqvoy
+https://v.uzbeklar.biz/film44/oppoqvoy-2011.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641026643-184934576-1.jpg",Tarzan
+https://v.uzbeklar.biz/film44/tarzan-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641026391-1780375913-1.jpg",Pibody va Sherman sarguzashtlari
+https://v.uzbeklar.biz/film44/janob-pibodi-va-sherman-2014.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641025557-1848276414-1.jpg",Musiqali fantaziya
+https://v.uzbeklar.biz/film44/musiqali-fantaziya-1946.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-01/1641024196-1987735614-1.jpg",Astroboy
+https://v.uzbeklar.biz/film44/astroboy-2009-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640799022-1841388536-1.jpg",Jasur panda
+https://v.uzbeklar.biz/film44/jasur-panda-2010.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640774797-1474471905-1.jpg",Mumu
+https://v.uzbeklar.biz/film44/mumu-1987.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640709205-442909744-1.jpg",Akula uchun ho'rak
+https://files.uzbeklar.biz/film2/akula-uchun-horak-2006.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640708978-7428820-1.jpg",Bir kishilik orkestr
+https://files.uzbeklar.biz/film2/bir-kishilik-orkestr-2005.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640708787-16004453-1.jpg",Jasur Savva
+https://files.uzbeklar.biz/film2/jasur-savva-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640708583-1682826653.jpg",Jonli o'rmon
+https://files.uzbeklar.biz/film2/jonli-ormon-2001.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640708082-1691121126-1.jpg",Presto
+https://files.uzbeklar.biz/film2/presto-2008.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640707759-1825871809.jpg",Qor o'yini
+https://files.uzbeklar.biz/film2/qor-oyini-2015.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640707647-440269837-1.jpg",Sirk tamoshasi
+https://files.uzbeklar.biz/film2/sirk-tomoshasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604635417_ajdar-orgatuvchilar-2.jpg",Ajdar o'rgatuvchilar 2
+https://files.uzbeklar.biz/film3/ajdar-orgatuvchilar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640664014-253378900.jpg",Tayoning sarguzashtlari
+https://files.uzbeklar.biz/film2/tayoning-sarguzzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640663377-1335935590.jpg",Yo'lbarsvoy va Vinni
+https://files.uzbeklar.biz/film2/yolbarsvoy-va-vinni-1974.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640449127-1571392386-1.jpg",Shrek va uning do'stlari
+https://files.uzbeklar.biz/film2/shrek-va-uning-dostlari-2007.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640449035-277885894-1.jpg",Kung fu Panda - Bayram
+https://files.uzbeklar.biz/film2/kung-fu-panda-bayram-2010.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640447616-459303783-1.jpg",Yo'qotilgan rishtalar
+https://files.uzbeklar.biz/film2/yoqotilgan-rishtalar-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640447332-87508863-1.jpg",Shimol Afsonalari
+https://files.uzbeklar.biz/film2/shimol-afsonalari-2013.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640367401-454780673.jpg",Langarlar Ko'tarilsin
+https://files.uzbeklar.biz/film2/langarlar-kotarilsin-2017-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640366219-194438904-1.jpg",Sheryurak Qiz
+https://files.uzbeklar.biz/film2/sheryurak-qiz-2012.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640366052-1265447527-1.jpg",Semmining sarguzashtlari 2
+https://files.uzbeklar.biz/film2/semmining-sarguzashtlari-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640365930-2060726729-1.jpg",Po'lat qushlar 2: Olov va suv
+https://files.uzbeklar.biz/film2/polat-qushlar-2-2014.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640365776-139566141-1.jpg",Impi - Super Yulduz
+https://files.uzbeklar.biz/film2/impi-super-yulduz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640256852-895450456.jpg",Banyan va Bolakay
+https://files.uzbeklar.biz/film2/banyan-va-bolakay.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640194347-1804751888-1.jpg",Quyonlar maktabi
+https://v.uzbeklar.biz/film44/quyonlar-maktabi-2017.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615434584-1017886824-1.jpg",Raya va so'ngi ajdarho
+https://files.uzbeklar.biz/film2/raya-va-ajdarho.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-08/1597898246_qahramonlar-shahri.jpg",Qahramonlar shahri
+https://v.uzbeklar.biz/film44/qahramonlar-shahri-2014.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640105379-674682841-1.jpg",Kung-Fu quyon
+https://v.uzbeklar.biz/film44/kung-fu-quyon-2011.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640015581-91553835-1.jpg",Horton
+https://v.uzbeklar.biz/film44/horton-2008.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1640015351-369247162-1.jpg",Dovyurak Olmaxon 1
+https://v.uzbeklar.biz/film44/dovyurak-olmaxon-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1639754927-1200454905-1.jpg",Hayolparast Delfin
+https://v.uzbeklar.biz/film44/hayolparast-delfin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1639631837-1732699366-1.jpg",Jasur Yohan
+https://shumbola.net/new/jasur-ohan-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-12/1639630743-1465355035-1.jpg",Mening robot do'stim
+https://c.uzbeklar.biz/film6/mening-robot-dostim.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1638182414-1393957645-1.jpg",Maxluqlar Oilasi 2
+https://v.uzbeklar.biz/film44/maxluqlar-oilasi-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1637639990-597868358-1.jpg",Sehrlangan
+https://files.uzbeklar.biz/film3/sehrlangan-2007.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1637552281-285551860-1.jpg",Maxluqlar Oilasi 1
+https://files.uzbeklar.biz/film3/maxluqlar-oilasi-1-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636971372-2080254382-1.jpg",Koshey. Muqqadima
+https://v.uzbeklar.biz/film44/koshey-muqaddima.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635668025-571960763-1.jpg",Tintinning sarguzashtlari
+https://files.uzbeklar.biz/film3/tintin-sarguizashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635667410-1140641492-1.jpg",Qirol sher 2
+https://files.uzbeklar.biz/film3/qirol-sher-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635656652-1183927433-1.jpg",Dambo
+https://files.uzbeklar.biz/film3/dambo-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635263209-1892883740-1.jpg",G'aroyib hiyobon
+https://files.uzbeklar.biz/film3/garoyib-hiyobon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635263026-1669360101-1.jpg",Adamslar Oilasi 2: Qizg'in sayohat
+https://files.uzbeklar.biz/film3/adamslar-oilasi-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1635245212-783873913-1.jpg",Qirol Sher
+https://files.uzbeklar.biz/film3/qirol-sher-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634974317-1172808688.jpg",Bilol
+https://files.uzbeklar.biz/film3/bilol2018.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634974216-2012893134-1.jpg",Paxmoq izquvar
+https://files.uzbeklar.biz/film3/paxmoq-josus.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634974154-1233353280-1.jpg",Ferdinand
+https://files.uzbeklar.biz/film3/ferdinand-2017.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634840927-76508278-1.jpg",Adamslar oilasi
+https://files.uzbeklar.biz/film3/adamslar-oilasi-2019.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-10/1634572799-1643135919.jpg",Ayven Betakror va Yagona
+https://files.uzbeklar.biz/film3/ayven-2020.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-09/1632823384-931150987-1.jpg",Momiqvoylar
+https://files.uzbeklar.biz/film3/poncherlar-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-09/1630859492-1676113893-1.jpg",Shirin Tushlar
+https://files.uzbeklar.biz/film3/shirin-tushlar-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-09/1630662030-1065389145-1.jpg",Mulan: Yangi afsona
+https://files.uzbeklar.biz/film3/mulan-mult-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1629732620-735733810.jpg",Vivo
+https://files.uzbeklar.biz/film3/vivo-2021-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1628869102-2090545023-1.jpg",Qizil Sayyora Siri
+https://files.uzbeklar.biz/film3/qizil-sayyora-siri.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1628788922-38260353-1.jpg",Po'lat Qush
+https://files.uzbeklar.biz/film3/polat-qush.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1628354232-717373156-1.jpg",Qizil Qalpoqcha Yovuzlikka Qarshi
+https://files.uzbeklar.biz/film3/qizil-qalpoqcha-2015.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1628179166-1096372712-1.jpg",Savanna Qiroli Kumba
+https://files.uzbeklar.biz/film3/savanna-qiroli-kumba.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-08/1627834202-241975090.jpg",Troll ovchilari: Titanlar xuruji
+https://files.uzbeklar.biz/film3/troll-ovchilari-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626886276-109364413-1.jpg",Qishga g'amlaganlar
+https://files.uzbeklar.biz/film3/donuld-duck-1942.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626597309-1549123250-1.jpg",Kichkina Xo'jayin 2: Oilaviy Biznes
+https://files.uzbeklar.biz/film3/boss-molokosos-uzbek-tilida-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501733-1002766744-1.jpg",Jasur baliq
+https://files.uzbeklar.biz/film3/jasur-baliq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501546-1320668806-1.jpg",Momiqvoy Laqabli Ayiqcha va Uning Do'stlari 2
+https://files.uzbeklar.biz/film3/momiqvoy-1968.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501428-958507071.jpg",Lolo ismli pingvin sarguzashtlari
+https://files.uzbeklar.biz/film3/lolo-ismli-pingvin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501329-1099060165-1.jpg",Noziknihol Malika
+https://files.uzbeklar.biz/film3/nozikhinol-malika-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501197-952922355-1.jpg",101 ta dolmatin
+https://files.uzbeklar.biz/film3/101-dolmatin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626501043-997371096-1.jpg",Lessi va daydi it
+https://files.uzbeklar.biz/film3/lessi-va-daydi-it.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626452884-518442358-1.jpg",Spirit 2: Asov Tulpor
+https://files.uzbeklar.biz/film3/spirit-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413970-118909080-1.jpg",Pakana Burunboy
+https://files.uzbeklar.biz/film3/pakana-burunboy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413850-979098651.jpg",Etikdo'z Sichqon
+https://files.uzbeklar.biz/film3/etikdoz-sichqon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413673-2024412683-1.jpg",Pishloq yomg'iri 2
+https://files.uzbeklar.biz/film3/pishloq-yomgiri-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413534-1696695394-1.jpg",Pishloq Yomg'iri 1
+https://files.uzbeklar.biz/film3/pishloq-yomgiri-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413364-1234211100-1.jpg",Tulki va It 2
+https://files.uzbeklar.biz/film3/tulki-va-it-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413319-59537711-1.jpg",Tosterning Sarguzashtlari
+https://files.uzbeklar.biz/film3/tosterning-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626413271-1050537879-1.jpg",O'ttizinchi Asr Pinokkiosi
+https://files.uzbeklar.biz/film3/30-asr-pinokkiosi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626334525-100506042-1.jpg",Og'irlangan malika
+https://files.uzbeklar.biz/film3/OGIRLANGAN-MALIKA.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626334337_kanikuly.jpg",Qirollik ta'tili
+https://files.uzbeklar.biz/film3/qirollik-tatil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626332966_sahara.jpg",Sahara
+https://files.uzbeklar.biz/film3/sahara-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626274088_ted.jpg",Ted Jons 2
+https://files.uzbeklar.biz/film3/ted-jons2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626240399-662791349-1.jpg",Robinsonlarnikiga mehmonga
+https://files.uzbeklar.biz/film3/robinsonlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626240237-1680841628-1.jpg",Jasur mushukcha
+https://files.uzbeklar.biz/film3/jasur-mushukcha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626240209-1514057922-1.jpg",O'rmon ahli
+https://files.uzbeklar.biz/film3/ormon-ahli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626240106-630299790-1.jpg",Pakahontas
+https://files.uzbeklar.biz/film3/pakahontas.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626195165-2106769862-1.jpg",Maxluqlar Ta'tilda 3: Dengiz Chorlaydi
+https://files.uzbeklar.biz/film3/maxluqlar-tatilda-3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626108729-1254591766-1.jpg",Mulan
+https://files.uzbeklar.biz/film3/mulan-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626108601-955650874-1.jpg",Spirit
+https://files.uzbeklar.biz/film3/spirit-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626108445-112785396-1.jpg",Tepaga
+https://files.uzbeklar.biz/film3/tepaga-up.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061203-222386923-1.jpg",Kichkina Suv Parisi
+https://files.uzbeklar.biz/film3/kichkina-suv-parisi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061867-1306281604-1.jpg",Minionlar
+https://v.uzbeklar.biz/film44/minionlar-2015.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1626061284-1902099185-1.jpg",Musiqachi it 2
+https://files.uzbeklar.biz/film3/musiqachi-it-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625986832-965160098-1.jpg",Jaxldor qushchalar 2
+https://files.uzbeklar.biz/film3/jaxldor-qushchalar-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625986666-1988787819-1.jpg",Jaxldor qushchalar 1
+https://files.uzbeklar.biz/film3/jaxldor-qushchalar-1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625927301-1990562821-1.jpg",Qiziquvchan Maymuncha
+https://files.uzbeklar.biz/film3/maymuncha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625927145-966784602-1.jpg",O'rmon qo'riqchilari
+https://files.uzbeklar.biz/film3/ormon-qoriqchilari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926856-812042088-1.jpg",To’lqinlar uzra parvoz
+https://files.uzbeklar.biz/film3/tolqinlar-uzra.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926775-868244907-1.jpg",G'ozlar Oqqushlar
+https://files.uzbeklar.biz/film3/gozlar-oqqushlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625926482-161344639-1.jpg",Yangi Uy
+https://files.uzbeklar.biz/film3/yangi-uy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625847773-1301067787-1.jpg",Maxluqlar Ta'tilda 2
+https://files.uzbeklar.biz/film3/maxluqlar-tatilda2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625847679-124617518-1.jpg",Maxluqlar Ta'tilda 1
+https://files.uzbeklar.biz/film3/maxluqlar-tatilda1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625505161-385610731-1.jpg",Olafning yangi yil sovg'alari
+https://files.uzbeklar.biz/film3/olafning-yangi-yil.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625505043-1855605467-1.jpg",Jungli qo'riqchilari
+https://files.uzbeklar.biz/film3/jungli-qaroqchilari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625504925-1895660083-1.jpg",Rapunzel
+https://files.uzbeklar.biz/film3/rapunzel-2010.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625504597-293612485-1.jpg",Luka
+https://files.uzbeklar.biz/film3/luka-2021.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625504501-717945958-1.jpg",Uzunquloq Piter 2
+https://files.uzbeklar.biz/film3/uzunquloq-piter-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625414391-2061951747-1.jpg",Robinzon Kruzo
+https://files.uzbeklar.biz/film3/robinzon-kruzo-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625370819-1725863266-1.jpg",Ajdarho o'rgatuvchilar 3
+https://files.uzbeklar.biz/film3/ajdarho-orgatuvchilar-3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625370680-7148278-1.jpg",Kichkina xo'jayin
+https://files.uzbeklar.biz/film3/kichkina-xojayin.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625370570-452099313-1.jpg",Prostokvashinolik uchovlon
+https://files.uzbeklar.biz/film3/prostokvashino.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625370440-142682974-1.jpg",Yoqimtoy qushchalar
+https://files.uzbeklar.biz/film3/yoqimtoy-qushchalar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239717-2072534313-1.jpg",Dovyurak Lifi
+https://files.uzbeklar.biz/film3/dovyurak-lifi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239331-999820392-1.jpg",Qo'shni ayiqlar
+https://files.uzbeklar.biz/film3/qoshni-ayiqlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625239194-1860739036-1.jpg",Voronej ko'chasidagi mushuk
+https://files.uzbeklar.biz/film3/voronezh-kochasidagi-mushuk.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-07/1625157171-1806095366-1.jpg",Ayyor Hyugo
+https://files.uzbeklar.biz/film3/ayoor-hyugo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624984325-1366811465.jpg",Sehrli Ajdarho Orzusi
+https://files.uzbeklar.biz/film3/sehrli-ajdarho.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985861-269938421-1.jpg",Yettinchi gnom
+https://files.uzbeklar.biz/film3/yettinchi-gnom.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985621-914674334-1.jpg",Krudslar oilasi
+https://files.uzbeklar.biz/film3/krudslar-oilasi1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985342-17505221-1.jpg",Muzyurak 1
+https://files.uzbeklar.biz/film3/muzyurak1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624985305-1673177541-1.jpg",Muzyurak 2
+https://files.uzbeklar.biz/film3/muzyurak2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624984529-954473337.jpg",Arktika qo'riqchilari
+https://files.uzbeklar.biz/film3/arktika-qoriqchilari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624852220-1505682934-1.jpg",Sohibjamol va mahluq
+https://files.uzbeklar.biz/film3/sohibjamol-va-maxluq1991.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624733034-235894915-1.jpg",Zumrad shaharga qaytish
+https://files.uzbeklar.biz/film3/zumrad-shaxarga-qaytish.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624732909-823123911-1.jpg",Quvnoq oyoqchalar 2
+https://files.uzbeklar.biz/film3/quvnoq-oyochoqlar-2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624732802-2131432477-1.jpg",Quvnoq oyoqchalar 1
+https://files.uzbeklar.biz/film3/quvnoq-oyochoqlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624732500-1286201431-1.jpg",Asalari fitnasi
+https://files.uzbeklar.biz/film3/asalari-fitnasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624334361-24690106-1.jpg",Everest
+https://files.uzbeklar.biz/film3/everest-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624334236-896498227-1.jpg",Shrek 4
+https://files.uzbeklar.biz/film3/shrek4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624334097-927446879-1.jpg",Shrek 3
+https://files.uzbeklar.biz/film3/shrek3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624334056-386253115-1.jpg",Shrek 2
+https://files.uzbeklar.biz/film3/shrek2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624333891-844917200-1.jpg",Shrek 1
+https://files.uzbeklar.biz/film3/shrek1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624332494-1962372800-1.jpg",Volt
+https://files.uzbeklar.biz/film3/volt.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-12/1606842370_uy-hayvonlarining-sirli-hayoti-2.jpg",Uy hayvonlarining sirli hayoti 2
+https://files.uzbeklar.biz/film3/uy-hayvonlarni-sirli-hayoti2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-12/1606842738_uy-hayvonlarining-sirli-hayoti.jpg",Uy hayvonlarining sirli hayoti
+https://files.uzbeklar.biz/film3/uy-hayvonlarni-sirli-hayoti1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624127294-652548579-1.jpg",Qushlar qo'riqchisi
+https://files.uzbeklar.biz/film3/qushlar-qoriqchisi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604769465_ajdar-orgatuvchilar-1.jpg",Ajdar o'rgatuvchilar 1
+https://v.uzbeklar.biz/film44/ajdar-orgatuvchilar1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624115612-720570252-1.jpg",Ainbo: Amazoniya Yuragi
+https://files.uzbeklar.biz/film3/ainbo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1624027389-1770500599-1.jpg",Chipollino
+https://e.uzbeklar.biz/chippolino1961.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1623562939-1013059672-1.jpg",Mayaning yangi sarguzashtlari
+https://files.uzbeklar.biz/film3/mayaning-yangi-s.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1623254890-966558547-1.jpg",Okko Mexmonxonasi
+https://files.uzbeklar.biz/film3/okkoanime.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622779064-962001133-1.jpg",Kiki va eltuv Хizmati
+https://files.uzbeklar.biz/film3/kiki-anime.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622778925-1098300727-1.jpg",Ko'rfaz
+https://files.uzbeklar.biz/film3/korfaz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622651007-1104185151.jpg",Qushlar Jamoasi
+https://files.uzbeklar.biz/film3/qushlar-jamoasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622650772-1776975289.jpg",Momiqvoy Laqabli Ayiqcha va Uning Do'stlari 1
+https://files.uzbeklar.biz/film3/momiqvoy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-06/1622567968-629753920-1.jpg",Uchinchi Sayyora Siri
+https://files.uzbeklar.biz/film3/3sayyora-siri.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1622388473-1578161904-1.jpg",Mitchellar Mashinalarga Qarshi
+https://files.uzbeklar.biz/film3/mitchellar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1622226707-398204410-1.jpg",Yaxshi Dinozavr
+https://files.uzbeklar.biz/film3/yaxshi-dinozavr.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1622196347-1000750443-1.jpg",Shoh Sulton haqida ertak
+https://files.uzbeklar.biz/film3/shoh-sulton.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1622046942-165428982-1.jpg",Sehrli Toshni Izlab
+https://files.uzbeklar.biz/film3/sehrli-toshni-izlab.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-04/1588099256_robotlar.jpg",Robotlar
+https://files.uzbeklar.biz/film3/robotlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621708138-191675321.jpg",Elvin va Burunduqlar 4
+https://files.uzbeklar.biz/film3/elvin4.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621708019-1310236488-1.jpg",Elvin va Burunduqlar 3
+https://files.uzbeklar.biz/film3/elvin3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621707896-573974896-1.jpg",Elvin va Burunduqlar 2
+https://files.uzbeklar.biz/film3/elvin2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621707540-1413268255.jpg",Elvin va Burunduqlar 1
+https://files.uzbeklar.biz/film3/elvin1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621662509-1194607311-1.jpg",Po'lat qushlar
+https://files.uzbeklar.biz/film3/polat-qushlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621662345-38974385-1.jpg",Changalzor afsonasi
+https://files.uzbeklar.biz/film3/changalzor-afsonasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621662258-966456782-1.jpg",Mosli siri
+https://files.uzbeklar.biz/film3/mosli-siri.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621662132-854412147-1.jpg",Elias
+https://files.uzbeklar.biz/film3/elias.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621507225-746124805-1.jpg",Smurflar: Yo'qolgan qishloq
+https://files.uzbeklar.biz/film3/smurflarlar-yoqolgan-shahar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621273572-626315170.jpg",Drupi izquvar
+https://files.uzbeklar.biz/film3/drupi-izquvar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621273434-1921119990-1.jpg",Rolli va Elfning g'aroyib sarguzashtlari
+https://files.uzbeklar.biz/film3/rolli-va-elf.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621273294-1564620129-1.jpg",Ahil Do'stlar
+https://files.uzbeklar.biz/film3/ahli-dostlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621242313-985864057-1.jpg",Atlantida: Maylaning qaytishi
+https://files.uzbeklar.biz/film3/atlantida-mayla.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621242059-1894414525-1.jpg",O'n ikki oy
+https://files.uzbeklar.biz/film3/on-ikki-oy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621241774-1029937068-1.jpg",Mittivoy
+https://files.uzbeklar.biz/film3/mittivoy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621241608-1827858085-1.jpg",Uch Mushketyor
+https://files.uzbeklar.biz/film3/uch-mushketyor.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621227640-688509281-1.jpg",Inim ayiq
+https://files.uzbeklar.biz/film3/inim-ayiq.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621226782-1074638427.jpg",Shirinliklar mamlakati
+https://files.uzbeklar.biz/film3/shirinliklar-mamlakati.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621149631-1281428071.jpg",Quyon og'aning sarguzashtlari
+https://files.uzbeklar.biz/film3/quyoning-oganing.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621149367-448060334-1.jpg",Savanna Himoyachilari
+https://files.uzbeklar.biz/film3/savanna-himoyachilari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621149246-1505627235-1.jpg",Zambeziya 1
+https://files.uzbeklar.biz/film3/zambeziya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621149080-1345913151.jpg",Mushukcha Rudolfning sarguzashtlari
+https://files.uzbeklar.biz/film3/mushukcha-rudolfning.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621148889-1609576518-1.jpg",Qochoq mushukcha
+https://files.uzbeklar.biz/film3/qochoq-mushukcha.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621065159-1022831131-1.jpg",Bunining sirkdagi sarguzashtlari
+https://files.uzbeklar.biz/film3/bunining-sirkdagi-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621065038-2038670103-1.jpg",Oliver va uning do'stlari
+https://files.uzbeklar.biz/film3/oliver-va-uning-dostlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621064151-1902846886-1.jpg",Normning sarguzashtlari 3
+https://files.uzbeklar.biz/film3/norm3.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1621063972_trolli2.jpg",Trollar 2: Dunyo bo'ylab sayohat
+https://files.uzbeklar.biz/film3/trollar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620890393-1752856278-1.jpg",Fiksiklar krabotlarga qarshi
+https://files.uzbeklar.biz/film3/fiksiklar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620890216-260892036-1.jpg",Bembi
+https://files.uzbeklar.biz/film3/bembi1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620890068-1532614437.jpg",Selmaning Katta Tilagi
+https://files.uzbeklar.biz/film3/selmaning-katta-tilagi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620889912-812055505-1.jpg",Korgining sarguzashtlari
+https://files.uzbeklar.biz/film3/korgining-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620757656-903956869-1.jpg",Smurflar 1
+https://files.uzbeklar.biz/film3/smurflar1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620757589-1938950849-1.jpg",Smurflar 2
+https://files.uzbeklar.biz/film3/smurflar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620757485-575247150-1.jpg",Viking Vik
+https://files.uzbeklar.biz/film3/viking-vik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620757348-1435999731-1.jpg",Normning sarguzashtlari 4
+https://files.uzbeklar.biz/film3/normning-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620757149-1294374130.jpg",Ajdarcha 2: Changalzordagi sarguzashtlar
+https://files.uzbeklar.biz/film3/ajdarcha2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668847-480293446-1.jpg",Jastin va dovyurak ritsarlar
+https://files.uzbeklar.biz/film3/jastin-va-dovyurak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668785-1651024706-1.jpg",Uilobbiylar Oilasi
+https://files.uzbeklar.biz/film3/uilobbiylar-oilasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668715-1290821397-1.jpg",Chip laqabli jo'ja
+https://files.uzbeklar.biz/film3/chip-laqabli-joja.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668518-2070041273-1.jpg",Omadsiz qaroqchilar
+https://files.uzbeklar.biz/film3/omadsiz-qaroqchilar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668285-1659476666-1.jpg",Epik
+https://files.uzbeklar.biz/film3/epik.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620668202-2005915056-1.jpg",Urfin Jyus va uning yog'och askarlari
+https://files.uzbeklar.biz/film3/urfin-hyus2016.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-11/1701055402_1701055398.jpg",Qutb ayiqchasi
+https://files.uzbeklar.biz/film3/qutb-ayiqchasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667924-641973751.jpg",Super IT va Turbo mushuk
+https://files.uzbeklar.biz/film3/superitvaturbo-mushuk.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667802-1598099255-1.jpg",Ralf internetga qarshi
+https://files.uzbeklar.biz/film3/ralf-internetga-qarshi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667577-768558896.jpg",Jungli ovozi
+https://files.uzbeklar.biz/film3/jungli-ovozi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667411-2003869347.jpg",Malika Lili
+https://files.uzbeklar.biz/film3/malika-lili.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667328-656964867.jpg",Dovyurak
+https://files.uzbeklar.biz/film3/dovyurak.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667186-1752947765-1.jpg",Chaqmoqtosh
+https://files.uzbeklar.biz/film3/chaqmoqtosh.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620667079-640800204-1.jpg",Uchar qo'ng'izchalar
+https://files.uzbeklar.biz/film3/uchar-qongizchalar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620666997-1866797513-1.jpg",Ayiqpolvonlar - Sirli qish
+https://files.uzbeklar.biz/film3/ayiqpolvonlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620666739-234041651-1.jpg",Qor poygasi
+https://files.uzbeklar.biz/film3/qor-pougasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620582632-810652075-1.jpg",Ted Jons sarguzashtlari
+https://files.uzbeklar.biz/film3/ted-jons.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620581966-657746603-1.jpg",Sindbad: Yetti dengiz afsonasi
+https://files.uzbeklar.biz/film3/sindbad-7-dengiz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-05/1620580280-316708743-1.jpg",Kokoning siri
+https://v.uzbeklar.biz/film44/kokoning-siri.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619370627-1563454046-1.jpg",Jungli kitobi
+https://files.uzbeklar.biz/film3/jungli-kitobi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619336439_troli.jpg",Trollar
+https://files.uzbeklar.biz/film3/trolli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619290488-1129154170-1.jpg",Shavqatsiz va Mehribon Josuslar
+https://files.uzbeklar.biz/film3/shavqatsiz-aygokchilar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619290326-690181995-1.jpg",Sehrli boshmoq 2
+https://files.uzbeklar.biz/film3/sehrli-bboshmoq2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1619024038-932202153-1.jpg",Smolfut
+https://files.uzbeklar.biz/film3/smolfut.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618767351-1589349909-1.jpg",Gretel va sehrgarlar agentligi
+https://files.uzbeklar.biz/film3/genzel-gretel.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618374803-241861111.jpg",Mashaning sarguzashtlari 2
+https://files.uzbeklar.biz/film2/mashaning-sarguzashtlari2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618374757-836064012-1.jpg",Olg'a dino
+https://files.uzbeklar.biz/film2/olga-dino.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618374556-92209160.jpg",Olli
+https://files.uzbeklar.biz/film2/olli-multfilm.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618374485-1117274542-1.jpg",Oyga uchamiz
+https://files.uzbeklar.biz/film2/oyga-uchamiz.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1618374020-436500378-1.jpg",Loraks
+https://files.uzbeklar.biz/film2/loraks-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617727176-1445401193-1.jpg",Uyqudagi malika
+https://files.uzbeklar.biz/film2/uyqudagi-malika.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617727002-1534898991-1.jpg",Gayaga qaytish
+https://files.uzbeklar.biz/film2/gayaga-qaytish.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726824-386519553-1.jpg",Tom va Jerri: Villi Vonka va shokolad fabrikasi
+https://files.uzbeklar.biz/film2/tom-va-jerri-villi-vonka.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726609-1319377834-1.jpg",Qo'shni ayiqlar: Changalzordan qochish
+https://files.uzbeklar.biz/film2/qoshni-ayiqlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726473-1069229521-1.jpg",Rio 2
+https://files.uzbeklar.biz/film2/rio2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726357-921640417-1.jpg",Rio
+https://files.uzbeklar.biz/film2/rio1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726136-98607162-1.jpg",Balerina
+https://files.uzbeklar.biz/film2/balerina.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617726011-2108048852.jpg",Parilar
+https://files.uzbeklar.biz/film2/parilar-multfilm.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617725907-2111146377-1.jpg",Bembi 2
+https://files.uzbeklar.biz/film2/bembi2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617725805-874039776-1.jpg",Vuk Jasur Tulki
+https://files.uzbeklar.biz/film2/vuk-tulki.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-04/1617725505-732400086-1.jpg",Suvdagi Sarguzashtlar
+https://files.uzbeklar.biz/film2/suvdagi-sarguzashtlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261804-1303765785-1.jpg",Parij Maxluqi
+https://files.uzbeklar.biz/film2/parij-mahluqi%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261713-360624110-1.jpg",Zarqushni izlab
+https://files.uzbeklar.biz/film2/zarqushni-izlab%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261547-1663099719-1.jpg",Gerkules
+https://files.uzbeklar.biz/film2/gerkules%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261434-1623400804.jpg",Ov mavsumi 4
+https://files.uzbeklar.biz/film2/ov-mavsumi4%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261365-120393038-1.jpg",Ov mavsumi 3
+https://files.uzbeklar.biz/film2/ov-mavsumi3%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261226-73829155-1.jpg",Ov mavsumi 2
+https://files.uzbeklar.biz/film2/ov-mavsumi2%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1616261064-817414812-1.jpg",Ov mavsumi 1
+https://files.uzbeklar.biz/film2/ov-mavsumi1%28uzbeklar-net%29.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615520670-1933690599-1.jpg",Samoviy Jem
+https://files.uzbeklar.biz/film2/samoviy-jem.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615434685-521044894-1.jpg",Uch bahodir va Katta poyga
+https://v.uzbeklar.biz/film44/uch-bahodir-katta-poyga.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615309230-226169547-1.jpg",Turbo
+https://files.uzbeklar.biz/film2/Turbo-480.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615309123-1005436289-1.jpg",Laylaklar
+https://files.uzbeklar.biz/film2/laylaklar-720.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615308969-460054559-1.jpg",Changalzordan Qochish
+https://files.uzbeklar.biz/film2/Changalzordan-Qochish-720.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-03/1615308671-297132990.jpg",Afsungarlar akademiyasi
+https://files.uzbeklar.biz/film2/afsungarakademiya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614431716-1072664822-1.jpg",Ranchodagi uy
+https://files.uzbeklar.biz/film2/rancodagi-uy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614431552-1306309964-1.jpg",Atlantida 2: Maylaning qaytishi
+https://files.uzbeklar.biz/film2/atlantida2mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614430987-515675720-1.jpg",Valli
+https://files.uzbeklar.biz/film2/valli-multfilm.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614430873-253506181-1.jpg",Ozzy
+https://files.uzbeklar.biz/film2/ozzi-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614425564-141737115.jpg",Oy bayrog'i
+https://files.uzbeklar.biz/film2/oy-bayrogi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614425423-808194698.jpg",Piter Pen Mo'jizalar kitobini izlab
+https://files.uzbeklar.biz/film2/piterpenmultfilm.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614425189-770980788.jpg",Jek va uning do'stlari
+https://files.uzbeklar.biz/film2/jek-va-uning-dostlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614424908-49584674-1.jpg",Musiqachi it
+https://files.uzbeklar.biz/film2/musicaqachi-it.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1614139586-1014364690-1.jpg",Ratatuy
+https://files.uzbeklar.biz/film2/ratatuy.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613923413-135080259-1.jpg",Uydagi begonalar
+https://files.uzbeklar.biz/film2/uydagi-begonalar-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613666136-1404990790-1.jpg",Ajdar makoni
+https://files.uzbeklar.biz/film2/ajdar-makoni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665805-379156624-1.jpg",Megamiya
+https://files.uzbeklar.biz/film2/megamiya.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665659-29833208-1.jpg",Don Kixot
+https://files.uzbeklar.biz/film2/don-kixot-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665379-1230402715-1.jpg",Qanotlar
+https://files.uzbeklar.biz/film2/qanotlar-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665184-1288516637.jpg",Maymunlar saltanati
+https://files.uzbeklar.biz/film2/maymunlar-saltanati.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613665050-1625998428-1.jpg",Eldorado sari yo'l
+https://files.uzbeklar.biz/film2/eldorado-sari-yol.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613664991-1261907195-1.jpg",Semining sarguzashtlari
+https://files.uzbeklar.biz/film2/semining-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1613664825-1494994720.jpg",Xaloskor gnomlar
+https://files.uzbeklar.biz/film2/xaloskor-gnomlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612714498-2118277936-1.jpg",Qizaloq va Maymoq
+https://files.uzbeklar.biz/film2/masha-medved1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612714329-2053903122-1.jpg",Qo'zichoq Shon Kosmosda
+https://files.uzbeklar.biz/film2/qozichoq-shon.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612714238-723268959.jpg",Super qanotchalar
+https://files.uzbeklar.biz/film2/super-wings.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612713924-1278537398-1.jpg",Qorboboni qutqarish
+https://files.uzbeklar.biz/film2/qorbobo-va-vaqt-mashinasi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612713830-1953915725-1.jpg",Ko'rfaz: Yangi yil sarguzashtlari
+https://files.uzbeklar.biz/film2/korfaz-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612198294-423392565-1.jpg",Chumolilar vodiysi 1
+https://files.uzbeklar.biz/film2/chumolilar-vodiysi1.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612198170-1195238284-1.jpg",Chumolilar vodiysi 2
+https://files.uzbeklar.biz/film2/chumolilar-vodiysi2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612198047-1316632231-1.jpg",Yura davri bolalari
+https://files.uzbeklar.biz/film2/yura-davri-bolalari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612197851-1287119496-1.jpg",Xazinalar oroli
+https://files.uzbeklar.biz/film2/xazina-oroli.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612197547-1546521304-1.jpg",Mulan 2
+https://files.uzbeklar.biz/film2/mulan2-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612197493-1239008372.jpg",Oyga sayohat
+https://files.uzbeklar.biz/film2/oyga-sayohat-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612157603-1790366560-1.jpg",Uchar gilam
+https://files.uzbeklar.biz/film2/uchar-gilam-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612157269-410983007-1.jpg",Sindbad va qaroqchilar
+https://files.uzbeklar.biz/film2/sinbad-va-qaroqchilari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-02/1612157041-312323580-1.jpg",Rim Gladiatorlari
+https://files.uzbeklar.biz/film2/rim-gladiatorlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612100698-944664026-1.jpg",Imperatorning sarguzashtlari
+https://files.uzbeklar.biz/film2/imperatorning-sarguzashtlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612100550-2114073908-1.jpg",Bug'uning parvozi 2
+https://files.uzbeklar.biz/film2/niko2milt.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612100227-1243201589-1.jpg",Belka va Strelka: Karib dengizi sirlari
+https://files.uzbeklar.biz/film2/belka-va-strelka.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1612100094-1039464001-1.jpg",Ajdarlar hukumdori
+https://files.uzbeklar.biz/film2/ajdarlar-hukmdori.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611400191-1274281176.jpg",Krudslar Oilasi 2: Yangi Asr
+https://v.uzbeklar.biz/film44/krudslar2.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1611400099-1870560301.jpg",Ruh
+https://v.uzbeklar.biz/film44/ruh.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1610472002_njechzha.jpg",Neja
+https://v.uzbeklar.biz/film44/neja-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1610471746_oyinchoqlar-dokonining-siri.jpg",O'yinchoqlar do'konining siri
+https://v.uzbeklar.biz/film44/oyinchoqlar-dokoni.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1609909483_chudo-judo.jpg",Kenja shahzoda
+https://v.uzbeklar.biz/film44/kenja-shaxzoda.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-01/1609908235_madagaskar-pingvinlari.jpg",Madagaskar pingvinlari
+https://v.uzbeklar.biz/film44/madagaskar-pingvinlari.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-09/1599927486_sirli-mezbonlar.jpg",Sirli mezbonlar
+https://v.uzbeklar.biz/film44/sirli-mezbonlar.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-09/1600338248_chumolilar-hujumi.jpg",Chumolilar hujumi
+https://v.uzbeklar.biz/film44/chumollar-hujumi.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-10/1602139515_yer-sayyorasidan-qochish.jpg",Yer sayyorasidan qochish
+https://v.uzbeklar.biz/film44/yer-sayora-qochish.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-06/1591553137_skubi-du.jpg",Skubi-Du
+https://v.uzbeklar.biz/film44/skubi-du-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604982163_uzunquloq-piter.jpg",Uzunquloq piter
+https://v.uzbeklar.biz/film44/uzun-quloq-piter.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1605108757_qizil-boshmoqcha-va-yetti-gnom.jpg",Qizil boshmoqcha va yetti gnom
+https://v.uzbeklar.biz/film44/qizil-bashmoqcha-7-gnom.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1605418587_olga.jpg",Olg'a
+https://v.uzbeklar.biz/film44/olga-mult.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-11/1604772108_kichkina-shahzoda.jpg",Kichkina shahzoda
+https://v.uzbeklar.biz/film44/kichkina-shaxzoda.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2020-07/1595698087_asteriks-va-sehrli-damlama.jpg",Asteriks va sehrli damlama
+https://files.uzbeklar.biz/film3/asteriks-damlama.mp4
