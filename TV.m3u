@@ -6,7 +6,6 @@ https://shamilbro.ucoz.net/ustanovka.mp4
 #EXTINF:-1 tvg-logo="https://iptvshams.ru/tarif.jpg" tvg-name="Telegram  @Shamil_bro" group-title="- ИНФО -",ПЛАТНЫЕ ТАРИФЫ
 https://iptvshams.ru/tarif.mp4
 
-
 #EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/pervyj_kanal.png" group-title="Россия",Первый
 http://stream.shbro.org/stream/14B37BB54802/dca4videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/pervyj_hd.png" group-title="Россия",Первый HD
@@ -131,8 +130,6 @@ http://stream.shbro.org/stream/14B37BB54802/add5videom3u8.m3u8
 http://stream.shbro.org/stream/14B37BB54802/c3cfvideom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2aed101e0161b3c955fe58a3d826868838ec9533-4872176-images-thumbs&n=13" group-title="Россия",8 Канал
 http://stream.shbro.org/stream/14B37BB54802/1c1fvideom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a25eea0dd4a676556c43b5a765772394e6264977-5342217-images-thumbs&n=13" group-title="Россия",Лад
-http://stream.shbro.org/stream/14B37BB54802/7375videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5ae55f174ecb86b0153e643c17723e7c3174f211-5331535-images-thumbs&n=13" group-title="Россия",ЛДПР ТВ
 http://stream.shbro.org/stream/14B37BB54802/0cebvideom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=c9e36640406913e381c8d2732b69cf6c356108fb-16874194-images-thumbs&n=13" group-title="Россия",Мужской
@@ -151,14 +148,10 @@ http://stream.shbro.org/stream/14B37BB54802/fb3evideom3u8.m3u8
 http://stream.shbro.org/stream/14B37BB54802/c966videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=75bb7ac2163e056030e8803e604046dd91cf3197-4078450-images-thumbs&n=13" group-title="Россия",Карусель
 http://stream.shbro.org/stream/14B37BB54802/b897videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=60b60dc69760ddbebafe5a6c0841dde65e747756-4344598-images-thumbs&n=13" group-title="Россия",Мультиландия
-http://stream.shbro.org/stream/14B37BB54802/33fevideom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b25b3d242e77841889d2bdba0b5d2ed88a574fa7-4860157-images-thumbs&n=13" group-title="Россия",СТС Kids
 http://stream.shbro.org/stream/14B37BB54802/e2a8videom3u8_0676.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2274370e8cc5c33dd9c6024fca31b90c8fbeaccd-15428448-images-thumbs&n=13" group-title="Россия",TiJi
 http://stream.shbro.org/stream/14B37BB54802/62e0videom3u8.m3u8
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1a6a67469d019fb8765d6d1562d10f731f4d0c83-4557596-images-thumbs&n=13" group-title="Россия",Малыш
-http://stream.shbro.org/stream/14B37BB54802/446evideom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b7ade2a84ed57307095a1dbbb322084e742c4725-9068341-images-thumbs&n=13" group-title="Россия",2x2
 http://stream.shbro.org/stream/14B37BB54802/add5indexm3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=79e08dbe24487acf2401636771cbbc17241ed3ba-5339388-images-thumbs&n=13" group-title="Россия",Охотник и рыболов
@@ -167,3 +160,49 @@ http://stream.shbro.org/stream/14B37BB54802/f00cindexm3u8.m3u8
 http://stream.shbro.org/stream/14B37BB54802/1047indexm3u8.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6f85ec284f051fdb6f12678944477b9dc43a6b48-5501386-images-thumbs&n=13" group-title="Россия",Дом Кино
 http://stream.shbro.org/stream/14B37BB54802/1054indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1efee9e88e1da0ee45795066182d7b0a70e27617-4937272-images-thumbs&n=13" group-title="Россия",Bollywood
+http://stream.shbro.org/stream/14B37BB54802/1444indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=c9cbb179dc393268fa05045248cc8e9c4660e428-5710449-images-thumbs&n=13" group-title="Россия",Hollywood
+http://stream.shbro.org/stream/14B37BB54802/1443indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=fdf3aae7e0e62540480e5eb9b2c699d6c5315cc9-4366154-images-thumbs&n=13" group-title="Россия",Дорама
+http://stream.shbro.org/stream/14B37BB54802/1273indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=cc276f03c61b51b03e31aaaa10dca6a86c5cf72d-13106613-images-thumbs&n=13" group-title="Россия",Cinema
+http://stream.shbro.org/stream/14B37BB54802/1227indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5bb17572631c6b7667d639bfec26ddc9c61ed2a2-5834638-images-thumbs&n=13" group-title="Россия",Кинопоказ
+http://stream.shbro.org/stream/14B37BB54802/1057indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=61bbf996825767fe3558c3c92a767baccd766aec-5041987-images-thumbs&n=13" group-title="Россия",viju Premiere
+http://stream.shbro.org/stream/14B37BB54802/1294indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=8cd9de43cf949e692a96b5bd6f532c04b9cebb10-11939057-images-thumbs&n=13" group-title="Россия",viju Serial
+http://stream.shbro.org/stream/14B37BB54802/1295indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2af290272c28f5c121749b9d5bcbca92f5ad836f-11044949-images-thumbs&n=13" group-title="Россия",viju Comedy
+http://stream.shbro.org/stream/14B37BB54802/1293indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/xG5rS6087/9ce7b8aAgUd8/gNLxpiC67ZDyc7vXmdx26HYxQ7FUq9bt2vhVf1mKPHRGJRMZYTM3-JTVelXbBbdtLV80aequFR6rluxiNETWOcTmNcIhz1jE04b7V6mMVz2iAFJ09O4HSf840Q9pL8lREJPkDmY15R7WIo1SX6AivU0b0LjeLcOKuJIdcAUQRJ4zohKVtkp_ooayqufbfRcs98GxZQS-lv2OOVMqCQl-ZQMy570kVmU9dYJsYG5ToR08KmYZnv4RT-kzjnAmo6VdwDFARycaLfCkUJimap6EL8eQU-dEfXQf3xrRK_koLQbC4lcfVJTn_qRA7PO-kKNebRsWae2tkxx5E10wNmA1bAIzQ5Zl2vyjNbCbFgiPZ82FQgF3V5xnDa_qcSuYSM1GgcEVfSS3lJ7Wgn0ALuJyrz4Y90ifrNPeqWCvIPZTl52xgBBH9CpMk_RSeLWrDQX_tJFQxCcclr0_64CKuatP5NMhVR7mZsdfx4B8sB-TkrwsKPVL_NzwDuqAzuC0sne-0YDDpEUI3RO1oHvluq12_MWwYbdEDAfcnImAuqmbHLZAIzTv5jaGjdexfsG-IZBsHElnWA9so18aoL_yJXMk3iEQYQf1Gn8QlDBZNcq-pm_lwTP29I0GDA96kMp7qNxmwgL0XrYFhs2kY98SPwFivk4at0lOrmJf-RIes9YBd1zCAFMndRpuk9Tgufc6rxd_x6BTxZT-hp7dmiBqyriulLOBJny3R1S-VPG8wv8CUh29WkYrXS0yHcrjHECXY6R-AVKidScpTJOWUAplOT137CYQUXfXTJUsH6pA2kmKDKeAQ5d9N4T2fqYDfdCuQWN8LSiFe22vUv6rEV4B9NPk7TOCMgY3Sr6ChgE6xNsM5RzmoAP15H5nHMxKMImYSpwlYEB1XXZUBW12YK2BvJIA79w4JAkdHyBMGQGtcQVCdLzzU2GGZ8gNgsWi6dUKvpYud_IRZJV-1O7sG6OKQ" group-title="Россия",viju TV1000 Action
+http://stream.shbro.org/stream/14B37BB54802/1225indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1db6aa5218822b66d7d7d758d728c884f192e6a8-4984071-images-thumbs&n=13" group-title="Россия",Кинокомедия
+http://stream.shbro.org/stream/14B37BB54802/1232indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=5e2bc28c8ece4362949777dda2b95174b99961a9-4843806-images-thumbs&n=13" group-title="Россия",Киносвидания
+http://stream.shbro.org/stream/14B37BB54802/1203indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1135f9e7fe4ae33d3f5aeb52703ce481937195b9-5218109-images-thumbs&n=13" group-title="Россия",Киносерия
+http://stream.shbro.org/stream/14B37BB54802/1235indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2ff24b293d1d3a1c010a28931a8912111bec7828-4445006-images-thumbs&n=13" group-title="Россия",Наше Новое Кино
+http://stream.shbro.org/stream/14B37BB54802/1051indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=1e782f779912c144220e422c7c9559929e892cb3-4080658-images-thumbs&n=13" group-title="Россия",Родное Кино
+http://stream.shbro.org/stream/14B37BB54802/1052indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=ccd633d3cd9fad747e0d75f202f03a6a54b4bef4-13213257-images-thumbs&n=13" group-title="Россия",Мужское кино
+http://stream.shbro.org/stream/14B37BB54802/1237indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a679a4f1cf40cd9ab9996062478022c8d98c8fd4-5253517-images-thumbs&n=13" group-title="Россия",Индийское кино
+http://stream.shbro.org/stream/14B37BB54802/1060indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a1fc63c5da167abeea1a7d0904ba1d335c5f90e2-5234655-images-thumbs&n=13" group-title="Россия",Киномикс
+http://stream.shbro.org/stream/14B37BB54802/1233indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b26d76a732048d5727591fb85d072754f819fb4f-5340669-images-thumbs&n=13" group-title="Россия",Киносемья
+http://stream.shbro.org/stream/14B37BB54802/1234indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6a6d116e99a2e2b319651f7642f4aa26d19471fa-4450142-images-thumbs&n=13" group-title="Россия",Кинохит
+http://stream.shbro.org/stream/14B37BB54802/1055indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=07d63d86d8ca3713eb3c163fdec962dce6d5814d-5886904-images-thumbs&n=13" group-title="Россия",Кинопремьера
+http://stream.shbro.org/stream/14B37BB54802/1207indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3c75a04baf2881ece8e68525096ea1d8ae378332-5875773-images-thumbs&n=13",ТНВ
+http://stream.shbro.org/stream/14B37BB54802/1062indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=3faf485d1d5a328f43ec38eeef7fadc77b13ff8f-9862264-images-thumbs&n=13" group-title="Россия",National Geographic
+http://stream.shbro.org/stream/14B37BB54802/1041indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b5d7a3739a1e75d1a245367a5300f0b407f73590-4442045-images-thumbs&n=13" group-title="Россия",Nat Geo Wild
+http://stream.shbro.org/stream/14B37BB54802/1042indexm3u8.m3u8
