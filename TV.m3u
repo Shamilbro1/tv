@@ -6,7 +6,7 @@ https://shamilbro.ucoz.net/ustanovka.mp4
 #EXTINF:-1 tvg-logo="https://iptvshams.ru/tarif.jpg" tvg-name="Telegram  @Shamil_bro" group-title="- ИНФО -",ПЛАТНЫЕ ТАРИФЫ
 https://iptvshams.ru/tarif.mp4
 
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/pervyj_kanal.png" group-title="Россия",Первый
 http://stream.shbro.org/stream/14B37BB54802/dca4videom3u8.m3u8
 #EXTINF:-1 tvg-logo="https://shams.usite.pro/Log/pervyj_hd.png" group-title="Россия",Первый HD
@@ -71,5 +71,51 @@ http://stream.shbro.org/stream/14B37BB54802/73f8videom3u8.m3u8
 http://stream.shbro.org/stream/14B37BB54802/d860indexm3u8.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TPdn1NKF/Nano-TV.png" group-title="Россия",Нано ТВ
 http://stream.shbro.org/stream/14B37BB54802/a017indexm3u8.m3u8
-#EXTINF:-1 group-title="Россия",CGTN Русский
-http://stream.shbro.org/stream/14B37BB54802/8ed9indexm3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsCXGHtP/Viasat-Explore.png" group-title="Россия",Viasat Explore
+http://stream.shbro.org/stream/14B37BB54802/96eavideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ9M94gY/Viasat-History.png" group-title="Россия",Viasat History
+http://stream.shbro.org/stream/14B37BB54802/7b9avideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fJVHbwF/Viasat-Nature.png" group-title="Россия",Viasat Nature
+http://stream.shbro.org/stream/14B37BB54802/5bf7videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Twb656Hx/Bol'saa-Azia.png" group-title="Россия",Большая Азия
+http://stream.shbro.org/stream/14B37BB54802/9c47videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6XxxT21/Zagorodnaa-zizn'.png" group-title="Россия",Загородная жизнь
+http://stream.shbro.org/stream/14B37BB54802/4c44videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yF3vvX5/Moa-Planeta.png" group-title="Россия",Моя Планета
+http://stream.shbro.org/stream/14B37BB54802/848dvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rsQMM9Pw/sci-fi.png" group-title="Россия",.sci-fi
+http://stream.shbro.org/stream/14B37BB54802/14d1videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f916d64a55d64e4c5a8e6c2c3330a3fa41d9cef2-4569102-images-thumbs&n=13" group-title="Россия",Amedia Hit
+http://stream.shbro.org/stream/14B37BB54802/3ee5videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=cdba460c28bc2af2524cf6e6979d0fd88e931158-5878417-images-thumbs&n=13" group-title="Россия",Amedia 2
+http://stream.shbro.org/stream/14B37BB54802/2824videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=952c2ec26e547a326c3c7a65a6c8211ce59f5e9f-4948622-images-thumbs&n=13" group-title="Россия",TV1000
+http://stream.shbro.org/stream/14B37BB54802/be84videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=2d2fb9029d2340dce9867d06318c9da4618620dd-5423330-images-thumbs&n=13" group-title="Россия",TV1000 Русское кино
+http://stream.shbro.org/stream/14B37BB54802/abb2videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/Jj52sq152/5fb535cm/yD5ciKOrkO9oF0rQiDDaEcsiNs6zJ7cFnAYqO3P0CA3SrrWsoTV3UMGHEhx0uGeg3eTp41DrBTXVEsEFJQqmwh1qaayXb6S-zcJOgTzUGmFbY8J_Z6ezdFkmm0rGgfk4Ul7wibejxRLmMeVvcy8VYnlh6TZA2qHklPFX5DRuo3Ca_8xrwzgQefjVa7bK0FrRCmMxDsH04Wc75tk_J6BLbaIJ9452MKUyRUNErDMexeA5kWmmIZp1FTYghqAEP4DDGS5fu5MKAqqJl6tWydJLkJvyku7TNdCHObYKDJXQuv-A29S8ZEFUobbwVhzxbRUzCrHrFpJaphT2QbaA186RQRjuvosQioF6-AfbBurQGaEp4iFcQtewpVrHyE7mARktIyg0DhTwdJHVYtdc0z3XMiqC61dQO2WG54HFQRTc0UMLTDzI86jASrmmewQZkIuTufETTVFH0weLNHk9toBpnUMZBKz0ANSBpkDlrrAtlWAZg3s1g_qnxsVgRQDVf0Pim1--CVNY0FmatIhkCiFaYulTUP6CZkOVi4YKT8eTiZ2ya9XcRjDGItVChq9BbeXQuZFpJUAZBYUEItZSRX6BcNuNnhtwueP56UQZFqlQCoIpU4Af0WSQtItXyQ7XoQjfAbm0vsbytjLmMWT9Ah4XsBtz66dTGqYm1GG0klXdYMCYv804s1jQ20jmWzdrY-oRqNFRbBDXU3f4VnhNh7OancCYVT5mcsdQBmLXbGFfNaBowYkWkEmF5GRTBlB0DKKzav1fm2Hb4lvaZUnWKWD6I7ggIE8wJpCV6MRpHMUAOo_wqUfPxfCng8aA91zSHeVieZFZpyJKZzckYrTQ5-0AsMg9XxuiO6B5mIZrdRgACbNaEYC-M0aTNoiUGIz0IIqP8bqFvsXCFBH20TVfYfzH0Htw-aeQCYVFpBLWwaVswxG43W2rA6hDmrtUakaL0cjD6yOTfBIGIeR7VKov1bEa8" group-title="Россия",TV1000 Action
+http://stream.shbro.org/stream/14B37BB54802/2de8videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=0fb7cd2513a7744b5d1077463191ee41d68a81a5-4550718-images-thumbs&n=13" group-title="Россия",Vip Comedy
+http://stream.shbro.org/stream/14B37BB54802/3605videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=b9931318e304033a950534d3de7dd020c51fdd55-5886904-images-thumbs&n=13" group-title="Россия",VIP Megahit
+http://stream.shbro.org/stream/14B37BB54802/d057videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=83010656b7e2e6edaf622c03096197820bcb6a12-7749798-images-thumbs&n=13" group-title="Россия",Vip Premiere
+http://stream.shbro.org/stream/14B37BB54802/808fvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=fed13589212ac997048216009aa1bb705ab00585-2834022-images-thumbs&n=13" group-title="Россия",Домашний
+http://stream.shbro.org/stream/14B37BB54802/3f8avideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/xG5rS6087/9ce7b8aAgUd8/gNLxpiC67ZDyc7vXmdx26HYxQ7FUq9bt2vhlL0nvScRmYENJQVN3iNGlf_UrECdtWDoxfA_rRRuOpplnETQDnLHGNcJBL1jkQwb7V6mMVz2iAFJ09O4HSf840Q9pL8lREJPkDmY15R7WIo1SX6AivU0b0LjeLcOKuJIdcAUQRJ4zohKVtkp_ooayqufbfRcs98GxZQS-lv2OOVMqCQl-ZQMy570kVmU9dYJsYG5ToR08KmYZnv4RT-kzjnAmo6VdwDFARycaLfCkUJimap6EL8eQU-dEfXQf3xrRK_koLQbC4lcfVJTn_qRA7PO-kKNebRsWae2tkxx5E10wNmA1bAIzQ5Zl2vyjNbCbFgiPZ82FQgF3V5xnDa_qcSuYSM1GgcEVfSS3lJ7Wgn0ALuJyrz4Y90ifrNPeqWCvIPZTl52xgBBH9CpMk_RSeLWrDQX_tJFQxCcclr0_64CKuatP5NMhVR7mZsdfx4B8sB-TkrwsKPVL_NzwDuqAzuC0sne-0YDDpEUI3RO1oHvluq12_MWwYbdEDAfcnImAuqmbHLZAIzTv5jaGjdexfsG-IZBsHElnWA9so18aoL_yJXMk3iEQYQf1Gn8QlDBZNcq-pm_lwTP29I0GDA96kMp7qNxmwgL0XrYFhs2kY98SPwFivk4at0lOrmJf-RIes9YBd1zCAFMndRpuk9Tgufc6rxd_x6BTxZT-hp7dmiBqyriulLOBJny3R1S-VPG8wv8CUh29WkYrXS0yHcrjHECXY6R-AVKidScpTJOWUAplOT137CYQUXfXTJUsH6pA2kmKDKeAQ5d9N4T2fqYDfdCuQWN8LSiFe22vUv6rEV4B9NPk7TOCMgY3Sr6ChgE6xNsM5RzmoAP15H5nHMxKMImYSpwlYEB1XXZUBW12YK2BvJIA79w4JAkdHyBMGQGtcQVCdLzzU2GGZ8gNgsWi6dUKvpYud_IRZJV-1O7sG6OKQ" group-title="Россия",Жара
+http://stream.shbro.org/stream/14B37BB54802/a23fvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=261f6db0015d535a2d4139687b6631305818f154-4726647-images-thumbs&n=13" group-title="Россия",Живи Активно
+http://stream.shbro.org/stream/14B37BB54802/77d8videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=c3b13206cc9cb0884ba46b1e8085a4d98f2bac52-5713591-images-thumbs&n=13" group-title="Россия",Здоровое ТВ
+http://stream.shbro.org/stream/14B37BB54802/0f3fvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=a63d75344b15eef2ee8bc32d0a9e760f93922bf0-7086231-images-thumbs&n=13" group-title="Россия",Киносат
+http://stream.shbro.org/stream/14B37BB54802/4709videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=d83acf804cc371125af5ec8387aa008716ce7ba7-5305831-images-thumbs&n=13" group-title="Россия",Киносвидание
+http://stream.shbro.org/stream/14B37BB54802/d866videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=f9e0a153f799c966deae13071fdd7d9f132f4883-13202504-images-thumbs&n=13" group-title="Россия",КиноХит
+http://stream.shbro.org/stream/14B37BB54802/7475videom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://yandex-images.clstorage.net/xG5rS6087/9ce7b8aAgUd8/gNLxpiC67ZDyc7vXmdx26HYxQ7FUq9bt2vgwSuzKeQGmEDYMYXYifdGA6oWLdVINPW80PM_OVU7-44wyMQRTeeS2NQIB32iko_b7V6mMVz2iAFJ09O4HSf840Q9pL8lREJPkDmY15R7WIo1SX6AivU0b0LjeLcOKuJIdcAUQRJ4zohKVtkp_ooayqufbfRcs98GxZQS-lv2OOVMqCQl-ZQMy570kVmU9dYJsYG5ToR08KmYZnv4RT-kzjnAmo6VdwDFARycaLfCkUJimap6EL8eQU-dEfXQf3xrRK_koLQbC4lcfVJTn_qRA7PO-kKNebRsWae2tkxx5E10wNmA1bAIzQ5Zl2vyjNbCbFgiPZ82FQgF3V5xnDa_qcSuYSM1GgcEVfSS3lJ7Wgn0ALuJyrz4Y90ifrNPeqWCvIPZTl52xgBBH9CpMk_RSeLWrDQX_tJFQxCcclr0_64CKuatP5NMhVR7mZsdfx4B8sB-TkrwsKPVL_NzwDuqAzuC0sne-0YDDpEUI3RO1oHvluq12_MWwYbdEDAfcnImAuqmbHLZAIzTv5jaGjdexfsG-IZBsHElnWA9so18aoL_yJXMk3iEQYQf1Gn8QlDBZNcq-pm_lwTP29I0GDA96kMp7qNxmwgL0XrYFhs2kY98SPwFivk4at0lOrmJf-RIes9YBd1zCAFMndRpuk9Tgufc6rxd_x6BTxZT-hp7dmiBqyriulLOBJny3R1S-VPG8wv8CUh29WkYrXS0yHcrjHECXY6R-AVKidScpTJOWUAplOT137CYQUXfXTJUsH6pA2kmKDKeAQ5d9N4T2fqYDfdCuQWN8LSiFe22vUv6rEV4B9NPk7TOCMgY3Sr6ChgE6xNsM5RzmoAP15H5nHMxKMImYSpwlYEB1XXZUBW12YK2BvJIA79w4JAkdHyBMGQGtcQVCdLzzU2GGZ8gNgsWi6dUKvpYud_IRZJV-1O7sG6OKQ" group-title="Россия",Пятница
+http://stream.shbro.org/stream/14B37BB54802/7e8fvideom3u8.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=45fdd6db49aca933f5838310fff7077a3c357749-10115611-images-thumbs&n=13" group-title="Россия",Русский бестселлер
+http://stream.shbro.org/stream/14B37BB54802/08a7videom3u8.m3u8
